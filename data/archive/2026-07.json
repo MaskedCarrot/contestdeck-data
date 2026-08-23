@@ -1,0 +1,502 @@
+{
+  "schemaVersion": 1,
+  "month": "2026-07",
+  "contests": [
+    {
+      "id": "clist:68087791",
+      "platform": "codechef",
+      "name": "Starters 245 (Rated till 6 star)",
+      "url": "https://www.codechef.com/START245",
+      "startsAt": "2026-07-01T14:30:00Z",
+      "endsAt": "2026-07-01T16:30:00Z"
+    },
+    {
+      "id": "clist:68478902",
+      "platform": "nowcoder",
+      "name": "牛客小白月赛135 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/137264",
+      "startsAt": "2026-07-03T11:00:00Z",
+      "endsAt": "2026-07-03T13:00:00Z"
+    },
+    {
+      "id": "clist:68695578",
+      "platform": "cphof",
+      "name": "Midnight Code Cup 2026",
+      "url": "https://cphof.org/standings/mcc/2026",
+      "startsAt": "2026-07-04T00:00:00Z",
+      "endsAt": "2026-07-04T00:00:00Z"
+    },
+    {
+      "id": "clist:68899180",
+      "platform": "luogu",
+      "name": "JRKSJ Round 10 庆典 热身赛 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/299349",
+      "startsAt": "2026-07-04T06:00:00Z",
+      "endsAt": "2026-07-04T10:00:00Z"
+    },
+    {
+      "id": "clist:68087818",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 465",
+      "url": "https://atcoder.jp/contests/abc465",
+      "startsAt": "2026-07-04T12:00:00Z",
+      "endsAt": "2026-07-04T13:40:00Z"
+    },
+    {
+      "id": "clist:68319824",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 186",
+      "url": "https://leetcode.com/contest/biweekly-contest-186",
+      "startsAt": "2026-07-04T14:30:00Z",
+      "endsAt": "2026-07-04T16:00:00Z"
+    },
+    {
+      "id": "clist:68507917",
+      "platform": "leetcode",
+      "name": "Weekly Contest 509",
+      "url": "https://leetcode.com/contest/weekly-contest-509",
+      "startsAt": "2026-07-05T02:30:00Z",
+      "endsAt": "2026-07-05T04:00:00Z"
+    },
+    {
+      "id": "clist:68899179",
+      "platform": "luogu",
+      "name": "[ICPC2017 Shenyang R] ICPC 2017 区域赛沈阳站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/334255",
+      "startsAt": "2026-07-05T05:00:00Z",
+      "endsAt": "2026-07-05T10:00:00Z"
+    },
+    {
+      "id": "clist:68480370",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 151 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/137267",
+      "startsAt": "2026-07-05T11:00:00Z",
+      "endsAt": "2026-07-05T13:00:00Z"
+    },
+    {
+      "id": "clist:68592192",
+      "platform": "codechef",
+      "name": "Weekend Dev Challenge 57: LLD Projects",
+      "url": "https://www.codechef.com/DEVWEEKEND57",
+      "startsAt": "2026-07-03T18:30:00Z",
+      "endsAt": "2026-07-05T18:30:00Z"
+    },
+    {
+      "id": "clist:68592812",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 010 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY010",
+      "startsAt": "2026-07-06T13:30:00Z",
+      "endsAt": "2026-07-06T16:30:00Z"
+    },
+    {
+      "id": "clist:68453058",
+      "platform": "codeforces",
+      "name": "Educational Codeforces Round 192 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contests/2242",
+      "startsAt": "2026-07-06T14:35:00Z",
+      "endsAt": "2026-07-06T16:35:00Z"
+    },
+    {
+      "id": "clist:68761877",
+      "platform": "cphof",
+      "name": "AtCoder World Tour Finals 2026 Heuristic",
+      "url": "https://cphof.org/standings/atcoder_wth/2026",
+      "startsAt": "2026-07-07T00:00:00Z",
+      "endsAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": "clist:68393065",
+      "platform": "atcoder",
+      "name": "World Tour Finals 2026 Heuristic",
+      "url": "https://atcoder.jp/contests/awtf2026heuristic",
+      "startsAt": "2026-07-07T00:00:00Z",
+      "endsAt": "2026-07-08T10:00:00Z"
+    },
+    {
+      "id": "clist:68356367",
+      "platform": "codechef",
+      "name": "Starters 246 (Rated till 4 Star)",
+      "url": "https://www.codechef.com/START246",
+      "startsAt": "2026-07-08T14:30:00Z",
+      "endsAt": "2026-07-08T16:30:00Z"
+    },
+    {
+      "id": "clist:68761876",
+      "platform": "cphof",
+      "name": "AtCoder World Tour Finals 2026 Algorithm",
+      "url": "https://cphof.org/standings/atcoder_wt/2026",
+      "startsAt": "2026-07-09T00:00:00Z",
+      "endsAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": "clist:68393066",
+      "platform": "atcoder",
+      "name": "World Tour Finals 2026 Algorithm",
+      "url": "https://atcoder.jp/contests/awtf2026algo",
+      "startsAt": "2026-07-09T02:00:00Z",
+      "endsAt": "2026-07-09T09:00:00Z"
+    },
+    {
+      "id": "clist:68393067",
+      "platform": "atcoder",
+      "name": "World Tour Finals 2026 Algorithm（Open Contest）",
+      "url": "https://atcoder.jp/contests/awtf2026algo-open",
+      "startsAt": "2026-07-09T02:00:00Z",
+      "endsAt": "2026-07-09T09:00:00Z"
+    },
+    {
+      "id": "clist:68899178",
+      "platform": "luogu",
+      "name": "【LGR-291-Div.2】洛谷 7 月月赛 II & FDOI Round 3 - Ciallo [ioi]",
+      "url": "https://www.luogu.com.cn/contest/334075",
+      "startsAt": "2026-07-10T06:00:00Z",
+      "endsAt": "2026-07-10T10:00:00Z"
+    },
+    {
+      "id": "clist:68565874",
+      "platform": "nowcoder",
+      "name": "牛客挑战赛90 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/137418",
+      "startsAt": "2026-07-10T11:00:00Z",
+      "endsAt": "2026-07-10T14:00:00Z"
+    },
+    {
+      "id": "clist:68899177",
+      "platform": "luogu",
+      "name": "【LGR-288-Div.2】洛谷 7 月月赛 I & lnOI Round 1 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/297106",
+      "startsAt": "2026-07-11T06:00:00Z",
+      "endsAt": "2026-07-11T10:00:00Z"
+    },
+    {
+      "id": "clist:68202452",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 466",
+      "url": "https://atcoder.jp/contests/abc466",
+      "startsAt": "2026-07-11T12:00:00Z",
+      "endsAt": "2026-07-11T13:40:00Z"
+    },
+    {
+      "id": "clist:68572091",
+      "platform": "leetcode",
+      "name": "Weekly Contest 510",
+      "url": "https://leetcode.com/contest/weekly-contest-510",
+      "startsAt": "2026-07-12T02:30:00Z",
+      "endsAt": "2026-07-12T04:00:00Z"
+    },
+    {
+      "id": "clist:68899176",
+      "platform": "luogu",
+      "name": "[ICPC2017 Qingdao R] ICPC 2017 区域赛青岛站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/334256",
+      "startsAt": "2026-07-12T05:00:00Z",
+      "endsAt": "2026-07-12T10:00:00Z"
+    },
+    {
+      "id": "clist:68899175",
+      "platform": "luogu",
+      "name": "【LGR-290-Div.4】洛谷入门赛 #49 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/332884",
+      "startsAt": "2026-07-12T11:00:00Z",
+      "endsAt": "2026-07-12T13:00:00Z"
+    },
+    {
+      "id": "clist:68587507",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 152 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/137448",
+      "startsAt": "2026-07-12T11:00:00Z",
+      "endsAt": "2026-07-12T13:00:00Z"
+    },
+    {
+      "id": "clist:68506788",
+      "platform": "atcoder",
+      "name": "AtCoder Regular Contest-- 224",
+      "url": "https://atcoder.jp/contests/arc224",
+      "startsAt": "2026-07-12T12:00:00Z",
+      "endsAt": "2026-07-12T14:00:00Z"
+    },
+    {
+      "id": "clist:68633798",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1108 (Div. 2)",
+      "url": "https://codeforces.com/contests/2246",
+      "startsAt": "2026-07-12T14:35:00Z",
+      "endsAt": "2026-07-12T16:50:00Z"
+    },
+    {
+      "id": "clist:68719373",
+      "platform": "codechef",
+      "name": "Weekend Dev Challenge 58: LLD Projects",
+      "url": "https://www.codechef.com/DEVWEEKEND58",
+      "startsAt": "2026-07-10T18:30:00Z",
+      "endsAt": "2026-07-12T18:30:00Z"
+    },
+    {
+      "id": "clist:68742756",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 011 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY011",
+      "startsAt": "2026-07-13T13:30:00Z",
+      "endsAt": "2026-07-13T16:30:00Z"
+    },
+    {
+      "id": "clist:68492696",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1109 (Div. 3)",
+      "url": "https://codeforces.com/contests/2244",
+      "startsAt": "2026-07-14T14:35:00Z",
+      "endsAt": "2026-07-14T16:50:00Z"
+    },
+    {
+      "id": "clist:68356715",
+      "platform": "codechef",
+      "name": "Starters 247 (Rated till 5 star)",
+      "url": "https://www.codechef.com/START247",
+      "startsAt": "2026-07-15T14:30:00Z",
+      "endsAt": "2026-07-15T16:30:00Z"
+    },
+    {
+      "id": "clist:68724585",
+      "platform": "codeforces",
+      "name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/contests/2245",
+      "startsAt": "2026-07-16T14:45:00Z",
+      "endsAt": "2026-07-16T17:15:00Z"
+    },
+    {
+      "id": "clist:68087699",
+      "platform": "nowcoder",
+      "name": "2026牛客暑期多校训练营1 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/133876",
+      "startsAt": "2026-07-17T04:00:00Z",
+      "endsAt": "2026-07-17T09:00:00Z"
+    },
+    {
+      "id": "clist:68899174",
+      "platform": "luogu",
+      "name": "「FAOI」Round 13 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/332970",
+      "startsAt": "2026-07-17T06:00:00Z",
+      "endsAt": "2026-07-17T10:00:00Z"
+    },
+    {
+      "id": "clist:68338472",
+      "platform": "atcoder",
+      "name": "estie Programming Contest 2026 (AtCoder Heuristic Contest 068)",
+      "url": "https://atcoder.jp/contests/ahc068",
+      "startsAt": "2026-07-18T06:00:00Z",
+      "endsAt": "2026-07-18T10:00:00Z"
+    },
+    {
+      "id": "clist:68899173",
+      "platform": "luogu",
+      "name": "Algo Beat Contest 009 &「MROI」Round 1 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/326863",
+      "startsAt": "2026-07-18T06:00:00Z",
+      "endsAt": "2026-07-18T10:00:00Z"
+    },
+    {
+      "id": "clist:68319697",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 467",
+      "url": "https://atcoder.jp/contests/abc467",
+      "startsAt": "2026-07-18T12:00:00Z",
+      "endsAt": "2026-07-18T13:40:00Z"
+    },
+    {
+      "id": "clist:68572090",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 187",
+      "url": "https://leetcode.com/contest/biweekly-contest-187",
+      "startsAt": "2026-07-18T14:30:00Z",
+      "endsAt": "2026-07-18T16:00:00Z"
+    },
+    {
+      "id": "clist:68635073",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1111 (Div. 2)",
+      "url": "https://codeforces.com/contests/2247",
+      "startsAt": "2026-07-18T14:35:00Z",
+      "endsAt": "2026-07-18T16:35:00Z"
+    },
+    {
+      "id": "clist:68696722",
+      "platform": "leetcode",
+      "name": "Weekly Contest 511",
+      "url": "https://leetcode.com/contest/weekly-contest-511",
+      "startsAt": "2026-07-19T02:30:00Z",
+      "endsAt": "2026-07-19T04:00:00Z"
+    },
+    {
+      "id": "clist:68899172",
+      "platform": "luogu",
+      "name": "[ICPC 2025 Shanghai R] ICPC 2025 区域赛上海站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/335418",
+      "startsAt": "2026-07-19T05:00:00Z",
+      "endsAt": "2026-07-19T10:00:00Z"
+    },
+    {
+      "id": "clist:68698450",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 153 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/137561",
+      "startsAt": "2026-07-19T11:00:00Z",
+      "endsAt": "2026-07-19T13:00:00Z"
+    },
+    {
+      "id": "clist:68506791",
+      "platform": "atcoder",
+      "name": "AtCoder Regular Contest 225",
+      "url": "https://atcoder.jp/contests/arc225",
+      "startsAt": "2026-07-19T12:00:00Z",
+      "endsAt": "2026-07-19T14:00:00Z"
+    },
+    {
+      "id": "clist:68860642",
+      "platform": "codechef",
+      "name": "Weekend Dev Challenge 59: LLD Projects",
+      "url": "https://www.codechef.com/DEVWEEKEND59",
+      "startsAt": "2026-07-17T18:30:00Z",
+      "endsAt": "2026-07-19T18:30:00Z"
+    },
+    {
+      "id": "clist:68880972",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 012 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY012",
+      "startsAt": "2026-07-20T13:30:00Z",
+      "endsAt": "2026-07-20T16:30:00Z"
+    },
+    {
+      "id": "clist:68503959",
+      "platform": "nowcoder",
+      "name": "2026牛客暑期多校训练营2 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/133877",
+      "startsAt": "2026-07-22T04:00:00Z",
+      "endsAt": "2026-07-22T09:00:00Z"
+    },
+    {
+      "id": "clist:68356971",
+      "platform": "codechef",
+      "name": "Starters 248 (Unrated)",
+      "url": "https://www.codechef.com/START248",
+      "startsAt": "2026-07-22T14:30:00Z",
+      "endsAt": "2026-07-22T16:30:00Z"
+    },
+    {
+      "id": "clist:68917249",
+      "platform": "nowcoder",
+      "name": "2026牛客暑期多校训练营3 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/133878",
+      "startsAt": "2026-07-24T04:00:00Z",
+      "endsAt": "2026-07-24T09:00:00Z"
+    },
+    {
+      "id": "clist:68437903",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 468",
+      "url": "https://atcoder.jp/contests/abc468",
+      "startsAt": "2026-07-25T12:00:00Z",
+      "endsAt": "2026-07-25T13:40:00Z"
+    },
+    {
+      "id": "clist:68917720",
+      "platform": "leetcode",
+      "name": "Weekly Contest 512",
+      "url": "https://leetcode.com/contest/weekly-contest-512",
+      "startsAt": "2026-07-26T02:30:00Z",
+      "endsAt": "2026-07-26T04:00:00Z"
+    },
+    {
+      "id": "clist:68899171",
+      "platform": "luogu",
+      "name": "[ICPC2017 Xi' an R] ICPC 2017 区域赛西安站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/339238",
+      "startsAt": "2026-07-26T05:00:00Z",
+      "endsAt": "2026-07-26T10:00:00Z"
+    },
+    {
+      "id": "clist:68899170",
+      "platform": "luogu",
+      "name": "【LGR-294-Div.4】洛谷入门赛 #50 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/338569",
+      "startsAt": "2026-07-26T11:00:00Z",
+      "endsAt": "2026-07-26T13:00:00Z"
+    },
+    {
+      "id": "clist:68842584",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 154 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/137840",
+      "startsAt": "2026-07-26T11:00:00Z",
+      "endsAt": "2026-07-26T13:00:00Z"
+    },
+    {
+      "id": "clist:68938374",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1112 (Div. 1)",
+      "url": "https://codeforces.com/contests/2249",
+      "startsAt": "2026-07-26T14:35:00Z",
+      "endsAt": "2026-07-26T17:05:00Z"
+    },
+    {
+      "id": "clist:68938375",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1112 (Div. 2)",
+      "url": "https://codeforces.com/contests/2250",
+      "startsAt": "2026-07-26T14:35:00Z",
+      "endsAt": "2026-07-26T17:05:00Z"
+    },
+    {
+      "id": "clist:69010429",
+      "platform": "codechef",
+      "name": "Weekend Dev Challenge 60: LLD Projects",
+      "url": "https://www.codechef.com/DEVWEEKEND60",
+      "startsAt": "2026-07-24T18:30:00Z",
+      "endsAt": "2026-07-26T18:30:00Z"
+    },
+    {
+      "id": "clist:69028032",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 013 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY013",
+      "startsAt": "2026-07-27T13:30:00Z",
+      "endsAt": "2026-07-27T16:30:00Z"
+    },
+    {
+      "id": "clist:68983264",
+      "platform": "nowcoder",
+      "name": "2026牛客暑期多校训练营4 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/133879",
+      "startsAt": "2026-07-29T04:00:00Z",
+      "endsAt": "2026-07-29T09:00:00Z"
+    },
+    {
+      "id": "clist:68357848",
+      "platform": "codechef",
+      "name": "Starters 249 (Rated till 6 star)",
+      "url": "https://www.codechef.com/START249",
+      "startsAt": "2026-07-29T14:30:00Z",
+      "endsAt": "2026-07-29T17:00:00Z"
+    },
+    {
+      "id": "clist:68983265",
+      "platform": "nowcoder",
+      "name": "2026牛客暑期多校训练营5 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/133880",
+      "startsAt": "2026-07-31T04:00:00Z",
+      "endsAt": "2026-07-31T09:15:00Z"
+    },
+    {
+      "id": "clist:68962473",
+      "platform": "luogu",
+      "name": "【LGR-295-Div.2】洛谷 7 月月赛 III & FDOI Round 2 - 泠 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/330173",
+      "startsAt": "2026-07-31T06:00:00Z",
+      "endsAt": "2026-07-31T10:00:00Z"
+    }
+  ]
+}

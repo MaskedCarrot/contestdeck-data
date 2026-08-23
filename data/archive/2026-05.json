@@ -1,0 +1,622 @@
+{
+  "schemaVersion": 1,
+  "month": "2026-05",
+  "contests": [
+    {
+      "id": "clist:66984151",
+      "platform": "nowcoder",
+      "name": "2026牛客五一集训派对day1 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/133439",
+      "startsAt": "2026-05-01T04:00:00Z",
+      "endsAt": "2026-05-01T09:00:00Z"
+    },
+    {
+      "id": "clist:68901352",
+      "platform": "luogu",
+      "name": "华东理工大学 2026 年程序设计竞赛春季校赛（重现赛） [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/321841",
+      "startsAt": "2026-05-01T05:00:00Z",
+      "endsAt": "2026-05-01T10:00:00Z"
+    },
+    {
+      "id": "clist:67016462",
+      "platform": "hackerrank",
+      "name": "HackerRank Orchestrate",
+      "url": "https://hackerrank.com/contests/hackerrank-orchestrate-may26",
+      "startsAt": "2026-05-01T05:30:00Z",
+      "endsAt": "2026-05-02T05:30:00Z"
+    },
+    {
+      "id": "clist:68901351",
+      "platform": "luogu",
+      "name": "Algo Beat Contest 004 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/314924",
+      "startsAt": "2026-05-02T07:00:00Z",
+      "endsAt": "2026-05-02T09:00:00Z"
+    },
+    {
+      "id": "clist:67108027",
+      "platform": "nowcoder",
+      "name": "2026牛客五一集训派对day2 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/133506",
+      "startsAt": "2026-05-02T04:00:00Z",
+      "endsAt": "2026-05-02T09:00:00Z"
+    },
+    {
+      "id": "clist:66928512",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 456",
+      "url": "https://atcoder.jp/contests/abc456",
+      "startsAt": "2026-05-02T12:00:00Z",
+      "endsAt": "2026-05-02T13:40:00Z"
+    },
+    {
+      "id": "clist:67456927",
+      "platform": "cphof",
+      "name": "M(IT)^2 2026 Spring Invitational",
+      "url": "https://cphof.org/standings/mitit_spring/2026",
+      "startsAt": "2026-05-03T00:00:00Z",
+      "endsAt": "2026-05-03T00:00:00Z"
+    },
+    {
+      "id": "clist:67164668",
+      "platform": "leetcode",
+      "name": "Weekly Contest 500",
+      "url": "https://leetcode.com/contest/weekly-contest-500",
+      "startsAt": "2026-05-03T02:30:00Z",
+      "endsAt": "2026-05-03T04:00:00Z"
+    },
+    {
+      "id": "clist:67108028",
+      "platform": "nowcoder",
+      "name": "2026牛客五一集训派对day3 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/133507",
+      "startsAt": "2026-05-03T04:00:00Z",
+      "endsAt": "2026-05-03T09:00:00Z"
+    },
+    {
+      "id": "clist:68901350",
+      "platform": "luogu",
+      "name": "【MX-X28】梦熊 X 组 · 暴暴龙赛 & FAOI-R12（同步赛） [guzhi, ioi]",
+      "url": "https://www.luogu.com.cn/contest/323598",
+      "startsAt": "2026-05-03T06:00:00Z",
+      "endsAt": "2026-05-03T10:30:00Z"
+    },
+    {
+      "id": "clist:67110771",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 142 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/133790",
+      "startsAt": "2026-05-03T11:00:00Z",
+      "endsAt": "2026-05-03T13:00:00Z"
+    },
+    {
+      "id": "clist:66890336",
+      "platform": "atcoder",
+      "name": "AtCoder Regular Contest 218",
+      "url": "https://atcoder.jp/contests/arc218",
+      "startsAt": "2026-05-03T12:00:00Z",
+      "endsAt": "2026-05-03T14:00:00Z"
+    },
+    {
+      "id": "clist:67320784",
+      "platform": "codechef",
+      "name": "Weekend Dev Challenge 48: Golang Projects",
+      "url": "https://www.codechef.com/DEVWEEKEND48",
+      "startsAt": "2026-05-01T18:30:00Z",
+      "endsAt": "2026-05-03T18:30:00Z"
+    },
+    {
+      "id": "clist:67159645",
+      "platform": "nowcoder",
+      "name": "2026牛客五一集训派对day4 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/133508",
+      "startsAt": "2026-05-04T04:00:00Z",
+      "endsAt": "2026-05-04T09:00:00Z"
+    },
+    {
+      "id": "clist:68901349",
+      "platform": "luogu",
+      "name": "【LGR-265-Div.3】洛谷基础赛 #34 & YLLOI Round 4 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/274106",
+      "startsAt": "2026-05-04T06:00:00Z",
+      "endsAt": "2026-05-04T09:30:00Z"
+    },
+    {
+      "id": "clist:67336733",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 001 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY001",
+      "startsAt": "2026-05-04T12:30:00Z",
+      "endsAt": "2026-05-04T15:30:00Z"
+    },
+    {
+      "id": "clist:68901348",
+      "platform": "luogu",
+      "name": "Algo Beat Contest 005 & 「ZzzOI」Round 1 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/316306",
+      "startsAt": "2026-05-05T06:00:00Z",
+      "endsAt": "2026-05-05T08:00:00Z"
+    },
+    {
+      "id": "clist:67094456",
+      "platform": "atcoder",
+      "name": "Next DP Contest",
+      "url": "https://atcoder.jp/contests/ndpc",
+      "startsAt": "2026-05-05T04:00:00Z",
+      "endsAt": "2026-05-05T09:00:00Z"
+    },
+    {
+      "id": "clist:67159646",
+      "platform": "nowcoder",
+      "name": "2026牛客五一集训派对day5 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/133509",
+      "startsAt": "2026-05-05T04:00:00Z",
+      "endsAt": "2026-05-05T09:00:00Z"
+    },
+    {
+      "id": "clist:67506379",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1097 (Div. 1, Based on Zhili Cup 2026)",
+      "url": "https://codeforces.com/contests/2223",
+      "startsAt": "2026-05-06T06:05:00Z",
+      "endsAt": "2026-05-06T08:35:00Z"
+    },
+    {
+      "id": "clist:67506380",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1097 (Div. 2, Based on Zhili Cup 2026)",
+      "url": "https://codeforces.com/contests/2224",
+      "startsAt": "2026-05-06T06:05:00Z",
+      "endsAt": "2026-05-06T08:35:00Z"
+    },
+    {
+      "id": "clist:67320783",
+      "platform": "codechef",
+      "name": "Starters 237 (Rated till 5 star)",
+      "url": "https://www.codechef.com/START237",
+      "startsAt": "2026-05-06T14:30:00Z",
+      "endsAt": "2026-05-06T16:30:00Z"
+    },
+    {
+      "id": "clist:67330863",
+      "platform": "nowcoder",
+      "name": "牛客小白月赛132 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/134527",
+      "startsAt": "2026-05-08T11:00:00Z",
+      "endsAt": "2026-05-08T13:00:00Z"
+    },
+    {
+      "id": "clist:66860796",
+      "platform": "atcoder",
+      "name": "Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）",
+      "url": "https://atcoder.jp/contests/abc457",
+      "startsAt": "2026-05-09T12:00:00Z",
+      "endsAt": "2026-05-09T13:40:00Z"
+    },
+    {
+      "id": "clist:67164667",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 182",
+      "url": "https://leetcode.com/contest/biweekly-contest-182",
+      "startsAt": "2026-05-09T14:30:00Z",
+      "endsAt": "2026-05-09T16:00:00Z"
+    },
+    {
+      "id": "clist:67625942",
+      "platform": "cphof",
+      "name": "Universal Cup 2026",
+      "url": "https://cphof.org/standings/ucup/2026",
+      "startsAt": "2026-05-10T00:00:00Z",
+      "endsAt": "2026-05-10T00:00:00Z"
+    },
+    {
+      "id": "clist:67396852",
+      "platform": "leetcode",
+      "name": "Weekly Contest 501",
+      "url": "https://leetcode.com/contest/weekly-contest-501",
+      "startsAt": "2026-05-10T02:30:00Z",
+      "endsAt": "2026-05-10T04:00:00Z"
+    },
+    {
+      "id": "clist:68901347",
+      "platform": "luogu",
+      "name": "西安交通大学 2026 年程序设计竞赛校赛（同步赛） [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/314922",
+      "startsAt": "2026-05-10T05:30:00Z",
+      "endsAt": "2026-05-10T10:30:00Z"
+    },
+    {
+      "id": "clist:67332021",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 143 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/134529",
+      "startsAt": "2026-05-10T11:00:00Z",
+      "endsAt": "2026-05-10T13:00:00Z"
+    },
+    {
+      "id": "clist:67259962",
+      "platform": "atcoder",
+      "name": "AtCoder Regular Contest-- 219",
+      "url": "https://atcoder.jp/contests/arc219",
+      "startsAt": "2026-05-10T12:00:00Z",
+      "endsAt": "2026-05-10T14:00:00Z"
+    },
+    {
+      "id": "clist:67470804",
+      "platform": "codechef",
+      "name": "Weekend Dev Challenge 49: Golang Projects",
+      "url": "https://www.codechef.com/DEVWEEKEND49",
+      "startsAt": "2026-05-08T18:30:00Z",
+      "endsAt": "2026-05-10T18:30:00Z"
+    },
+    {
+      "id": "clist:67540312",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 002 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY002",
+      "startsAt": "2026-05-11T12:30:00Z",
+      "endsAt": "2026-05-11T15:30:00Z"
+    },
+    {
+      "id": "clist:67320782",
+      "platform": "codechef",
+      "name": "Starters 238 (Rated till 6 star)",
+      "url": "https://www.codechef.com/START238",
+      "startsAt": "2026-05-13T14:30:00Z",
+      "endsAt": "2026-05-13T17:00:00Z"
+    },
+    {
+      "id": "clist:67486999",
+      "platform": "nowcoder",
+      "name": "牛客挑战赛88 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/134814",
+      "startsAt": "2026-05-15T11:00:00Z",
+      "endsAt": "2026-05-15T14:00:00Z"
+    },
+    {
+      "id": "clist:68901346",
+      "platform": "luogu",
+      "name": "「Spring OI」Round 1 & 春日清新赛 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/318187",
+      "startsAt": "2026-05-16T00:30:00Z",
+      "endsAt": "2026-05-16T04:30:00Z"
+    },
+    {
+      "id": "clist:67736914",
+      "platform": "atcoder",
+      "name": "SCPC 2026 Div.3",
+      "url": "https://atcoder.jp/contests/scpc2026-div3",
+      "startsAt": "2026-05-16T04:30:00Z",
+      "endsAt": "2026-05-16T07:30:00Z"
+    },
+    {
+      "id": "clist:67736913",
+      "platform": "atcoder",
+      "name": "SCPC 2026 Div.2",
+      "url": "https://atcoder.jp/contests/scpc2026-div2",
+      "startsAt": "2026-05-16T04:00:00Z",
+      "endsAt": "2026-05-16T08:00:00Z"
+    },
+    {
+      "id": "clist:67736912",
+      "platform": "atcoder",
+      "name": "SCPC 2026 Div.1",
+      "url": "https://atcoder.jp/contests/scpc2026-div1",
+      "startsAt": "2026-05-16T04:00:00Z",
+      "endsAt": "2026-05-16T08:30:00Z"
+    },
+    {
+      "id": "clist:67158894",
+      "platform": "atcoder",
+      "name": "AtCoder Heuristic Contest 065",
+      "url": "https://atcoder.jp/contests/ahc065",
+      "startsAt": "2026-05-16T06:00:00Z",
+      "endsAt": "2026-05-16T10:00:00Z"
+    },
+    {
+      "id": "clist:68901345",
+      "platform": "luogu",
+      "name": "【MX-S14】梦熊 S 组 · 羽毛赛 & KWOI Round 2（同步赛） [guzhi, ioi]",
+      "url": "https://www.luogu.com.cn/contest/326643",
+      "startsAt": "2026-05-16T06:00:00Z",
+      "endsAt": "2026-05-16T10:00:00Z"
+    },
+    {
+      "id": "clist:67209185",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 458",
+      "url": "https://atcoder.jp/contests/abc458",
+      "startsAt": "2026-05-16T12:00:00Z",
+      "endsAt": "2026-05-16T13:40:00Z"
+    },
+    {
+      "id": "clist:67283563",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1098 (Div. 2)",
+      "url": "https://codeforces.com/contests/2228",
+      "startsAt": "2026-05-16T14:35:00Z",
+      "endsAt": "2026-05-16T16:50:00Z"
+    },
+    {
+      "id": "clist:67536994",
+      "platform": "leetcode",
+      "name": "Weekly Contest 502",
+      "url": "https://leetcode.com/contest/weekly-contest-502",
+      "startsAt": "2026-05-17T02:30:00Z",
+      "endsAt": "2026-05-17T04:00:00Z"
+    },
+    {
+      "id": "clist:68901344",
+      "platform": "luogu",
+      "name": "『LYROI』Round 1 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/304379",
+      "startsAt": "2026-05-17T06:00:00Z",
+      "endsAt": "2026-05-17T10:00:00Z"
+    },
+    {
+      "id": "clist:67533857",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 144 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/134957",
+      "startsAt": "2026-05-17T11:00:00Z",
+      "endsAt": "2026-05-17T13:00:00Z"
+    },
+    {
+      "id": "clist:67259964",
+      "platform": "atcoder",
+      "name": "AtCoder Regular Contest++ 220",
+      "url": "https://atcoder.jp/contests/arc220",
+      "startsAt": "2026-05-17T12:00:00Z",
+      "endsAt": "2026-05-17T14:30:00Z"
+    },
+    {
+      "id": "clist:67638793",
+      "platform": "codechef",
+      "name": "Weekend Dev Challenge 50: Golang Projects",
+      "url": "https://www.codechef.com/DEVWEEKEND50",
+      "startsAt": "2026-05-15T18:30:00Z",
+      "endsAt": "2026-05-17T18:30:00Z"
+    },
+    {
+      "id": "clist:67704150",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 003 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY003",
+      "startsAt": "2026-05-18T12:30:00Z",
+      "endsAt": "2026-05-18T15:30:00Z"
+    },
+    {
+      "id": "clist:67482170",
+      "platform": "codeforces",
+      "name": "Educational Codeforces Round 190 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contests/2230",
+      "startsAt": "2026-05-18T14:35:00Z",
+      "endsAt": "2026-05-18T16:35:00Z"
+    },
+    {
+      "id": "clist:67320781",
+      "platform": "codechef",
+      "name": "Starters 239 (Rated till 5 star)",
+      "url": "https://www.codechef.com/START239",
+      "startsAt": "2026-05-20T14:30:00Z",
+      "endsAt": "2026-05-20T16:30:00Z"
+    },
+    {
+      "id": "clist:67641553",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1099 (Div. 2)",
+      "url": "https://codeforces.com/contests/2231",
+      "startsAt": "2026-05-21T14:35:00Z",
+      "endsAt": "2026-05-21T16:35:00Z"
+    },
+    {
+      "id": "clist:67678418",
+      "platform": "atcoder",
+      "name": "AtCoder 企業対抗リーグ 2026 第1戦",
+      "url": "https://atcoder.jp/contests/c-league2026-1",
+      "startsAt": "2026-05-22T11:00:00Z",
+      "endsAt": "2026-05-22T13:00:00Z"
+    },
+    {
+      "id": "clist:67683307",
+      "platform": "atcoder",
+      "name": "AtCoder 企業対抗リーグ 2026 第1戦(オープンコンテスト)",
+      "url": "https://atcoder.jp/contests/c-league2026-1-open",
+      "startsAt": "2026-05-22T11:00:00Z",
+      "endsAt": "2026-05-22T13:00:00Z"
+    },
+    {
+      "id": "clist:68901343",
+      "platform": "luogu",
+      "name": "【LGR-284-Div.4】洛谷入门赛 #47 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/326688",
+      "startsAt": "2026-05-22T11:00:00Z",
+      "endsAt": "2026-05-22T13:00:00Z"
+    },
+    {
+      "id": "clist:67487961",
+      "platform": "nowcoder",
+      "name": "牛客练习赛153 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/134820",
+      "startsAt": "2026-05-22T11:00:00Z",
+      "endsAt": "2026-05-22T13:30:00Z"
+    },
+    {
+      "id": "clist:68901342",
+      "platform": "luogu",
+      "name": "中山大学 2025 年程序设计竞赛校赛（重现赛） [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/323927",
+      "startsAt": "2026-05-23T05:00:00Z",
+      "endsAt": "2026-05-23T10:00:00Z"
+    },
+    {
+      "id": "clist:67293892",
+      "platform": "atcoder",
+      "name": "Tokio Marine & Nichido Fire Insurance Programming Contest 2026 (AtCoder Beginner Contest 459)",
+      "url": "https://atcoder.jp/contests/abc459",
+      "startsAt": "2026-05-23T12:00:00Z",
+      "endsAt": "2026-05-23T13:40:00Z"
+    },
+    {
+      "id": "clist:67536993",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 183",
+      "url": "https://leetcode.com/contest/biweekly-contest-183",
+      "startsAt": "2026-05-23T14:30:00Z",
+      "endsAt": "2026-05-23T16:00:00Z"
+    },
+    {
+      "id": "clist:67340477",
+      "platform": "codeforces",
+      "name": "Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/contests/2229",
+      "startsAt": "2026-05-23T14:35:00Z",
+      "endsAt": "2026-05-23T17:35:00Z"
+    },
+    {
+      "id": "clist:67582427",
+      "platform": "leetcode",
+      "name": "Weekly Contest 503",
+      "url": "https://leetcode.com/contest/weekly-contest-503",
+      "startsAt": "2026-05-24T02:30:00Z",
+      "endsAt": "2026-05-24T04:00:00Z"
+    },
+    {
+      "id": "clist:68901341",
+      "platform": "luogu",
+      "name": "Algo Beat Contest 008 &「WWOI」Round 3 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/324945",
+      "startsAt": "2026-05-24T06:00:00Z",
+      "endsAt": "2026-05-24T10:00:00Z"
+    },
+    {
+      "id": "clist:67538904",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 145 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/134981",
+      "startsAt": "2026-05-24T11:00:00Z",
+      "endsAt": "2026-05-24T13:00:00Z"
+    },
+    {
+      "id": "clist:67802715",
+      "platform": "codechef",
+      "name": "Weekend Dev Challenge 51: Golang Projects",
+      "url": "https://www.codechef.com/DEVWEEKEND51",
+      "startsAt": "2026-05-22T18:30:00Z",
+      "endsAt": "2026-05-24T18:30:00Z"
+    },
+    {
+      "id": "clist:67883126",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 004 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY004",
+      "startsAt": "2026-05-25T12:30:00Z",
+      "endsAt": "2026-05-25T15:30:00Z"
+    },
+    {
+      "id": "clist:67320780",
+      "platform": "codechef",
+      "name": "Starters 240 (Rated till 6 star)",
+      "url": "https://www.codechef.com/START240",
+      "startsAt": "2026-05-27T14:30:00Z",
+      "endsAt": "2026-05-27T16:30:00Z"
+    },
+    {
+      "id": "clist:67660497",
+      "platform": "nowcoder",
+      "name": "牛客小白月赛133 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/135365",
+      "startsAt": "2026-05-29T11:00:00Z",
+      "endsAt": "2026-05-29T13:00:00Z"
+    },
+    {
+      "id": "clist:68901340",
+      "platform": "luogu",
+      "name": "【MX-J30】梦熊 J 组 · H₂O赛 & FDOI Round 1 [guzhi, ioi]",
+      "url": "https://www.luogu.com.cn/contest/327902",
+      "startsAt": "2026-05-30T01:00:00Z",
+      "endsAt": "2026-05-30T04:00:00Z"
+    },
+    {
+      "id": "clist:67951864",
+      "platform": "nowcoder",
+      "name": "第九届广西大学生程序设计大赛暨2026邀请赛（热身赛） [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/136163",
+      "startsAt": "2026-05-30T07:00:00Z",
+      "endsAt": "2026-05-30T09:00:00Z"
+    },
+    {
+      "id": "clist:68901339",
+      "platform": "luogu",
+      "name": "【LGR-285-Div.2】洛谷蓝桥杯国赛模拟赛 2026 [oi]",
+      "url": "https://www.luogu.com.cn/contest/326698",
+      "startsAt": "2026-05-30T06:00:00Z",
+      "endsAt": "2026-05-30T10:00:00Z"
+    },
+    {
+      "id": "clist:67273262",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 460",
+      "url": "https://atcoder.jp/contests/abc460",
+      "startsAt": "2026-05-30T12:00:00Z",
+      "endsAt": "2026-05-30T13:40:00Z"
+    },
+    {
+      "id": "clist:67654044",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1101 (Div. 2)",
+      "url": "https://codeforces.com/contests/2232",
+      "startsAt": "2026-05-30T14:35:00Z",
+      "endsAt": "2026-05-30T16:35:00Z"
+    },
+    {
+      "id": "clist:67872655",
+      "platform": "leetcode",
+      "name": "Weekly Contest 504",
+      "url": "https://leetcode.com/contest/weekly-contest-504",
+      "startsAt": "2026-05-31T02:30:00Z",
+      "endsAt": "2026-05-31T04:00:00Z"
+    },
+    {
+      "id": "clist:67951865",
+      "platform": "nowcoder",
+      "name": "第九届广西大学生程序设计大赛暨2026邀请赛 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/136164",
+      "startsAt": "2026-05-31T01:00:00Z",
+      "endsAt": "2026-05-31T06:00:00Z"
+    },
+    {
+      "id": "clist:68901338",
+      "platform": "luogu",
+      "name": "2024 年“金山杯”华中地区高校第十八届程序设计邀请赛重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/326649",
+      "startsAt": "2026-05-31T05:00:00Z",
+      "endsAt": "2026-05-31T10:00:00Z"
+    },
+    {
+      "id": "clist:67843814",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 146 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/135882",
+      "startsAt": "2026-05-31T11:00:00Z",
+      "endsAt": "2026-05-31T13:00:00Z"
+    },
+    {
+      "id": "clist:67297817",
+      "platform": "atcoder",
+      "name": "AtCoder Regular Contest++ 221",
+      "url": "https://atcoder.jp/contests/arc221",
+      "startsAt": "2026-05-31T12:00:00Z",
+      "endsAt": "2026-05-31T14:30:00Z"
+    },
+    {
+      "id": "clist:67955168",
+      "platform": "codechef",
+      "name": "Weekend Dev Challenge 52: Golang Projects",
+      "url": "https://www.codechef.com/DEVWEEKEND52",
+      "startsAt": "2026-05-29T18:30:00Z",
+      "endsAt": "2026-05-31T18:30:00Z"
+    }
+  ]
+}

@@ -1,5 +1,48 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "1970-01-01T00:00:00Z",
-  "archives": []
+  "updatedAt": "2026-08-23T12:21:03Z",
+  "archives": [
+    {
+      "month": "2026-02",
+      "path": "data/archive/2026-02.json",
+      "count": 24,
+      "sha256": "08d71008238f8b0f77dd591fe2c0dd0dffb76100242bf198398318891712e1af"
+    },
+    {
+      "month": "2026-03",
+      "path": "data/archive/2026-03.json",
+      "count": 68,
+      "sha256": "c762805200b43f71ae0a76ca2c752b0d3d7c4c062d30b3c515cf4304a851b4e6"
+    },
+    {
+      "month": "2026-04",
+      "path": "data/archive/2026-04.json",
+      "count": 74,
+      "sha256": "8e8dfac85ccb78bc1e91d435bf07ef282bd6307d85ae120f00135b3badadb7c8"
+    },
+    {
+      "month": "2026-05",
+      "path": "data/archive/2026-05.json",
+      "count": 77,
+      "sha256": "345b647cab1a90626aebfdb0e29cc0fc6505895150c9a3eaa3288ae2f046f9d2"
+    },
+    {
+      "month": "2026-06",
+      "path": "data/archive/2026-06.json",
+      "count": 58,
+      "sha256": "7122d98bf5c7bd7ed7c0bbf170510feb062e1a7412ed8cba36d42e7c1c71197e"
+    },
+    {
+      "month": "2026-07",
+      "path": "data/archive/2026-07.json",
+      "count": 62,
+      "sha256": "568ed4c67b1f899faa91d2c5a215aa9d1b679db8c20f7bb83cf055e6bbcbc2d9"
+    },
+    {
+      "month": "2026-08",
+      "path": "data/archive/2026-08.json",
+      "count": 62,
+      "sha256": "0480b959465e6b0e47a43946c9dd39c26292f3c9c97319ca070a00235bdf3a30"
+    }
+  ]
 }
