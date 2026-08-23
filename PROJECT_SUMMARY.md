@@ -12,7 +12,9 @@ This file is the durable context for future AI agents working on the ContestDeck
 - Upstream source: [CList](https://clist.by)
 - Runtime: Python 3.13 standard library only; no database, server, package installation, or paid hosting.
 - Initial implementation commit: `d233f77` (`feat: create ContestDeck data feed`).
-- Initial GitHub Actions CI passed. The feed starts as an empty schema-valid placeholder and becomes populated after repository secrets are configured and the first `reconcile` workflow succeeds.
+- Initial GitHub Actions CI passed.
+- The first authenticated data refresh succeeded in commit `9708601`, populating the current feed and monthly archives from February through August 2026. This confirms that the GitHub secrets and CList authentication work.
+- Remaining migration work: confirm a following unchanged `incremental` run creates no commit, migrate Android/backend consumers, then deprecate and archive the legacy repository.
 
 The legacy repository, <https://github.com/MaskedCarrot/trucoder-data>, is still public and unarchived until the replacement feed is verified. Its API key was published in Git history and must be revoked. Never copy that key into this repository, documentation, an app, a backend, logs, issues, or chat.
 
