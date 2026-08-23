@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-23T12:21:03Z",
+  "updatedAt": "2026-08-23T13:00:22Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -22,22 +22,6 @@
       "url": "https://www.codechef.com/PLACEPREP04",
       "startsAt": "2026-08-21T18:30:42Z",
       "endsAt": "2026-08-23T20:29:00Z"
-    },
-    {
-      "id": "clist:69641527",
-      "platform": "luogu",
-      "name": "【LGR-300-Div.4】洛谷入门赛 #51 [rated, ioi]",
-      "url": "https://www.luogu.com.cn/contest/350031",
-      "startsAt": "2026-08-23T11:00:00Z",
-      "endsAt": "2026-08-23T13:00:00Z"
-    },
-    {
-      "id": "clist:69687107",
-      "platform": "nowcoder",
-      "name": "牛客周赛 Round 158 [IOI]",
-      "url": "https://ac.nowcoder.com/acm/contest/139659",
-      "startsAt": "2026-08-23T11:00:00Z",
-      "endsAt": "2026-08-23T13:00:00Z"
     },
     {
       "id": "clist:69738961",

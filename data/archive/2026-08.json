@@ -497,6 +497,22 @@
       "url": "https://www.luogu.com.cn/contest/350606",
       "startsAt": "2026-08-23T05:00:00Z",
       "endsAt": "2026-08-23T10:00:00Z"
+    },
+    {
+      "id": "clist:69641527",
+      "platform": "luogu",
+      "name": "【LGR-300-Div.4】洛谷入门赛 #51 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/350031",
+      "startsAt": "2026-08-23T11:00:00Z",
+      "endsAt": "2026-08-23T13:00:00Z"
+    },
+    {
+      "id": "clist:69687107",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 158 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/139659",
+      "startsAt": "2026-08-23T11:00:00Z",
+      "endsAt": "2026-08-23T13:00:00Z"
     }
   ]
 }
