@@ -3,14 +3,6 @@
   "month": "2026-02",
   "contests": [
     {
-      "id": "clist:65420528",
-      "platform": "codeforces",
-      "name": "Codeforces Round 1081 (Div. 2)",
-      "url": "https://codeforces.com/contests/2192",
-      "startsAt": "2026-02-21T14:35:00Z",
-      "endsAt": "2026-02-21T16:35:00Z"
-    },
-    {
       "id": "clist:65286067",
       "platform": "leetcode",
       "name": "Weekly Contest 490",
