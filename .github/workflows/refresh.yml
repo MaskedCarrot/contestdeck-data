@@ -1,0 +1,77 @@
+name: Refresh contest data
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+    - cron: "47 2 * * 0"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Collection mode
+        required: true
+        default: reconcile
+        type: choice
+        options:
+          - incremental
+          - reconcile
+          - dry-run
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contest-data-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      CLIST_USERNAME: ${{ secrets.CLIST_USERNAME }}
+      CLIST_API_KEY: ${{ secrets.CLIST_API_KEY }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+      - name: Test collector
+        run: python -m unittest discover -s tests -v
+      - name: Select collection mode
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            mode="${{ inputs.mode }}"
+          elif [[ "${{ github.event.schedule }}" == "47 2 * * 0" ]]; then
+            mode="reconcile"
+          else
+            mode="incremental"
+          fi
+          echo "COLLECTION_MODE=$mode" >> "$GITHUB_ENV"
+      - name: Refresh data
+        run: python collector.py "$COLLECTION_MODE"
+      - name: Commit and push changed data
+        if: env.COLLECTION_MODE != 'dry-run'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Contest data is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "data: refresh contests"
+          for attempt in 1 2; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            if [[ "$attempt" == 2 ]]; then
+              exit 1
+            fi
+          done
