@@ -3,14 +3,6 @@
   "month": "2026-02",
   "contests": [
     {
-      "id": "clist:64810205",
-      "platform": "atcoder",
-      "name": "AtCoder Beginner Contest 446",
-      "url": "https://atcoder.jp/contests/abc446",
-      "startsAt": "2026-02-21T12:00:00Z",
-      "endsAt": "2026-02-21T13:40:00Z"
-    },
-    {
       "id": "clist:65420528",
       "platform": "codeforces",
       "name": "Codeforces Round 1081 (Div. 2)",
