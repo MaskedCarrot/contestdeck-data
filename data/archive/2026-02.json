@@ -3,14 +3,6 @@
   "month": "2026-02",
   "contests": [
     {
-      "id": "clist:65286067",
-      "platform": "leetcode",
-      "name": "Weekly Contest 490",
-      "url": "https://leetcode.com/contest/weekly-contest-490",
-      "startsAt": "2026-02-22T02:30:00Z",
-      "endsAt": "2026-02-22T04:00:00Z"
-    },
-    {
       "id": "clist:65377226",
       "platform": "luogu",
       "name": "【LGR-268-Div.2】洛谷 2 月月赛 IV & TBOI Round 1 [ioi]",
