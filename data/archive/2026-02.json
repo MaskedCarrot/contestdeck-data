@@ -3,14 +3,6 @@
   "month": "2026-02",
   "contests": [
     {
-      "id": "clist:65377226",
-      "platform": "luogu",
-      "name": "【LGR-268-Div.2】洛谷 2 月月赛 IV & TBOI Round 1 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/251331",
-      "startsAt": "2026-02-22T06:00:00Z",
-      "endsAt": "2026-02-22T10:00:00Z"
-    },
-    {
       "id": "clist:65329904",
       "platform": "nowcoder",
       "name": "牛客周赛 Round 132 [IOI]",
