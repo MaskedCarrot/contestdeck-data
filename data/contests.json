@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T07:18:48Z",
+  "updatedAt": "2026-08-24T13:11:33Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -128,6 +128,14 @@
       "endsAt": "2026-08-30T14:30:00Z"
     },
     {
+      "id": "clist:69866256",
+      "platform": "nowcoder",
+      "name": "牛客挑战赛91 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/139935",
+      "startsAt": "2026-09-04T11:00:00Z",
+      "endsAt": "2026-09-04T14:00:00Z"
+    },
+    {
       "id": "clist:69784724",
       "platform": "atcoder",
       "name": "AtCoder Regular Contest-- 229",
@@ -142,6 +150,14 @@
       "url": "https://atcoder.jp/contests/abc474",
       "startsAt": "2026-09-06T04:10:00Z",
       "endsAt": "2026-09-06T05:50:00Z"
+    },
+    {
+      "id": "clist:69866257",
+      "platform": "nowcoder",
+      "name": "牛客小白月赛137 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/139936",
+      "startsAt": "2026-09-11T11:00:00Z",
+      "endsAt": "2026-09-11T13:00:00Z"
     },
     {
       "id": "clist:69760923",

@@ -3,14 +3,6 @@
   "month": "2026-02",
   "contests": [
     {
-      "id": "clist:65329904",
-      "platform": "nowcoder",
-      "name": "牛客周赛 Round 132 [IOI]",
-      "url": "https://ac.nowcoder.com/acm/contest/128672",
-      "startsAt": "2026-02-22T11:00:00Z",
-      "endsAt": "2026-02-22T13:00:00Z"
-    },
-    {
       "id": "clist:65181951",
       "platform": "atcoder",
       "name": "AtCoder Regular Contest 215",
