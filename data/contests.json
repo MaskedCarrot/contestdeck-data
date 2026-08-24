@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T04:03:42Z",
+  "updatedAt": "2026-08-24T07:18:48Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -166,6 +166,22 @@
       "url": "https://atcoder.jp/contests/ahc071",
       "startsAt": "2026-09-13T10:00:00Z",
       "endsAt": "2026-09-13T14:00:00Z"
+    },
+    {
+      "id": "clist:69860271",
+      "platform": "atcoder",
+      "name": "AtCoder 企業対抗リーグ 2026 第2戦",
+      "url": "https://atcoder.jp/contests/c-league2026-2",
+      "startsAt": "2026-09-18T11:00:00Z",
+      "endsAt": "2026-09-18T13:00:00Z"
+    },
+    {
+      "id": "clist:69860983",
+      "platform": "atcoder",
+      "name": "AtCoder 企業対抗リーグ 2026 第2戦(オープンコンテスト)",
+      "url": "https://atcoder.jp/contests/c-league2026-2-open",
+      "startsAt": "2026-09-18T11:00:00Z",
+      "endsAt": "2026-09-18T13:00:00Z"
     },
     {
       "id": "clist:69816770",
