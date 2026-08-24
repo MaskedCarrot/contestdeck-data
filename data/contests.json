@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-24T13:11:33Z",
+  "updatedAt": "2026-08-24T18:58:04Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -14,14 +14,6 @@
       "url": "https://codeforces.com/contests/2251",
       "startsAt": "2026-08-14T11:00:00Z",
       "endsAt": "2026-08-28T11:00:00Z"
-    },
-    {
-      "id": "clist:69738961",
-      "platform": "codechef",
-      "name": "Monday Munch - DSA Challenge 017 (Rated)",
-      "url": "https://www.codechef.com/DSAMONDAY017",
-      "startsAt": "2026-08-24T13:30:00Z",
-      "endsAt": "2026-08-24T16:30:00Z"
     },
     {
       "id": "clist:69844675",

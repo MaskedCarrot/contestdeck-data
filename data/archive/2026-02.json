@@ -3,14 +3,6 @@
   "month": "2026-02",
   "contests": [
     {
-      "id": "clist:65482111",
-      "platform": "codechef",
-      "name": "Weekend Dev Challenge 38: Spring Boot Projects",
-      "url": "https://www.codechef.com/DEVWEEKEND38",
-      "startsAt": "2026-02-20T18:30:00Z",
-      "endsAt": "2026-02-22T18:30:00Z"
-    },
-    {
       "id": "clist:64630685",
       "platform": "atcoder",
       "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
