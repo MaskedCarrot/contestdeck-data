@@ -3,14 +3,6 @@
   "month": "2026-02",
   "contests": [
     {
-      "id": "clist:65181951",
-      "platform": "atcoder",
-      "name": "AtCoder Regular Contest 215",
-      "url": "https://atcoder.jp/contests/arc215",
-      "startsAt": "2026-02-22T12:00:00Z",
-      "endsAt": "2026-02-22T14:00:00Z"
-    },
-    {
       "id": "clist:65482111",
       "platform": "codechef",
       "name": "Weekend Dev Challenge 38: Spring Boot Projects",
