@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T13:09:48Z",
+  "updatedAt": "2026-08-25T18:56:08Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -150,6 +150,14 @@
       "url": "https://atcoder.jp/contests/arc229",
       "startsAt": "2026-09-05T12:00:00Z",
       "endsAt": "2026-09-05T14:00:00Z"
+    },
+    {
+      "id": "clist:69899174",
+      "platform": "codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "url": "https://codeforces.com/contests/2259",
+      "startsAt": "2026-09-05T14:35:00Z",
+      "endsAt": "2026-09-05T16:50:00Z"
     },
     {
       "id": "clist:69004622",
