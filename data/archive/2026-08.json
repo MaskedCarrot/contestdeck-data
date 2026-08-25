@@ -537,6 +537,14 @@
       "url": "https://www.luogu.com.cn/contest/353063",
       "startsAt": "2026-08-25T03:50:00Z",
       "endsAt": "2026-08-25T04:30:00Z"
+    },
+    {
+      "id": "clist:69844675",
+      "platform": "luogu",
+      "name": "KismetOI Round 7「春影赛」 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/319258",
+      "startsAt": "2026-08-25T06:10:00Z",
+      "endsAt": "2026-08-25T10:10:00Z"
     }
   ]
 }

@@ -3,22 +3,6 @@
   "month": "2026-02",
   "contests": [
     {
-      "id": "clist:64630685",
-      "platform": "atcoder",
-      "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
-      "url": "https://atcoder.jp/contests/ahc061",
-      "startsAt": "2026-02-13T10:00:00Z",
-      "endsAt": "2026-02-23T10:00:00Z"
-    },
-    {
-      "id": "clist:65428960",
-      "platform": "luogu",
-      "name": "Construction Masters：yrOI R1 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/305992",
-      "startsAt": "2026-02-23T06:30:00Z",
-      "endsAt": "2026-02-23T10:30:00Z"
-    },
-    {
       "id": "clist:65361861",
       "platform": "codechef",
       "name": "Monday Munch - DSA Challenge 26",
