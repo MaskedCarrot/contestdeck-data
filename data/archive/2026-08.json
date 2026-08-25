@@ -529,6 +529,14 @@
       "url": "https://www.codechef.com/DSAMONDAY017",
       "startsAt": "2026-08-24T13:30:00Z",
       "endsAt": "2026-08-24T16:30:00Z"
+    },
+    {
+      "id": "clist:69885742",
+      "platform": "luogu",
+      "name": "测试赛 [icpc]",
+      "url": "https://www.luogu.com.cn/contest/353063",
+      "startsAt": "2026-08-25T03:50:00Z",
+      "endsAt": "2026-08-25T04:30:00Z"
     }
   ]
 }
