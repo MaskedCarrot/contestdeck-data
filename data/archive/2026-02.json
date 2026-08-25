@@ -3,14 +3,6 @@
   "month": "2026-02",
   "contests": [
     {
-      "id": "clist:65361861",
-      "platform": "codechef",
-      "name": "Monday Munch - DSA Challenge 26",
-      "url": "https://www.codechef.com/DSAMONDAY26",
-      "startsAt": "2026-02-23T12:30:00Z",
-      "endsAt": "2026-02-23T15:30:00Z"
-    },
-    {
       "id": "clist:65239422",
       "platform": "codeforces",
       "name": "Codeforces Round 1082 (Div. 1)",
