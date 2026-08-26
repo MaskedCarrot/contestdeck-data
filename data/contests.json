@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-25T18:56:08Z",
+  "updatedAt": "2026-08-26T01:57:02Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -238,6 +238,14 @@
       "url": "https://atcoder.jp/contests/arc230",
       "startsAt": "2026-09-20T12:00:00Z",
       "endsAt": "2026-09-20T14:30:00Z"
+    },
+    {
+      "id": "clist:69907790",
+      "platform": "atcoder",
+      "name": "ALGO ARTIS Programming Contest 2026 September（AtCoder Heuristic Contest 072）",
+      "url": "https://atcoder.jp/contests/ahc072",
+      "startsAt": "2026-09-25T10:00:00Z",
+      "endsAt": "2026-10-05T10:00:00Z"
     },
     {
       "id": "clist:69813614",
