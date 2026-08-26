@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T01:57:02Z",
+  "updatedAt": "2026-08-26T04:01:36Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -30,6 +30,14 @@
       "url": "https://www.codechef.com/START253",
       "startsAt": "2026-08-26T14:30:00Z",
       "endsAt": "2026-08-26T16:30:00Z"
+    },
+    {
+      "id": "clist:69909960",
+      "platform": "luogu",
+      "name": "「YB」OI Round 1 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/344762",
+      "startsAt": "2026-08-27T06:00:00Z",
+      "endsAt": "2026-08-27T10:00:00Z"
     },
     {
       "id": "clist:69889139",
