@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T04:01:36Z",
+  "updatedAt": "2026-08-26T07:07:17Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -26,7 +26,7 @@
     {
       "id": "clist:69715673",
       "platform": "codechef",
-      "name": "Starters 253",
+      "name": "Starters 253 (Rated till 6 star)",
       "url": "https://www.codechef.com/START253",
       "startsAt": "2026-08-26T14:30:00Z",
       "endsAt": "2026-08-26T16:30:00Z"
@@ -54,6 +54,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/139209",
       "startsAt": "2026-08-28T11:00:00Z",
       "endsAt": "2026-08-28T13:30:00Z"
+    },
+    {
+      "id": "clist:69912849",
+      "platform": "codechef",
+      "name": "Placement Prep Weekends - 05",
+      "url": "https://www.codechef.com/PLACEPREP05",
+      "startsAt": "2026-08-28T18:30:26Z",
+      "endsAt": "2026-08-30T20:59:00Z"
     },
     {
       "id": "clist:69189603",
@@ -174,6 +182,14 @@
       "url": "https://atcoder.jp/contests/abc474",
       "startsAt": "2026-09-06T04:10:00Z",
       "endsAt": "2026-09-06T05:50:00Z"
+    },
+    {
+      "id": "clist:69911625",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 160 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/139989",
+      "startsAt": "2026-09-06T11:00:00Z",
+      "endsAt": "2026-09-06T13:00:00Z"
     },
     {
       "id": "clist:69889135",
