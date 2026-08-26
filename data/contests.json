@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T09:55:46Z",
+  "updatedAt": "2026-08-26T13:14:55Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -14,14 +14,6 @@
       "url": "https://codeforces.com/contests/2251",
       "startsAt": "2026-08-14T11:00:00Z",
       "endsAt": "2026-08-28T11:00:00Z"
-    },
-    {
-      "id": "clist:69741153",
-      "platform": "luogu",
-      "name": "Algo Beat Contest 007 & 冰与火之舞主题赛 [icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/316493",
-      "startsAt": "2026-08-26T05:00:00Z",
-      "endsAt": "2026-08-26T10:00:00Z"
     },
     {
       "id": "clist:69715673",
@@ -98,7 +90,7 @@
     {
       "id": "clist:69744408",
       "platform": "codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1118 (Div. 2)",
       "url": "https://codeforces.com/contests/2258",
       "startsAt": "2026-08-29T14:35:00Z",
       "endsAt": "2026-08-29T16:35:00Z"

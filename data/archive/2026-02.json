@@ -3,14 +3,6 @@
   "month": "2026-02",
   "contests": [
     {
-      "id": "clist:65510381",
-      "platform": "luogu",
-      "name": "「DBOI」Round -1 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/273961",
-      "startsAt": "2026-02-24T05:00:00Z",
-      "endsAt": "2026-02-24T10:30:00Z"
-    },
-    {
       "id": "clist:65507734",
       "platform": "luogu",
       "name": "【LGR-269-Div.2】洛谷 2 月月赛 VI & IXOI Round 1 [ioi]",

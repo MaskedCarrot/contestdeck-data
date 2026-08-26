@@ -545,6 +545,14 @@
       "url": "https://www.luogu.com.cn/contest/319258",
       "startsAt": "2026-08-25T06:10:00Z",
       "endsAt": "2026-08-25T10:10:00Z"
+    },
+    {
+      "id": "clist:69741153",
+      "platform": "luogu",
+      "name": "Algo Beat Contest 007 & 冰与火之舞主题赛 [icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/316493",
+      "startsAt": "2026-08-26T05:00:00Z",
+      "endsAt": "2026-08-26T10:00:00Z"
     }
   ]
 }
