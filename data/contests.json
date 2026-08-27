@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T16:34:14Z",
+  "updatedAt": "2026-08-27T00:46:29Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -182,6 +182,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/139989",
       "startsAt": "2026-09-06T11:00:00Z",
       "endsAt": "2026-09-06T13:00:00Z"
+    },
+    {
+      "id": "clist:69930176",
+      "platform": "codeforces",
+      "name": "Educational Codeforces Round 194 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contests/2260",
+      "startsAt": "2026-09-08T14:35:00Z",
+      "endsAt": "2026-09-08T16:35:00Z"
     },
     {
       "id": "clist:69889135",
