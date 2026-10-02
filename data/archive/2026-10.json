@@ -33,6 +33,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/140730",
       "startsAt": "2026-10-02T04:00:00Z",
       "endsAt": "2026-10-02T09:00:00Z"
+    },
+    {
+      "id": "clist:70403503",
+      "platform": "luogu",
+      "name": "「FAOI」Round 15 & FAPC 2026 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/330736",
+      "startsAt": "2026-10-02T05:30:00Z",
+      "endsAt": "2026-10-02T10:30:00Z"
     }
   ]
 }

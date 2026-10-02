@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-02T09:42:22Z",
+  "updatedAt": "2026-10-02T17:51:17Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -14,14 +14,6 @@
       "url": "https://atcoder.jp/contests/ahc072",
       "startsAt": "2026-09-25T10:10:00Z",
       "endsAt": "2026-10-05T10:00:00Z"
-    },
-    {
-      "id": "clist:70403503",
-      "platform": "luogu",
-      "name": "「FAOI」Round 15 & FAPC 2026 [guzhi, icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/330736",
-      "startsAt": "2026-10-02T05:30:00Z",
-      "endsAt": "2026-10-02T10:30:00Z"
     },
     {
       "id": "clist:70831805",
