@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "month": "2026-10",
+  "contests": [
+    {
+      "id": "clist:70849331",
+      "platform": "luogu",
+      "name": "JAG 2026 #2 Unofficial Mirror [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/359931",
+      "startsAt": "2026-10-01T00:30:00Z",
+      "endsAt": "2026-10-01T05:30:00Z"
+    },
+    {
+      "id": "clist:70398376",
+      "platform": "nowcoder",
+      "name": "2026牛客国庆集训派对day1 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/140729",
+      "startsAt": "2026-10-01T04:00:00Z",
+      "endsAt": "2026-10-01T09:00:00Z"
+    },
+    {
+      "id": "clist:70373013",
+      "platform": "luogu",
+      "name": "【LGR-303-Div.2】洛谷 10 月月赛 I &「WWOI」Round 4 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/323264",
+      "startsAt": "2026-10-01T06:00:00Z",
+      "endsAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "clist:70398377",
+      "platform": "nowcoder",
+      "name": "2026牛客国庆集训派对day2 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/140730",
+      "startsAt": "2026-10-02T04:00:00Z",
+      "endsAt": "2026-10-02T09:00:00Z"
+    }
+  ]
+}

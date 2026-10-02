@@ -3,30 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66184294",
-      "platform": "nowcoder",
-      "name": "牛客2026年愚人节比赛 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/130463",
-      "startsAt": "2026-04-01T11:00:00Z",
-      "endsAt": "2026-04-01T13:00:00Z"
-    },
-    {
-      "id": "clist:66042873",
-      "platform": "codechef",
-      "name": "Starters 232 (Rated till 5 star)",
-      "url": "https://www.codechef.com/START232",
-      "startsAt": "2026-04-01T14:30:00Z",
-      "endsAt": "2026-04-01T16:30:00Z"
-    },
-    {
-      "id": "clist:66457550",
-      "platform": "codeforces",
-      "name": "April Fools Day Contest 2026",
-      "url": "https://codeforces.com/contests/2214",
-      "startsAt": "2026-04-01T14:35:00Z",
-      "endsAt": "2026-04-01T16:35:00Z"
-    },
-    {
       "id": "clist:66298960",
       "platform": "nowcoder",
       "name": "牛客挑战赛87 [ACM]",
