@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T11:36:51Z",
+  "updatedAt": "2026-10-03T16:15:01Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -22,14 +22,6 @@
       "url": "https://www.codechef.com/PLACEPREP10",
       "startsAt": "2026-10-02T18:30:32Z",
       "endsAt": "2026-10-04T20:29:00Z"
-    },
-    {
-      "id": "clist:70240332",
-      "platform": "atcoder",
-      "name": "AtCoder Beginner Contest 478",
-      "url": "https://atcoder.jp/contests/abc478",
-      "startsAt": "2026-10-03T12:00:00Z",
-      "endsAt": "2026-10-03T13:40:00Z"
     },
     {
       "id": "clist:70426385",
@@ -202,7 +194,7 @@
     {
       "id": "clist:70471347",
       "platform": "codeforces",
-      "name": "DeepInfra Round 1 (Codeforces Round, Div. 1 + Div. 2)",
+      "name": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
       "url": "https://codeforces.com/contests/2271",
       "startsAt": "2026-10-10T15:05:00Z",
       "endsAt": "2026-10-10T18:05:00Z"
