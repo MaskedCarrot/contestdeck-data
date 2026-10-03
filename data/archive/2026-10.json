@@ -41,6 +41,30 @@
       "url": "https://www.luogu.com.cn/contest/330736",
       "startsAt": "2026-10-02T05:30:00Z",
       "endsAt": "2026-10-02T10:30:00Z"
+    },
+    {
+      "id": "clist:70852079",
+      "platform": "luogu",
+      "name": "JAG 2026 #3 Unofficial Mirror [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/359985",
+      "startsAt": "2026-10-03T00:30:00Z",
+      "endsAt": "2026-10-03T05:30:00Z"
+    },
+    {
+      "id": "clist:70398378",
+      "platform": "nowcoder",
+      "name": "2026牛客国庆集训派对day3 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/140731",
+      "startsAt": "2026-10-03T04:00:00Z",
+      "endsAt": "2026-10-03T09:00:00Z"
+    },
+    {
+      "id": "clist:70606755",
+      "platform": "luogu",
+      "name": "LABOI Round 1 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/250537",
+      "startsAt": "2026-10-03T06:00:00Z",
+      "endsAt": "2026-10-03T09:30:00Z"
     }
   ]
 }
