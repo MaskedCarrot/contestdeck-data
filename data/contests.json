@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-03T16:15:01Z",
+  "updatedAt": "2026-10-04T05:48:50Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -22,22 +22,6 @@
       "url": "https://www.codechef.com/PLACEPREP10",
       "startsAt": "2026-10-02T18:30:32Z",
       "endsAt": "2026-10-04T20:29:00Z"
-    },
-    {
-      "id": "clist:70426385",
-      "platform": "luogu",
-      "name": "【LGR-305-Div.3】洛谷基础赛 #40 & OvOI Round 3 [rated, ioi]",
-      "url": "https://www.luogu.com.cn/contest/334135",
-      "startsAt": "2026-10-04T00:30:00Z",
-      "endsAt": "2026-10-04T04:00:00Z"
-    },
-    {
-      "id": "clist:70563386",
-      "platform": "leetcode",
-      "name": "Weekly Contest 522",
-      "url": "https://leetcode.com/contest/weekly-contest-522",
-      "startsAt": "2026-10-04T02:30:00Z",
-      "endsAt": "2026-10-04T04:00:00Z"
     },
     {
       "id": "clist:69813614",
