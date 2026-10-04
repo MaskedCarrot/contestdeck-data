@@ -285,7 +285,7 @@
     {
       "id": "clist:69396465",
       "platform": "luogu",
-      "name": "【Gensokyo OI Round 2】故园的残风 [rated, ioi]",
+      "name": "【Gensokyo OI Round 2】故园的残风 [ioi]",
       "url": "https://www.luogu.com.cn/contest/304154",
       "startsAt": "2026-08-12T06:00:00Z",
       "endsAt": "2026-08-12T10:00:00Z"
@@ -317,7 +317,7 @@
     {
       "id": "clist:69513305",
       "platform": "luogu",
-      "name": "???OI Round 1 [rated, ioi]",
+      "name": "???OI Round 1 [ioi]",
       "url": "https://www.luogu.com.cn/contest/327733",
       "startsAt": "2026-08-14T05:00:00Z",
       "endsAt": "2026-08-14T09:30:00Z"
@@ -413,7 +413,7 @@
     {
       "id": "clist:69511072",
       "platform": "luogu",
-      "name": "【LGR-297-Div.2】洛谷 8 月月赛 II & __OI R1 [rated, ioi]",
+      "name": "【LGR-297-Div.2】洛谷 8 月月赛 II & __OI R1 [ioi]",
       "url": "https://www.luogu.com.cn/contest/293999",
       "startsAt": "2026-08-19T06:00:00Z",
       "endsAt": "2026-08-19T10:00:00Z"
@@ -437,7 +437,7 @@
     {
       "id": "clist:69558004",
       "platform": "luogu",
-      "name": "【LGR-298-Div.1】洛谷 8 月月赛 III & IXOI Round 2 [rated, ioi]",
+      "name": "【LGR-298-Div.1】洛谷 8 月月赛 III & IXOI Round 2 [ioi]",
       "url": "https://www.luogu.com.cn/contest/327096",
       "startsAt": "2026-08-21T06:00:00Z",
       "endsAt": "2026-08-21T10:00:00Z"
@@ -445,7 +445,7 @@
     {
       "id": "clist:69558005",
       "platform": "luogu",
-      "name": "【LGR-298-Div.2】洛谷 8 月月赛 III & IXOI Round 2 [rated, ioi]",
+      "name": "【LGR-298-Div.2】洛谷 8 月月赛 III & IXOI Round 2 [ioi]",
       "url": "https://www.luogu.com.cn/contest/327094",
       "startsAt": "2026-08-21T06:00:00Z",
       "endsAt": "2026-08-21T10:00:00Z"
@@ -461,7 +461,7 @@
     {
       "id": "clist:69717901",
       "platform": "luogu",
-      "name": "Algo Beat Contest 013 & MSOI Round 2 - MBTI Round [rated, ioi]",
+      "name": "Algo Beat Contest 013 & MSOI Round 2 - MBTI Round [ioi]",
       "url": "https://www.luogu.com.cn/contest/341268",
       "startsAt": "2026-08-22T06:00:00Z",
       "endsAt": "2026-08-22T08:00:00Z"
@@ -501,7 +501,7 @@
     {
       "id": "clist:69641527",
       "platform": "luogu",
-      "name": "【LGR-300-Div.4】洛谷入门赛 #51 [rated, ioi]",
+      "name": "【LGR-300-Div.4】洛谷入门赛 #51 [ioi]",
       "url": "https://www.luogu.com.cn/contest/350031",
       "startsAt": "2026-08-23T11:00:00Z",
       "endsAt": "2026-08-23T13:00:00Z"
@@ -541,7 +541,7 @@
     {
       "id": "clist:69844675",
       "platform": "luogu",
-      "name": "KismetOI Round 7「春影赛」 [rated, ioi]",
+      "name": "KismetOI Round 7「春影赛」 [ioi]",
       "url": "https://www.luogu.com.cn/contest/319258",
       "startsAt": "2026-08-25T06:10:00Z",
       "endsAt": "2026-08-25T10:10:00Z"
@@ -561,6 +561,126 @@
       "url": "https://www.codechef.com/START253",
       "startsAt": "2026-08-26T14:30:00Z",
       "endsAt": "2026-08-26T16:30:00Z"
+    },
+    {
+      "id": "clist:69909960",
+      "platform": "luogu",
+      "name": "「YB」OI Round 1 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/344762",
+      "startsAt": "2026-08-27T06:00:00Z",
+      "endsAt": "2026-08-27T10:00:00Z"
+    },
+    {
+      "id": "clist:69889139",
+      "platform": "luogu",
+      "name": "[ICPC2018 Nanjing R] ICPC 2018 区域赛南京站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/353126",
+      "startsAt": "2026-08-28T05:00:00Z",
+      "endsAt": "2026-08-28T10:00:00Z"
+    },
+    {
+      "id": "clist:69331675",
+      "platform": "codeforces",
+      "name": "ICPC 2026 Online Challenge 1 powered by Huawei",
+      "url": "https://codeforces.com/contests/2251",
+      "startsAt": "2026-08-14T11:00:00Z",
+      "endsAt": "2026-08-28T11:00:00Z"
+    },
+    {
+      "id": "clist:69368275",
+      "platform": "nowcoder",
+      "name": "牛客练习赛156 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/139209",
+      "startsAt": "2026-08-28T11:00:00Z",
+      "endsAt": "2026-08-28T13:30:00Z"
+    },
+    {
+      "id": "clist:69189603",
+      "platform": "atcoder",
+      "name": "13th Asprova Programming Contest（AtCoder Heuristic Contest 070）",
+      "url": "https://atcoder.jp/contests/ahc070",
+      "startsAt": "2026-08-29T06:00:00Z",
+      "endsAt": "2026-08-29T10:00:00Z"
+    },
+    {
+      "id": "clist:69770268",
+      "platform": "luogu",
+      "name": "【LGR-301-Div.2】洛谷 8 月月赛 IV & TPOI Round 2 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/163680",
+      "startsAt": "2026-08-29T06:00:00Z",
+      "endsAt": "2026-08-29T10:00:00Z"
+    },
+    {
+      "id": "clist:69152057",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 473",
+      "url": "https://atcoder.jp/contests/abc473",
+      "startsAt": "2026-08-29T12:00:00Z",
+      "endsAt": "2026-08-29T13:40:00Z"
+    },
+    {
+      "id": "clist:69643758",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 190",
+      "url": "https://leetcode.com/contest/biweekly-contest-190",
+      "startsAt": "2026-08-29T14:30:00Z",
+      "endsAt": "2026-08-29T16:00:00Z"
+    },
+    {
+      "id": "clist:69744408",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1118 (Div. 2)",
+      "url": "https://codeforces.com/contests/2258",
+      "startsAt": "2026-08-29T14:35:00Z",
+      "endsAt": "2026-08-29T16:35:00Z"
+    },
+    {
+      "id": "clist:69818178",
+      "platform": "leetcode",
+      "name": "Weekly Contest 517",
+      "url": "https://leetcode.com/contest/weekly-contest-517",
+      "startsAt": "2026-08-30T02:30:00Z",
+      "endsAt": "2026-08-30T04:00:00Z"
+    },
+    {
+      "id": "clist:69814557",
+      "platform": "luogu",
+      "name": "【MX-X30】梦熊 X 组 · 复活赛 & WAOI-R13 [guzhi, ioi]",
+      "url": "https://www.luogu.com.cn/contest/352393",
+      "startsAt": "2026-08-30T05:30:00Z",
+      "endsAt": "2026-08-30T10:00:00Z"
+    },
+    {
+      "id": "clist:69687109",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 159 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/139660",
+      "startsAt": "2026-08-30T11:00:00Z",
+      "endsAt": "2026-08-30T13:00:00Z"
+    },
+    {
+      "id": "clist:69784723",
+      "platform": "atcoder",
+      "name": "AtCoder Regular Contest++ 228",
+      "url": "https://atcoder.jp/contests/arc228",
+      "startsAt": "2026-08-30T12:00:00Z",
+      "endsAt": "2026-08-30T14:30:00Z"
+    },
+    {
+      "id": "clist:69912849",
+      "platform": "codechef",
+      "name": "Placement Prep Weekends - 05",
+      "url": "https://www.codechef.com/PLACEPREP05",
+      "startsAt": "2026-08-28T18:30:26Z",
+      "endsAt": "2026-08-30T20:59:00Z"
+    },
+    {
+      "id": "clist:69915261",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 018 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY018",
+      "startsAt": "2026-08-31T13:30:00Z",
+      "endsAt": "2026-08-31T16:30:00Z"
     }
   ]
 }

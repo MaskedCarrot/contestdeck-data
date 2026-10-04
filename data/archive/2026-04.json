@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66135943",
-      "platform": "luogu",
-      "name": "o.OI Round -1 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/296386",
-      "startsAt": "2026-04-04T06:00:00Z",
-      "endsAt": "2026-04-04T07:30:00Z"
-    },
-    {
       "id": "clist:68901375",
       "platform": "luogu",
       "name": "中国科学技术大学 2026 年程序设计竞赛校赛（重现赛） [guzhi, icpc, squad]",
