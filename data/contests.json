@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T05:48:50Z",
+  "updatedAt": "2026-10-04T12:18:53Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -22,30 +22,6 @@
       "url": "https://www.codechef.com/PLACEPREP10",
       "startsAt": "2026-10-02T18:30:32Z",
       "endsAt": "2026-10-04T20:29:00Z"
-    },
-    {
-      "id": "clist:69813614",
-      "platform": "atcoder",
-      "name": "組合せゲーム 24 題",
-      "url": "https://atcoder.jp/contests/game-24",
-      "startsAt": "2026-10-04T04:00:00Z",
-      "endsAt": "2026-10-04T09:00:00Z"
-    },
-    {
-      "id": "clist:70823966",
-      "platform": "nowcoder",
-      "name": "2026牛客国庆集训派对day4 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/140732",
-      "startsAt": "2026-10-04T04:00:00Z",
-      "endsAt": "2026-10-04T09:00:00Z"
-    },
-    {
-      "id": "clist:70438710",
-      "platform": "luogu",
-      "name": "【LGR-304-Div.2】洛谷 10 月月赛 II & CZOI Round 8 [rated, ioi]",
-      "url": "https://www.luogu.com.cn/contest/273413",
-      "startsAt": "2026-10-04T06:00:00Z",
-      "endsAt": "2026-10-04T10:00:00Z"
     },
     {
       "id": "clist:70628018",

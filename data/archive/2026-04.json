@@ -3,22 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:68901375",
-      "platform": "luogu",
-      "name": "中国科学技术大学 2026 年程序设计竞赛校赛（重现赛） [guzhi, icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/318973",
-      "startsAt": "2026-04-04T04:30:00Z",
-      "endsAt": "2026-04-04T09:30:00Z"
-    },
-    {
-      "id": "clist:68901373",
-      "platform": "luogu",
-      "name": "L0_0 Round 1 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/301031",
-      "startsAt": "2026-04-04T08:00:00Z",
-      "endsAt": "2026-04-04T12:00:00Z"
-    },
-    {
       "id": "clist:65868004",
       "platform": "atcoder",
       "name": "AtCoder Beginner Contest 452",

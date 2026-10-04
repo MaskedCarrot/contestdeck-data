@@ -89,6 +89,30 @@
       "url": "https://www.luogu.com.cn/contest/334135",
       "startsAt": "2026-10-04T00:30:00Z",
       "endsAt": "2026-10-04T04:00:00Z"
+    },
+    {
+      "id": "clist:69813614",
+      "platform": "atcoder",
+      "name": "組合せゲーム 24 題",
+      "url": "https://atcoder.jp/contests/game-24",
+      "startsAt": "2026-10-04T04:00:00Z",
+      "endsAt": "2026-10-04T09:00:00Z"
+    },
+    {
+      "id": "clist:70823966",
+      "platform": "nowcoder",
+      "name": "2026牛客国庆集训派对day4 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/140732",
+      "startsAt": "2026-10-04T04:00:00Z",
+      "endsAt": "2026-10-04T09:00:00Z"
+    },
+    {
+      "id": "clist:70438710",
+      "platform": "luogu",
+      "name": "【LGR-304-Div.2】洛谷 10 月月赛 II & CZOI Round 8 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/273413",
+      "startsAt": "2026-10-04T06:00:00Z",
+      "endsAt": "2026-10-04T10:00:00Z"
     }
   ]
 }
