@@ -113,6 +113,22 @@
       "url": "https://www.luogu.com.cn/contest/273413",
       "startsAt": "2026-10-04T06:00:00Z",
       "endsAt": "2026-10-04T10:00:00Z"
+    },
+    {
+      "id": "clist:70628018",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 164 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/141142",
+      "startsAt": "2026-10-04T11:00:00Z",
+      "endsAt": "2026-10-04T13:00:00Z"
+    },
+    {
+      "id": "clist:70373073",
+      "platform": "atcoder",
+      "name": "AtCoder Regular Contest 231",
+      "url": "https://atcoder.jp/contests/arc231",
+      "startsAt": "2026-10-04T12:00:00Z",
+      "endsAt": "2026-10-04T14:00:00Z"
     }
   ]
 }
