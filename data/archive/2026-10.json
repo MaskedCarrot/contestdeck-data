@@ -129,6 +129,14 @@
       "url": "https://atcoder.jp/contests/arc231",
       "startsAt": "2026-10-04T12:00:00Z",
       "endsAt": "2026-10-04T14:00:00Z"
+    },
+    {
+      "id": "clist:70831805",
+      "platform": "codechef",
+      "name": "Placement Prep Weekends - 10",
+      "url": "https://www.codechef.com/PLACEPREP10",
+      "startsAt": "2026-10-02T18:30:32Z",
+      "endsAt": "2026-10-04T20:29:00Z"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T18:37:42Z",
+  "updatedAt": "2026-10-04T23:57:15Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -14,14 +14,6 @@
       "url": "https://atcoder.jp/contests/ahc072",
       "startsAt": "2026-09-25T10:10:00Z",
       "endsAt": "2026-10-05T10:00:00Z"
-    },
-    {
-      "id": "clist:70831805",
-      "platform": "codechef",
-      "name": "Placement Prep Weekends - 10",
-      "url": "https://www.codechef.com/PLACEPREP10",
-      "startsAt": "2026-10-02T18:30:32Z",
-      "endsAt": "2026-10-04T20:29:00Z"
     },
     {
       "id": "clist:70853256",
