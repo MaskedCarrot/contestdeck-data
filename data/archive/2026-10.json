@@ -137,6 +137,14 @@
       "url": "https://www.codechef.com/PLACEPREP10",
       "startsAt": "2026-10-02T18:30:32Z",
       "endsAt": "2026-10-04T20:29:00Z"
+    },
+    {
+      "id": "clist:70853256",
+      "platform": "luogu",
+      "name": "RiOI Round 8 & RiPC 2026 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/318240",
+      "startsAt": "2026-10-05T00:30:00Z",
+      "endsAt": "2026-10-05T05:30:00Z"
     }
   ]
 }

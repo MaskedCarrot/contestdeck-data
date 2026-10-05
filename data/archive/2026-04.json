@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66386627",
-      "platform": "leetcode",
-      "name": "Weekly Contest 496",
-      "url": "https://leetcode.com/contest/weekly-contest-496",
-      "startsAt": "2026-04-05T02:30:00Z",
-      "endsAt": "2026-04-05T04:00:00Z"
-    },
-    {
       "id": "clist:66350979",
       "platform": "luogu",
       "name": "【LGR-277-Div.2】洛谷 4 月月赛 I &『LBA-OI』Round 1 [ioi]",

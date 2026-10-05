@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T23:57:15Z",
+  "updatedAt": "2026-10-05T05:34:26Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -14,14 +14,6 @@
       "url": "https://atcoder.jp/contests/ahc072",
       "startsAt": "2026-09-25T10:10:00Z",
       "endsAt": "2026-10-05T10:00:00Z"
-    },
-    {
-      "id": "clist:70853256",
-      "platform": "luogu",
-      "name": "RiOI Round 8 & RiPC 2026 [guzhi, icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/318240",
-      "startsAt": "2026-10-05T00:30:00Z",
-      "endsAt": "2026-10-05T05:30:00Z"
     },
     {
       "id": "clist:70823968",
