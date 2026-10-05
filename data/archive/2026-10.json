@@ -145,6 +145,38 @@
       "url": "https://www.luogu.com.cn/contest/318240",
       "startsAt": "2026-10-05T00:30:00Z",
       "endsAt": "2026-10-05T05:30:00Z"
+    },
+    {
+      "id": "clist:70823968",
+      "platform": "nowcoder",
+      "name": "2026牛客国庆集训派对day5 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/140733",
+      "startsAt": "2026-10-05T04:00:00Z",
+      "endsAt": "2026-10-05T09:00:00Z"
+    },
+    {
+      "id": "clist:69907790",
+      "platform": "atcoder",
+      "name": "ALGO ARTIS Programming Contest 2026 September（AtCoder Heuristic Contest 072）",
+      "url": "https://atcoder.jp/contests/ahc072",
+      "startsAt": "2026-09-25T10:10:00Z",
+      "endsAt": "2026-10-05T10:00:00Z"
+    },
+    {
+      "id": "clist:70545585",
+      "platform": "luogu",
+      "name": "Math+Girl×1 Div.2 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/357050",
+      "startsAt": "2026-10-05T06:00:00Z",
+      "endsAt": "2026-10-05T12:00:00Z"
+    },
+    {
+      "id": "clist:70545586",
+      "platform": "luogu",
+      "name": "Math+Girl×1 Div.1 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/332845",
+      "startsAt": "2026-10-05T06:00:00Z",
+      "endsAt": "2026-10-05T12:00:00Z"
     }
   ]
 }
