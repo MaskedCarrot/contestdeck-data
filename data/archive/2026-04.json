@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66638714",
-      "platform": "codechef",
-      "name": "Weekend Dev Challenge 44: Cybersecurity",
-      "url": "https://www.codechef.com/DEVWEEKEND44",
-      "startsAt": "2026-04-03T18:30:00Z",
-      "endsAt": "2026-04-05T18:30:00Z"
-    },
-    {
       "id": "clist:68901371",
       "platform": "luogu",
       "name": "【MX-S13】梦熊 S 组 · 清雨赛（同步赛） [guzhi, ioi]",

@@ -1,20 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-05T14:31:22Z",
+  "updatedAt": "2026-10-05T21:59:46Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:70863241",
-      "platform": "codechef",
-      "name": "Monday Munch - DSA Challenge 023 (Rated)",
-      "url": "https://www.codechef.com/DSAMONDAY023",
-      "startsAt": "2026-10-05T13:30:00Z",
-      "endsAt": "2026-10-05T16:30:00Z"
-    },
     {
       "id": "clist:70938360",
       "platform": "luogu",
@@ -54,6 +46,14 @@
       "url": "https://www.luogu.com.cn/contest/358583",
       "startsAt": "2026-10-07T05:00:00Z",
       "endsAt": "2026-10-07T10:00:00Z"
+    },
+    {
+      "id": "clist:71002157",
+      "platform": "codechef",
+      "name": "Starters 259",
+      "url": "https://www.codechef.com/START259",
+      "startsAt": "2026-10-07T14:30:00Z",
+      "endsAt": "2026-10-07T16:30:00Z"
     },
     {
       "id": "clist:70856689",
@@ -168,6 +168,14 @@
       "endsAt": "2026-10-12T09:00:00Z"
     },
     {
+      "id": "clist:71002156",
+      "platform": "codechef",
+      "name": "Starters 260",
+      "url": "https://www.codechef.com/START260",
+      "startsAt": "2026-10-14T14:30:00Z",
+      "endsAt": "2026-10-14T16:30:00Z"
+    },
+    {
       "id": "clist:70704910",
       "platform": "luogu",
       "name": "[ICPC2019 Nanjing R] ICPC 2019 区域赛南京站重现赛 [guzhi, icpc, squad]",
@@ -216,12 +224,28 @@
       "endsAt": "2026-10-18T04:00:00Z"
     },
     {
+      "id": "clist:71002155",
+      "platform": "codechef",
+      "name": "Starters 261",
+      "url": "https://www.codechef.com/START261",
+      "startsAt": "2026-10-21T14:30:00Z",
+      "endsAt": "2026-10-21T16:30:00Z"
+    },
+    {
       "id": "clist:70536008",
       "platform": "hackerrank",
       "name": "Orchestrate October'26",
       "url": "https://hackerrank.com/contests/hackerrank-orchestrate-october26",
       "startsAt": "2026-10-24T12:30:00Z",
       "endsAt": "2026-10-25T12:30:00Z"
+    },
+    {
+      "id": "clist:71002154",
+      "platform": "codechef",
+      "name": "Starters 262",
+      "url": "https://www.codechef.com/START262",
+      "startsAt": "2026-10-28T14:30:00Z",
+      "endsAt": "2026-10-28T16:30:00Z"
     },
     {
       "id": "clist:70879517",
