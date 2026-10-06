@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:68901371",
-      "platform": "luogu",
-      "name": "【MX-S13】梦熊 S 组 · 清雨赛（同步赛） [guzhi, ioi]",
-      "url": "https://www.luogu.com.cn/contest/319140",
-      "startsAt": "2026-04-06T06:00:00Z",
-      "endsAt": "2026-04-06T10:00:00Z"
-    },
-    {
       "id": "clist:66593429",
       "platform": "codechef",
       "name": "Monday Munch - DSA Challenge 32",

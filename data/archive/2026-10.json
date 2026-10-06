@@ -21,7 +21,7 @@
     {
       "id": "clist:70373013",
       "platform": "luogu",
-      "name": "【LGR-303-Div.2】洛谷 10 月月赛 I &「WWOI」Round 4 [rated, ioi]",
+      "name": "【LGR-303-Div.2】洛谷 10 月月赛 I &「WWOI」Round 4 [ioi]",
       "url": "https://www.luogu.com.cn/contest/323264",
       "startsAt": "2026-10-01T06:00:00Z",
       "endsAt": "2026-10-01T10:00:00Z"
@@ -85,7 +85,7 @@
     {
       "id": "clist:70426385",
       "platform": "luogu",
-      "name": "【LGR-305-Div.3】洛谷基础赛 #40 & OvOI Round 3 [rated, ioi]",
+      "name": "【LGR-305-Div.3】洛谷基础赛 #40 & OvOI Round 3 [ioi]",
       "url": "https://www.luogu.com.cn/contest/334135",
       "startsAt": "2026-10-04T00:30:00Z",
       "endsAt": "2026-10-04T04:00:00Z"
@@ -109,7 +109,7 @@
     {
       "id": "clist:70438710",
       "platform": "luogu",
-      "name": "【LGR-304-Div.2】洛谷 10 月月赛 II & CZOI Round 8 [rated, ioi]",
+      "name": "【LGR-304-Div.2】洛谷 10 月月赛 II & CZOI Round 8 [ioi]",
       "url": "https://www.luogu.com.cn/contest/273413",
       "startsAt": "2026-10-04T06:00:00Z",
       "endsAt": "2026-10-04T10:00:00Z"
@@ -193,6 +193,22 @@
       "url": "https://www.luogu.com.cn/contest/336618",
       "startsAt": "2026-10-06T00:00:00Z",
       "endsAt": "2026-10-06T04:00:00Z"
+    },
+    {
+      "id": "clist:70823969",
+      "platform": "nowcoder",
+      "name": "2026牛客国庆集训派对day6 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/140734",
+      "startsAt": "2026-10-06T04:00:00Z",
+      "endsAt": "2026-10-06T09:00:00Z"
+    },
+    {
+      "id": "clist:70594948",
+      "platform": "luogu",
+      "name": "C₂H₆OI Round 1 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/325954",
+      "startsAt": "2026-10-06T06:00:00Z",
+      "endsAt": "2026-10-06T10:00:00Z"
     }
   ]
 }

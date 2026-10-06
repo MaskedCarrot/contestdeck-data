@@ -1,28 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T06:16:15Z",
+  "updatedAt": "2026-10-06T13:21:10Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:70823969",
-      "platform": "nowcoder",
-      "name": "2026牛客国庆集训派对day6 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/140734",
-      "startsAt": "2026-10-06T04:00:00Z",
-      "endsAt": "2026-10-06T09:00:00Z"
-    },
-    {
-      "id": "clist:70594948",
-      "platform": "luogu",
-      "name": "C₂H₆OI Round 1 [rated, ioi]",
-      "url": "https://www.luogu.com.cn/contest/325954",
-      "startsAt": "2026-10-06T06:00:00Z",
-      "endsAt": "2026-10-06T10:00:00Z"
-    },
     {
       "id": "clist:70824368",
       "platform": "nowcoder",
