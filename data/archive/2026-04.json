@@ -3,22 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66593429",
-      "platform": "codechef",
-      "name": "Monday Munch - DSA Challenge 32",
-      "url": "https://www.codechef.com/DSAMONDAY32",
-      "startsAt": "2026-04-06T12:30:00Z",
-      "endsAt": "2026-04-06T15:30:00Z"
-    },
-    {
-      "id": "clist:66302071",
-      "platform": "luogu",
-      "name": "AOIのApril Fools Contest 2026 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/315100",
-      "startsAt": "2026-03-20T16:00:00Z",
-      "endsAt": "2026-04-06T15:59:00Z"
-    },
-    {
       "id": "clist:66597018",
       "platform": "codeforces",
       "name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
