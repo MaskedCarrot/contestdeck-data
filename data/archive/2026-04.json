@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66597018",
-      "platform": "codeforces",
-      "name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
-      "url": "https://codeforces.com/contests/2217",
-      "startsAt": "2026-04-07T14:35:00Z",
-      "endsAt": "2026-04-07T16:50:00Z"
-    },
-    {
       "id": "clist:66043195",
       "platform": "codechef",
       "name": "Starters 233 (Rated till 6 star)",

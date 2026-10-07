@@ -85,7 +85,7 @@
     {
       "id": "clist:70426385",
       "platform": "luogu",
-      "name": "【LGR-305-Div.3】洛谷基础赛 #40 & OvOI Round 3 [ioi]",
+      "name": "【LGR-305-Div.3】洛谷基础赛 #40 & OvOI Round 3 [rated, ioi]",
       "url": "https://www.luogu.com.cn/contest/334135",
       "startsAt": "2026-10-04T00:30:00Z",
       "endsAt": "2026-10-04T04:00:00Z"
@@ -109,7 +109,7 @@
     {
       "id": "clist:70438710",
       "platform": "luogu",
-      "name": "【LGR-304-Div.2】洛谷 10 月月赛 II & CZOI Round 8 [ioi]",
+      "name": "【LGR-304-Div.2】洛谷 10 月月赛 II & CZOI Round 8 [rated, ioi]",
       "url": "https://www.luogu.com.cn/contest/273413",
       "startsAt": "2026-10-04T06:00:00Z",
       "endsAt": "2026-10-04T10:00:00Z"
@@ -225,6 +225,22 @@
       "url": "https://www.luogu.com.cn/contest/358583",
       "startsAt": "2026-10-07T05:00:00Z",
       "endsAt": "2026-10-07T10:00:00Z"
+    },
+    {
+      "id": "clist:71002157",
+      "platform": "codechef",
+      "name": "Starters 259 (Rated till 6 star)",
+      "url": "https://www.codechef.com/START259",
+      "startsAt": "2026-10-07T14:30:00Z",
+      "endsAt": "2026-10-07T16:30:00Z"
+    },
+    {
+      "id": "clist:70856689",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1125 (Div. 3)",
+      "url": "https://codeforces.com/contests/2275",
+      "startsAt": "2026-10-07T14:45:00Z",
+      "endsAt": "2026-10-07T17:15:00Z"
     }
   ]
 }

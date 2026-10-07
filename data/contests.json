@@ -1,28 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T10:12:02Z",
+  "updatedAt": "2026-10-07T18:55:50Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:71002157",
-      "platform": "codechef",
-      "name": "Starters 259",
-      "url": "https://www.codechef.com/START259",
-      "startsAt": "2026-10-07T14:30:00Z",
-      "endsAt": "2026-10-07T16:30:00Z"
-    },
-    {
-      "id": "clist:70856689",
-      "platform": "codeforces",
-      "name": "Codeforces Round 1125 (Div. 3)",
-      "url": "https://codeforces.com/contests/2275",
-      "startsAt": "2026-10-07T14:35:00Z",
-      "endsAt": "2026-10-07T17:05:00Z"
-    },
     {
       "id": "clist:70798108",
       "platform": "nowcoder",
@@ -134,6 +118,14 @@
       "url": "https://atcoder.jp/contests/aalc001",
       "startsAt": "2026-10-12T04:00:00Z",
       "endsAt": "2026-10-12T09:00:00Z"
+    },
+    {
+      "id": "clist:71056434",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 024 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY024",
+      "startsAt": "2026-10-12T13:30:00Z",
+      "endsAt": "2026-10-12T16:30:00Z"
     },
     {
       "id": "clist:71002156",
