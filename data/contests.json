@@ -1,28 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T13:21:10Z",
+  "updatedAt": "2026-10-07T10:12:02Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:70824368",
-      "platform": "nowcoder",
-      "name": "2026牛客国庆集训派对day7 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/140735",
-      "startsAt": "2026-10-07T04:00:00Z",
-      "endsAt": "2026-10-07T09:00:00Z"
-    },
-    {
-      "id": "clist:70704911",
-      "platform": "luogu",
-      "name": "[ICPC2019 Yinchuan R] ICPC 2019 区域赛银川站重现赛 [guzhi, icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/358583",
-      "startsAt": "2026-10-07T05:00:00Z",
-      "endsAt": "2026-10-07T10:00:00Z"
-    },
     {
       "id": "clist:71002157",
       "platform": "codechef",
@@ -46,6 +30,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/141374",
       "startsAt": "2026-10-09T11:00:00Z",
       "endsAt": "2026-10-09T13:00:00Z"
+    },
+    {
+      "id": "clist:71047831",
+      "platform": "codechef",
+      "name": "Placement Prep Weekends - 11",
+      "url": "https://www.codechef.com/PLACEPREP11",
+      "startsAt": "2026-10-09T18:30:08Z",
+      "endsAt": "2026-10-11T20:29:00Z"
     },
     {
       "id": "clist:70244327",
