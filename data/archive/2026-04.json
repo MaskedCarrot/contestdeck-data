@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66043195",
-      "platform": "codechef",
-      "name": "Starters 233 (Rated till 6 star)",
-      "url": "https://www.codechef.com/START233",
-      "startsAt": "2026-04-08T14:30:00Z",
-      "endsAt": "2026-04-08T16:30:00Z"
-    },
-    {
       "id": "clist:68901369",
       "platform": "luogu",
       "name": "华东理工大学 2025 年程序设计竞赛校赛（重现赛） [guzhi, icpc, squad]",
