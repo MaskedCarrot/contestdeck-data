@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T18:55:50Z",
+  "updatedAt": "2026-10-08T10:30:43Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -88,6 +88,14 @@
       "endsAt": "2026-10-11T10:00:00Z"
     },
     {
+      "id": "clist:71075851",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 165 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/141721",
+      "startsAt": "2026-10-11T11:00:00Z",
+      "endsAt": "2026-10-11T13:00:00Z"
+    },
+    {
       "id": "clist:70476524",
       "platform": "atcoder",
       "name": "AtCoder Beginner Contest 479",
@@ -134,6 +142,14 @@
       "url": "https://www.codechef.com/START260",
       "startsAt": "2026-10-14T14:30:00Z",
       "endsAt": "2026-10-14T16:30:00Z"
+    },
+    {
+      "id": "clist:71078735",
+      "platform": "codeforces",
+      "name": "Educational Codeforces Round 195 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contests/2276",
+      "startsAt": "2026-10-14T14:35:00Z",
+      "endsAt": "2026-10-14T16:35:00Z"
     },
     {
       "id": "clist:70704910",
