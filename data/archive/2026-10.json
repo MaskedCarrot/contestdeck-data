@@ -241,6 +241,14 @@
       "url": "https://codeforces.com/contests/2275",
       "startsAt": "2026-10-07T14:45:00Z",
       "endsAt": "2026-10-07T17:15:00Z"
+    },
+    {
+      "id": "clist:70798108",
+      "platform": "nowcoder",
+      "name": "牛客小白月赛138 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/141374",
+      "startsAt": "2026-10-09T11:00:00Z",
+      "endsAt": "2026-10-09T13:00:00Z"
     }
   ]
 }
