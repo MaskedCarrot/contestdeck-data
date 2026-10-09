@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T10:30:43Z",
+  "updatedAt": "2026-10-09T01:11:57Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -109,7 +109,7 @@
       "name": "Codeforces Round (Div. 1)",
       "url": "https://codeforces.com/contests/2273",
       "startsAt": "2026-10-11T18:35:00Z",
-      "endsAt": "2026-10-11T21:05:00Z"
+      "endsAt": "2026-10-11T20:35:00Z"
     },
     {
       "id": "clist:70486734",
@@ -117,7 +117,7 @@
       "name": "Codeforces Round (Div. 2)",
       "url": "https://codeforces.com/contests/2274",
       "startsAt": "2026-10-11T18:35:00Z",
-      "endsAt": "2026-10-11T21:05:00Z"
+      "endsAt": "2026-10-11T20:35:00Z"
     },
     {
       "id": "clist:70909213",
