@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-09T01:11:57Z",
+  "updatedAt": "2026-10-09T10:29:10Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -206,6 +206,14 @@
       "url": "https://www.codechef.com/START261",
       "startsAt": "2026-10-21T14:30:00Z",
       "endsAt": "2026-10-21T16:30:00Z"
+    },
+    {
+      "id": "clist:71106692",
+      "platform": "nowcoder",
+      "name": "牛客2026年1024程序员节娱乐赛 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/141819",
+      "startsAt": "2026-10-24T11:00:00Z",
+      "endsAt": "2026-10-24T14:00:00Z"
     },
     {
       "id": "clist:70536008",

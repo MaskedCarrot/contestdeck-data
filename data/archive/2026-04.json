@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:68901369",
-      "platform": "luogu",
-      "name": "华东理工大学 2025 年程序设计竞赛校赛（重现赛） [guzhi, icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/319886",
-      "startsAt": "2026-04-09T05:00:00Z",
-      "endsAt": "2026-04-09T09:00:00Z"
-    },
-    {
       "id": "clist:66465099",
       "platform": "nowcoder",
       "name": "牛客小白月赛131 [ACM]",
