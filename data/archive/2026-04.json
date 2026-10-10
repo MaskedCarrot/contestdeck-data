@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66465099",
-      "platform": "nowcoder",
-      "name": "牛客小白月赛131 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/131416",
-      "startsAt": "2026-04-10T11:00:00Z",
-      "endsAt": "2026-04-10T13:00:00Z"
-    },
-    {
       "id": "clist:68901367",
       "platform": "luogu",
       "name": "【MX-X27】梦熊 X 组 · 洪水赛 & CyOI Round 2（同步赛） [guzhi, ioi]",

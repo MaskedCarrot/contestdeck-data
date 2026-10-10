@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T09:46:36Z",
+  "updatedAt": "2026-10-10T17:19:33Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -14,22 +14,6 @@
       "url": "https://www.codechef.com/PLACEPREP11",
       "startsAt": "2026-10-09T18:30:08Z",
       "endsAt": "2026-10-11T20:29:00Z"
-    },
-    {
-      "id": "clist:70244327",
-      "platform": "atcoder",
-      "name": "AtCoder Regular Contest++ 232",
-      "url": "https://atcoder.jp/contests/arc232",
-      "startsAt": "2026-10-10T12:00:00Z",
-      "endsAt": "2026-10-10T14:30:00Z"
-    },
-    {
-      "id": "clist:70563385",
-      "platform": "leetcode",
-      "name": "Biweekly Contest 193",
-      "url": "https://leetcode.com/contest/biweekly-contest-193",
-      "startsAt": "2026-10-10T14:30:00Z",
-      "endsAt": "2026-10-10T16:00:00Z"
     },
     {
       "id": "clist:70471347",
@@ -284,8 +268,8 @@
       "platform": "atcoder",
       "name": "AtCoder Grand Contest 079",
       "url": "https://atcoder.jp/contests/agc079",
-      "startsAt": "2026-11-01T12:00:00Z",
-      "endsAt": "2026-11-01T15:00:00Z"
+      "startsAt": "2026-11-08T12:00:00Z",
+      "endsAt": "2026-11-08T15:00:00Z"
     }
   ]
 }

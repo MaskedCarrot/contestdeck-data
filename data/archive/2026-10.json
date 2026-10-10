@@ -249,6 +249,22 @@
       "url": "https://ac.nowcoder.com/acm/contest/141374",
       "startsAt": "2026-10-09T11:00:00Z",
       "endsAt": "2026-10-09T13:00:00Z"
+    },
+    {
+      "id": "clist:70244327",
+      "platform": "atcoder",
+      "name": "AtCoder Regular Contest++ 232",
+      "url": "https://atcoder.jp/contests/arc232",
+      "startsAt": "2026-10-10T12:00:00Z",
+      "endsAt": "2026-10-10T14:30:00Z"
+    },
+    {
+      "id": "clist:70563385",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 193",
+      "url": "https://leetcode.com/contest/biweekly-contest-193",
+      "startsAt": "2026-10-10T14:30:00Z",
+      "endsAt": "2026-10-10T16:00:00Z"
     }
   ]
 }
