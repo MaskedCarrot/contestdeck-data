@@ -265,6 +265,14 @@
       "url": "https://leetcode.com/contest/biweekly-contest-193",
       "startsAt": "2026-10-10T14:30:00Z",
       "endsAt": "2026-10-10T16:00:00Z"
+    },
+    {
+      "id": "clist:70471347",
+      "platform": "codeforces",
+      "name": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/contests/2271",
+      "startsAt": "2026-10-10T15:05:00Z",
+      "endsAt": "2026-10-10T18:05:00Z"
     }
   ]
 }

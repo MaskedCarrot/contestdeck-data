@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T17:19:33Z",
+  "updatedAt": "2026-10-10T21:40:23Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -14,14 +14,6 @@
       "url": "https://www.codechef.com/PLACEPREP11",
       "startsAt": "2026-10-09T18:30:08Z",
       "endsAt": "2026-10-11T20:29:00Z"
-    },
-    {
-      "id": "clist:70471347",
-      "platform": "codeforces",
-      "name": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
-      "url": "https://codeforces.com/contests/2271",
-      "startsAt": "2026-10-10T15:05:00Z",
-      "endsAt": "2026-10-10T18:05:00Z"
     },
     {
       "id": "clist:70796816",
