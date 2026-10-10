@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-10T00:47:15Z",
+  "updatedAt": "2026-10-10T09:46:36Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -152,6 +152,14 @@
       "endsAt": "2026-10-15T10:00:00Z"
     },
     {
+      "id": "clist:71128870",
+      "platform": "nowcoder",
+      "name": "牛客练习赛158 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/141876",
+      "startsAt": "2026-10-16T11:00:00Z",
+      "endsAt": "2026-10-16T13:30:00Z"
+    },
+    {
       "id": "clist:70795749",
       "platform": "atcoder",
       "name": "AtCoder Heuristic Contest 073",
@@ -192,12 +200,36 @@
       "endsAt": "2026-10-18T04:00:00Z"
     },
     {
+      "id": "clist:71129071",
+      "platform": "leetcode",
+      "name": "Weekly Contest 524",
+      "url": "https://leetcode.com/contest/weekly-contest-524",
+      "startsAt": "2026-10-18T02:30:00Z",
+      "endsAt": "2026-10-18T04:00:00Z"
+    },
+    {
+      "id": "clist:71128871",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 166 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/141877",
+      "startsAt": "2026-10-18T11:00:00Z",
+      "endsAt": "2026-10-18T13:00:00Z"
+    },
+    {
       "id": "clist:71002155",
       "platform": "codechef",
       "name": "Starters 261",
       "url": "https://www.codechef.com/START261",
       "startsAt": "2026-10-21T14:30:00Z",
       "endsAt": "2026-10-21T16:30:00Z"
+    },
+    {
+      "id": "clist:71128872",
+      "platform": "nowcoder",
+      "name": "牛客挑战赛93 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/141878",
+      "startsAt": "2026-10-23T11:00:00Z",
+      "endsAt": "2026-10-23T14:00:00Z"
     },
     {
       "id": "clist:71106692",
@@ -216,6 +248,14 @@
       "endsAt": "2026-10-25T12:30:00Z"
     },
     {
+      "id": "clist:71129070",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 194",
+      "url": "https://leetcode.com/contest/biweekly-contest-194",
+      "startsAt": "2026-10-24T14:30:00Z",
+      "endsAt": "2026-10-24T16:00:00Z"
+    },
+    {
       "id": "clist:71002154",
       "platform": "codechef",
       "name": "Starters 262",
@@ -230,6 +270,14 @@
       "url": "https://atcoder.jp/contests/ahc074",
       "startsAt": "2026-10-30T10:00:00Z",
       "endsAt": "2026-11-09T10:00:00Z"
+    },
+    {
+      "id": "clist:71130095",
+      "platform": "nowcoder",
+      "name": "牛客小白月赛139 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/141882",
+      "startsAt": "2026-10-30T11:00:00Z",
+      "endsAt": "2026-10-30T13:00:00Z"
     },
     {
       "id": "clist:71121587",
