@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T05:42:03Z",
+  "updatedAt": "2026-10-11T09:19:27Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -14,22 +14,6 @@
       "url": "https://www.codechef.com/PLACEPREP11",
       "startsAt": "2026-10-09T18:30:08Z",
       "endsAt": "2026-10-11T20:29:00Z"
-    },
-    {
-      "id": "clist:70170628",
-      "platform": "atcoder",
-      "name": "bogosort Programming Contest (Div. 1)",
-      "url": "https://atcoder.jp/contests/bogosortcontest_div1",
-      "startsAt": "2026-10-11T04:00:00Z",
-      "endsAt": "2026-10-11T09:00:00Z"
-    },
-    {
-      "id": "clist:70170629",
-      "platform": "atcoder",
-      "name": "bogosort Programming Contest (Div. 2)",
-      "url": "https://atcoder.jp/contests/bogosortcontest_div2",
-      "startsAt": "2026-10-11T04:00:00Z",
-      "endsAt": "2026-10-11T09:00:00Z"
     },
     {
       "id": "clist:70824781",

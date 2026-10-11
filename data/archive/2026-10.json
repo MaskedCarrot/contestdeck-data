@@ -281,6 +281,22 @@
       "url": "https://leetcode.com/contest/weekly-contest-523",
       "startsAt": "2026-10-11T02:30:00Z",
       "endsAt": "2026-10-11T04:00:00Z"
+    },
+    {
+      "id": "clist:70170628",
+      "platform": "atcoder",
+      "name": "bogosort Programming Contest (Div. 1)",
+      "url": "https://atcoder.jp/contests/bogosortcontest_div1",
+      "startsAt": "2026-10-11T04:00:00Z",
+      "endsAt": "2026-10-11T09:00:00Z"
+    },
+    {
+      "id": "clist:70170629",
+      "platform": "atcoder",
+      "name": "bogosort Programming Contest (Div. 2)",
+      "url": "https://atcoder.jp/contests/bogosortcontest_div2",
+      "startsAt": "2026-10-11T04:00:00Z",
+      "endsAt": "2026-10-11T09:00:00Z"
     }
   ]
 }
