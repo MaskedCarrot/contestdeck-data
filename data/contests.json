@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T12:44:52Z",
+  "updatedAt": "2026-10-11T19:32:21Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -14,22 +14,6 @@
       "url": "https://www.codechef.com/PLACEPREP11",
       "startsAt": "2026-10-09T18:30:08Z",
       "endsAt": "2026-10-11T20:29:00Z"
-    },
-    {
-      "id": "clist:71075851",
-      "platform": "nowcoder",
-      "name": "牛客周赛 Round 165 [IOI]",
-      "url": "https://ac.nowcoder.com/acm/contest/141721",
-      "startsAt": "2026-10-11T11:00:00Z",
-      "endsAt": "2026-10-11T13:00:00Z"
-    },
-    {
-      "id": "clist:70476524",
-      "platform": "atcoder",
-      "name": "AtCoder Beginner Contest 479",
-      "url": "https://atcoder.jp/contests/abc479",
-      "startsAt": "2026-10-11T12:00:00Z",
-      "endsAt": "2026-10-11T13:40:00Z"
     },
     {
       "id": "clist:70486733",

@@ -3,22 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66098291",
-      "platform": "atcoder",
-      "name": "AtCoder Beginner Contest 453",
-      "url": "https://atcoder.jp/contests/abc453",
-      "startsAt": "2026-04-11T12:00:00Z",
-      "endsAt": "2026-04-11T13:40:00Z"
-    },
-    {
-      "id": "clist:66296963",
-      "platform": "leetcode",
-      "name": "Biweekly Contest 180",
-      "url": "https://leetcode.com/contest/biweekly-contest-180",
-      "startsAt": "2026-04-11T14:30:00Z",
-      "endsAt": "2026-04-11T16:00:00Z"
-    },
-    {
       "id": "clist:68901365",
       "platform": "luogu",
       "name": "DSTOI Round 0 [ioi]",
