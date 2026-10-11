@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:68901367",
-      "platform": "luogu",
-      "name": "【MX-X27】梦熊 X 组 · 洪水赛 & CyOI Round 2（同步赛） [guzhi, ioi]",
-      "url": "https://www.luogu.com.cn/contest/319924",
-      "startsAt": "2026-04-11T06:00:00Z",
-      "endsAt": "2026-04-11T10:30:00Z"
-    },
-    {
       "id": "clist:66098291",
       "platform": "atcoder",
       "name": "AtCoder Beginner Contest 453",

@@ -297,6 +297,22 @@
       "url": "https://atcoder.jp/contests/bogosortcontest_div2",
       "startsAt": "2026-10-11T04:00:00Z",
       "endsAt": "2026-10-11T09:00:00Z"
+    },
+    {
+      "id": "clist:70824781",
+      "platform": "luogu",
+      "name": "【LGR-309-Div.2】洛谷 10 月月赛 III &「Star OI」Round 1 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/359211",
+      "startsAt": "2026-10-11T06:00:00Z",
+      "endsAt": "2026-10-11T10:00:00Z"
+    },
+    {
+      "id": "clist:70824782",
+      "platform": "luogu",
+      "name": "【LGR-309-Div.1】洛谷 10 月月赛 III &「Star OI」Round 1 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/359209",
+      "startsAt": "2026-10-11T06:00:00Z",
+      "endsAt": "2026-10-11T10:00:00Z"
     }
   ]
 }
