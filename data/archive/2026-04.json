@@ -3,22 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66501262",
-      "platform": "nowcoder",
-      "name": "牛客周赛 Round 139 [IOI]",
-      "url": "https://ac.nowcoder.com/acm/contest/131539",
-      "startsAt": "2026-04-12T11:00:00Z",
-      "endsAt": "2026-04-12T13:00:00Z"
-    },
-    {
-      "id": "clist:66814782",
-      "platform": "codechef",
-      "name": "Weekend Dev Challenge 45: Cybersecurity",
-      "url": "https://www.codechef.com/DEVWEEKEND45",
-      "startsAt": "2026-04-10T18:30:00Z",
-      "endsAt": "2026-04-12T18:30:00Z"
-    },
-    {
       "id": "clist:65872481",
       "platform": "atcoder",
       "name": "AtCoder Heuristic Contest 063",
