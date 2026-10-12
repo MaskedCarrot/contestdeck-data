@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T00:30:46Z",
+  "updatedAt": "2026-10-12T10:43:24Z",
   "archives": [
     {
       "month": "2026-04",
       "path": "data/archive/2026-04.json",
-      "count": 50,
-      "sha256": "b38d8365bf3c5d94c25029b69cc86780766729d005fa03dab4ecaccf414243f6"
+      "count": 44,
+      "sha256": "8c8559f82a869c08453243cbc69c64d46a07303bbe1fa1af59ecd15ae01aefe1"
     },
     {
       "month": "2026-05",
@@ -41,8 +41,8 @@
     {
       "month": "2026-10",
       "path": "data/archive/2026-10.json",
-      "count": 44,
-      "sha256": "3f2db174b432bd4d5bf5f93eae8f01c2f0f40e0b6e5990a2e81b05b3ca2baf5f"
+      "count": 45,
+      "sha256": "a59a132cfb9df9204b087aa5102210a1629d42b5d27ab1f4ba66349b1c29e648"
     }
   ]
 }
