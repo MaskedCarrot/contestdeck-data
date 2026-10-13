@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T10:30:35Z",
+  "updatedAt": "2026-10-13T19:14:12Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -104,6 +104,14 @@
       "endsAt": "2026-10-18T13:00:00Z"
     },
     {
+      "id": "clist:71243914",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 025 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY025",
+      "startsAt": "2026-10-19T13:30:00Z",
+      "endsAt": "2026-10-19T16:30:00Z"
+    },
+    {
       "id": "clist:71002155",
       "platform": "codechef",
       "name": "Starters 261",
@@ -126,6 +134,22 @@
       "url": "https://www.luogu.com.cn/contest/345405",
       "startsAt": "2026-10-24T00:30:00Z",
       "endsAt": "2026-10-24T04:00:00Z"
+    },
+    {
+      "id": "clist:71239110",
+      "platform": "luogu",
+      "name": "【LGR-311-Div.2】洛谷 10 月月赛 IV &「LDOI」Round #2 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/364653",
+      "startsAt": "2026-10-24T06:00:00Z",
+      "endsAt": "2026-10-24T11:00:00Z"
+    },
+    {
+      "id": "clist:71239111",
+      "platform": "luogu",
+      "name": "【LGR-311-Div.1】洛谷 10 月月赛 IV &「LDOI」Round #2 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/304314",
+      "startsAt": "2026-10-24T06:00:00Z",
+      "endsAt": "2026-10-24T11:00:00Z"
     },
     {
       "id": "clist:71106692",

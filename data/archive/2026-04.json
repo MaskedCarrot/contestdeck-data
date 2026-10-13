@@ -3,30 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66786989",
-      "platform": "codechef",
-      "name": "Monday Munch - DSA Challenge 33",
-      "url": "https://www.codechef.com/DSAMONDAY33",
-      "startsAt": "2026-04-13T12:30:00Z",
-      "endsAt": "2026-04-13T15:30:00Z"
-    },
-    {
-      "id": "clist:66776554",
-      "platform": "codeforces",
-      "name": "Codeforces Round 1093 (Div. 1)",
-      "url": "https://codeforces.com/contests/2219",
-      "startsAt": "2026-04-13T14:35:00Z",
-      "endsAt": "2026-04-13T16:35:00Z"
-    },
-    {
-      "id": "clist:66776555",
-      "platform": "codeforces",
-      "name": "Codeforces Round 1093 (Div. 2)",
-      "url": "https://codeforces.com/contests/2220",
-      "startsAt": "2026-04-13T14:35:00Z",
-      "endsAt": "2026-04-13T16:35:00Z"
-    },
-    {
       "id": "clist:68901361",
       "platform": "luogu",
       "name": "[ICPC2023 Jinan R] ICPC 2023 区域赛济南站重现赛 [guzhi, icpc, squad]",
