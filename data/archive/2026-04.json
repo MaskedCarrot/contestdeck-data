@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:65872481",
-      "platform": "atcoder",
-      "name": "AtCoder Heuristic Contest 063",
-      "url": "https://atcoder.jp/contests/ahc063",
-      "startsAt": "2026-04-03T10:00:00Z",
-      "endsAt": "2026-04-13T10:00:00Z"
-    },
-    {
       "id": "clist:66786989",
       "platform": "codechef",
       "name": "Monday Munch - DSA Challenge 33",

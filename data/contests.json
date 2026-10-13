@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T21:15:01Z",
+  "updatedAt": "2026-10-13T10:30:35Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -40,6 +40,14 @@
       "endsAt": "2026-10-16T13:30:00Z"
     },
     {
+      "id": "clist:71229910",
+      "platform": "codechef",
+      "name": "Placement Prep Weekends - 12",
+      "url": "https://www.codechef.com/PLACEPREP12",
+      "startsAt": "2026-10-16T18:30:28Z",
+      "endsAt": "2026-10-18T20:29:00Z"
+    },
+    {
       "id": "clist:70795749",
       "platform": "atcoder",
       "name": "AtCoder Heuristic Contest 073",
@@ -66,7 +74,7 @@
     {
       "id": "clist:69944889",
       "platform": "codeforces",
-      "name": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
+      "name": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
       "url": "https://codeforces.com/contests/2261",
       "startsAt": "2026-10-17T14:35:00Z",
       "endsAt": "2026-10-17T17:35:00Z"
@@ -152,6 +160,14 @@
       "endsAt": "2026-10-25T04:00:00Z"
     },
     {
+      "id": "clist:71231910",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 167 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/142115",
+      "startsAt": "2026-10-25T11:00:00Z",
+      "endsAt": "2026-10-25T13:00:00Z"
+    },
+    {
       "id": "clist:71187151",
       "platform": "atcoder",
       "name": "AtCoder Regular Contest++ 233",
@@ -190,6 +206,22 @@
       "url": "https://ac.nowcoder.com/acm/contest/141882",
       "startsAt": "2026-10-30T11:00:00Z",
       "endsAt": "2026-10-30T13:00:00Z"
+    },
+    {
+      "id": "clist:71222373",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 482",
+      "url": "https://atcoder.jp/contests/abc482",
+      "startsAt": "2026-10-31T12:00:00Z",
+      "endsAt": "2026-10-31T13:40:00Z"
+    },
+    {
+      "id": "clist:71225023",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 483",
+      "url": "https://atcoder.jp/contests/abc483",
+      "startsAt": "2026-11-07T12:00:00Z",
+      "endsAt": "2026-11-07T13:40:00Z"
     },
     {
       "id": "clist:71121587",
