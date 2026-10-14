@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13T19:14:12Z",
+  "updatedAt": "2026-10-14T11:47:11Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -158,6 +158,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/141819",
       "startsAt": "2026-10-24T11:00:00Z",
       "endsAt": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "clist:71260434",
+      "platform": "codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "url": "https://codeforces.com/contests/2277",
+      "startsAt": "2026-10-24T11:05:00Z",
+      "endsAt": "2026-10-24T13:05:00Z"
     },
     {
       "id": "clist:70536008",

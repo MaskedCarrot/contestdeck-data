@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:68901361",
-      "platform": "luogu",
-      "name": "[ICPC2023 Jinan R] ICPC 2023 区域赛济南站重现赛 [guzhi, icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/320257",
-      "startsAt": "2026-04-14T05:00:00Z",
-      "endsAt": "2026-04-14T10:00:00Z"
-    },
-    {
       "id": "clist:66043194",
       "platform": "codechef",
       "name": "Starters 234 (Rated for all)",
