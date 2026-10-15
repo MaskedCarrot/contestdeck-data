@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66043194",
-      "platform": "codechef",
-      "name": "Starters 234 (Rated for all)",
-      "url": "https://www.codechef.com/START234",
-      "startsAt": "2026-04-15T14:30:00Z",
-      "endsAt": "2026-04-15T16:30:00Z"
-    },
-    {
       "id": "clist:68901360",
       "platform": "luogu",
       "name": "【LGR-283-Div.4】洛谷入门赛 #46 [ioi]",
