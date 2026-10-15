@@ -385,6 +385,14 @@
       "url": "https://codeforces.com/contests/2276",
       "startsAt": "2026-10-14T14:35:00Z",
       "endsAt": "2026-10-14T16:35:00Z"
+    },
+    {
+      "id": "clist:70704910",
+      "platform": "luogu",
+      "name": "[ICPC2019 Nanjing R] ICPC 2019 区域赛南京站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/358584",
+      "startsAt": "2026-10-15T05:00:00Z",
+      "endsAt": "2026-10-15T10:00:00Z"
     }
   ]
 }

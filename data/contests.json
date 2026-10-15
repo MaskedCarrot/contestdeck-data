@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T17:07:02Z",
+  "updatedAt": "2026-10-15T11:23:41Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -8,12 +8,12 @@
   "retentionDays": 183,
   "contests": [
     {
-      "id": "clist:70704910",
-      "platform": "luogu",
-      "name": "[ICPC2019 Nanjing R] ICPC 2019 区域赛南京站重现赛 [guzhi, icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/358584",
-      "startsAt": "2026-10-15T05:00:00Z",
-      "endsAt": "2026-10-15T10:00:00Z"
+      "id": "clist:71291035",
+      "platform": "atcoder",
+      "name": "AHC GenAI Rules Trial Contest 2026",
+      "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
+      "startsAt": "2026-10-15T10:00:00Z",
+      "endsAt": "2026-10-18T10:00:00Z"
     },
     {
       "id": "clist:71128870",
@@ -150,6 +150,14 @@
       "url": "https://codeforces.com/contests/2277",
       "startsAt": "2026-10-24T11:05:00Z",
       "endsAt": "2026-10-24T13:05:00Z"
+    },
+    {
+      "id": "clist:71292652",
+      "platform": "atcoder",
+      "name": "SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
+      "url": "https://atcoder.jp/contests/abc481",
+      "startsAt": "2026-10-24T12:00:00Z",
+      "endsAt": "2026-10-24T13:40:00Z"
     },
     {
       "id": "clist:70536008",
