@@ -393,6 +393,14 @@
       "url": "https://www.luogu.com.cn/contest/358584",
       "startsAt": "2026-10-15T05:00:00Z",
       "endsAt": "2026-10-15T10:00:00Z"
+    },
+    {
+      "id": "clist:71128870",
+      "platform": "nowcoder",
+      "name": "牛客练习赛158 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/141876",
+      "startsAt": "2026-10-16T11:00:00Z",
+      "endsAt": "2026-10-16T13:30:00Z"
     }
   ]
 }
