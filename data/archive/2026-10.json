@@ -417,6 +417,14 @@
       "url": "https://www.luogu.com.cn/contest/358588",
       "startsAt": "2026-10-17T06:30:00Z",
       "endsAt": "2026-10-17T10:30:00Z"
+    },
+    {
+      "id": "clist:70795347",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 480",
+      "url": "https://atcoder.jp/contests/abc480",
+      "startsAt": "2026-10-17T12:00:00Z",
+      "endsAt": "2026-10-17T13:40:00Z"
     }
   ]
 }

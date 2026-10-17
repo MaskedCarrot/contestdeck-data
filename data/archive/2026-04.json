@@ -3,22 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:68901360",
-      "platform": "luogu",
-      "name": "【LGR-283-Div.4】洛谷入门赛 #46 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/320476",
-      "startsAt": "2026-04-17T11:00:00Z",
-      "endsAt": "2026-04-17T13:00:00Z"
-    },
-    {
-      "id": "clist:66658836",
-      "platform": "nowcoder",
-      "name": "牛客练习赛151 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/132152",
-      "startsAt": "2026-04-17T11:00:00Z",
-      "endsAt": "2026-04-17T13:30:00Z"
-    },
-    {
       "id": "clist:68901359",
       "platform": "luogu",
       "name": "【MX-J29】梦熊 J 组 · 百香果赛 [guzhi, ioi]",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T10:38:27Z",
+  "updatedAt": "2026-10-17T15:30:00Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -22,14 +22,6 @@
       "url": "https://www.codechef.com/PLACEPREP12",
       "startsAt": "2026-10-16T18:30:28Z",
       "endsAt": "2026-10-18T20:29:00Z"
-    },
-    {
-      "id": "clist:70795347",
-      "platform": "atcoder",
-      "name": "AtCoder Beginner Contest 480",
-      "url": "https://atcoder.jp/contests/abc480",
-      "startsAt": "2026-10-17T12:00:00Z",
-      "endsAt": "2026-10-17T13:40:00Z"
     },
     {
       "id": "clist:69944889",
@@ -160,6 +152,14 @@
       "endsAt": "2026-10-25T04:00:00Z"
     },
     {
+      "id": "clist:71364592",
+      "platform": "luogu",
+      "name": "奶龙OI Round 9 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/359522",
+      "startsAt": "2026-10-25T06:00:00Z",
+      "endsAt": "2026-10-25T09:00:00Z"
+    },
+    {
       "id": "clist:71231910",
       "platform": "nowcoder",
       "name": "牛客周赛 Round 167 [IOI]",
@@ -190,6 +190,14 @@
       "url": "https://www.codechef.com/START262",
       "startsAt": "2026-10-28T14:30:00Z",
       "endsAt": "2026-10-28T16:30:00Z"
+    },
+    {
+      "id": "clist:71358566",
+      "platform": "codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "url": "https://codeforces.com/contests/2278",
+      "startsAt": "2026-10-29T14:35:00Z",
+      "endsAt": "2026-10-29T16:50:00Z"
     },
     {
       "id": "clist:70879517",
