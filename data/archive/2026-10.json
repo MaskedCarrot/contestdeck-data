@@ -425,6 +425,14 @@
       "url": "https://atcoder.jp/contests/abc480",
       "startsAt": "2026-10-17T12:00:00Z",
       "endsAt": "2026-10-17T13:40:00Z"
+    },
+    {
+      "id": "clist:69944889",
+      "platform": "codeforces",
+      "name": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
+      "url": "https://codeforces.com/contests/2261",
+      "startsAt": "2026-10-17T14:35:00Z",
+      "endsAt": "2026-10-17T17:35:00Z"
     }
   ]
 }
