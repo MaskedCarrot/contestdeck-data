@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-16T16:35:22Z",
+  "updatedAt": "2026-10-17T10:38:27Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -22,22 +22,6 @@
       "url": "https://www.codechef.com/PLACEPREP12",
       "startsAt": "2026-10-16T18:30:28Z",
       "endsAt": "2026-10-18T20:29:00Z"
-    },
-    {
-      "id": "clist:70795749",
-      "platform": "atcoder",
-      "name": "AtCoder Heuristic Contest 073",
-      "url": "https://atcoder.jp/contests/ahc073",
-      "startsAt": "2026-10-17T06:00:00Z",
-      "endsAt": "2026-10-17T10:00:00Z"
-    },
-    {
-      "id": "clist:70705737",
-      "platform": "luogu",
-      "name": "【LGR-307】SCP 2026 第二轮（复赛 S 组）模拟 [rated, oi]",
-      "url": "https://www.luogu.com.cn/contest/358588",
-      "startsAt": "2026-10-17T06:30:00Z",
-      "endsAt": "2026-10-17T10:30:00Z"
     },
     {
       "id": "clist:70795347",
