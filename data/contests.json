@@ -1,20 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T15:49:09Z",
+  "updatedAt": "2026-10-18T20:38:07Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:71229910",
-      "platform": "codechef",
-      "name": "Placement Prep Weekends - 12",
-      "url": "https://www.codechef.com/PLACEPREP12",
-      "startsAt": "2026-10-16T18:30:28Z",
-      "endsAt": "2026-10-18T20:29:00Z"
-    },
     {
       "id": "clist:71243914",
       "platform": "codechef",

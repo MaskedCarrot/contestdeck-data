@@ -465,6 +465,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/141877",
       "startsAt": "2026-10-18T11:00:00Z",
       "endsAt": "2026-10-18T13:00:00Z"
+    },
+    {
+      "id": "clist:71229910",
+      "platform": "codechef",
+      "name": "Placement Prep Weekends - 12",
+      "url": "https://www.codechef.com/PLACEPREP12",
+      "startsAt": "2026-10-16T18:30:28Z",
+      "endsAt": "2026-10-18T20:29:00Z"
     }
   ]
 }
