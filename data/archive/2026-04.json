@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66409907",
-      "platform": "atcoder",
-      "name": "Keysight Technologies Programming Contest（AtCoder Beginner Contest 454）",
-      "url": "https://atcoder.jp/contests/abc454",
-      "startsAt": "2026-04-18T12:00:00Z",
-      "endsAt": "2026-04-18T13:40:00Z"
-    },
-    {
       "id": "clist:66860148",
       "platform": "leetcode",
       "name": "Weekly Contest 498",

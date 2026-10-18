@@ -457,6 +457,14 @@
       "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
       "startsAt": "2026-10-15T10:00:00Z",
       "endsAt": "2026-10-18T10:00:00Z"
+    },
+    {
+      "id": "clist:71128871",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 166 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/141877",
+      "startsAt": "2026-10-18T11:00:00Z",
+      "endsAt": "2026-10-18T13:00:00Z"
     }
   ]
 }

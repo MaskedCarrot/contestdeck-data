@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T10:59:38Z",
+  "updatedAt": "2026-10-18T15:49:09Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -14,14 +14,6 @@
       "url": "https://www.codechef.com/PLACEPREP12",
       "startsAt": "2026-10-16T18:30:28Z",
       "endsAt": "2026-10-18T20:29:00Z"
-    },
-    {
-      "id": "clist:71128871",
-      "platform": "nowcoder",
-      "name": "牛客周赛 Round 166 [IOI]",
-      "url": "https://ac.nowcoder.com/acm/contest/141877",
-      "startsAt": "2026-10-18T11:00:00Z",
-      "endsAt": "2026-10-18T13:00:00Z"
     },
     {
       "id": "clist:71243914",
@@ -168,14 +160,6 @@
       "endsAt": "2026-10-29T10:00:00Z"
     },
     {
-      "id": "clist:71358566",
-      "platform": "codeforces",
-      "name": "Codeforces Round (Div. 3)",
-      "url": "https://codeforces.com/contests/2278",
-      "startsAt": "2026-10-29T14:35:00Z",
-      "endsAt": "2026-10-29T16:50:00Z"
-    },
-    {
       "id": "clist:70879517",
       "platform": "atcoder",
       "name": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
@@ -198,6 +182,14 @@
       "url": "https://atcoder.jp/contests/abc482",
       "startsAt": "2026-10-31T12:00:00Z",
       "endsAt": "2026-10-31T13:40:00Z"
+    },
+    {
+      "id": "clist:71358566",
+      "platform": "codeforces",
+      "name": "Codeforces Round (Div. 3)",
+      "url": "https://codeforces.com/contests/2278",
+      "startsAt": "2026-10-31T14:35:00Z",
+      "endsAt": "2026-10-31T16:50:00Z"
     },
     {
       "id": "clist:71225023",
