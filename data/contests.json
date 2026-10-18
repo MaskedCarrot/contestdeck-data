@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T04:27:00Z",
+  "updatedAt": "2026-10-18T07:26:13Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -46,6 +46,14 @@
       "url": "https://www.codechef.com/START261",
       "startsAt": "2026-10-21T14:30:00Z",
       "endsAt": "2026-10-21T16:30:00Z"
+    },
+    {
+      "id": "clist:71383250",
+      "platform": "luogu",
+      "name": "[ICPC2019 Xuzhou R] ICPC 2019 区域赛徐州站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/366007",
+      "startsAt": "2026-10-22T05:00:00Z",
+      "endsAt": "2026-10-22T10:00:00Z"
     },
     {
       "id": "clist:71128872",
@@ -128,14 +136,6 @@
       "endsAt": "2026-10-25T04:00:00Z"
     },
     {
-      "id": "clist:71364592",
-      "platform": "luogu",
-      "name": "奶龙 OI Round 9 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/359522",
-      "startsAt": "2026-10-25T06:00:00Z",
-      "endsAt": "2026-10-25T09:00:00Z"
-    },
-    {
       "id": "clist:71231910",
       "platform": "nowcoder",
       "name": "牛客周赛 Round 167 [IOI]",
@@ -166,6 +166,14 @@
       "url": "https://www.codechef.com/START262",
       "startsAt": "2026-10-28T14:30:00Z",
       "endsAt": "2026-10-28T16:30:00Z"
+    },
+    {
+      "id": "clist:71383246",
+      "platform": "luogu",
+      "name": "[ICPC2019 Nanchang R] ICPC 2019 区域赛南昌站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/366008",
+      "startsAt": "2026-10-29T05:00:00Z",
+      "endsAt": "2026-10-29T10:00:00Z"
     },
     {
       "id": "clist:71358566",

@@ -3,22 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:68901368",
-      "platform": "luogu",
-      "name": "蓝桥杯省赛自测（CB 组） [ioi]",
-      "url": "https://www.luogu.com.cn/contest/320659",
-      "startsAt": "2026-04-11T05:05:00Z",
-      "endsAt": "2026-04-18T05:00:00Z"
-    },
-    {
-      "id": "clist:68901366",
-      "platform": "luogu",
-      "name": "蓝桥杯省赛自测（CA 组） [ioi]",
-      "url": "https://www.luogu.com.cn/contest/320702",
-      "startsAt": "2026-04-11T06:30:00Z",
-      "endsAt": "2026-04-18T06:30:00Z"
-    },
-    {
       "id": "clist:66498612",
       "platform": "atcoder",
       "name": "第三回マスターズ選手権 -決勝-",
