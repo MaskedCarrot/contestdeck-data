@@ -433,6 +433,22 @@
       "url": "https://codeforces.com/contests/2261",
       "startsAt": "2026-10-17T14:35:00Z",
       "endsAt": "2026-10-17T17:35:00Z"
+    },
+    {
+      "id": "clist:71129071",
+      "platform": "leetcode",
+      "name": "Weekly Contest 524",
+      "url": "https://leetcode.com/contest/weekly-contest-524",
+      "startsAt": "2026-10-18T02:30:00Z",
+      "endsAt": "2026-10-18T04:00:00Z"
+    },
+    {
+      "id": "clist:70622721",
+      "platform": "luogu",
+      "name": "【LGR-308】SCP 2026 第二轮（复赛 J 组）模拟 [rated, oi]",
+      "url": "https://www.luogu.com.cn/contest/264620",
+      "startsAt": "2026-10-18T00:30:00Z",
+      "endsAt": "2026-10-18T04:00:00Z"
     }
   ]
 }

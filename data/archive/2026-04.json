@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:68901359",
-      "platform": "luogu",
-      "name": "【MX-J29】梦熊 J 组 · 百香果赛 [guzhi, ioi]",
-      "url": "https://www.luogu.com.cn/contest/321416",
-      "startsAt": "2026-04-18T00:30:00Z",
-      "endsAt": "2026-04-18T04:00:00Z"
-    },
-    {
       "id": "clist:68901368",
       "platform": "luogu",
       "name": "蓝桥杯省赛自测（CB 组） [ioi]",

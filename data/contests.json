@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-17T20:33:31Z",
+  "updatedAt": "2026-10-18T04:27:00Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -22,22 +22,6 @@
       "url": "https://www.codechef.com/PLACEPREP12",
       "startsAt": "2026-10-16T18:30:28Z",
       "endsAt": "2026-10-18T20:29:00Z"
-    },
-    {
-      "id": "clist:70622721",
-      "platform": "luogu",
-      "name": "【LGR-308】SCP 2026 第二轮（复赛 J 组）模拟 [rated, oi]",
-      "url": "https://www.luogu.com.cn/contest/264620",
-      "startsAt": "2026-10-18T00:30:00Z",
-      "endsAt": "2026-10-18T04:00:00Z"
-    },
-    {
-      "id": "clist:71129071",
-      "platform": "leetcode",
-      "name": "Weekly Contest 524",
-      "url": "https://leetcode.com/contest/weekly-contest-524",
-      "startsAt": "2026-10-18T02:30:00Z",
-      "endsAt": "2026-10-18T04:00:00Z"
     },
     {
       "id": "clist:71128871",
@@ -146,7 +130,7 @@
     {
       "id": "clist:71364592",
       "platform": "luogu",
-      "name": "奶龙OI Round 9 [ioi]",
+      "name": "奶龙 OI Round 9 [ioi]",
       "url": "https://www.luogu.com.cn/contest/359522",
       "startsAt": "2026-10-25T06:00:00Z",
       "endsAt": "2026-10-25T09:00:00Z"
