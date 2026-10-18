@@ -449,6 +449,14 @@
       "url": "https://www.luogu.com.cn/contest/264620",
       "startsAt": "2026-10-18T00:30:00Z",
       "endsAt": "2026-10-18T04:00:00Z"
+    },
+    {
+      "id": "clist:71291035",
+      "platform": "atcoder",
+      "name": "AHC GenAI Rules Trial Contest 2026",
+      "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
+      "startsAt": "2026-10-15T10:00:00Z",
+      "endsAt": "2026-10-18T10:00:00Z"
     }
   ]
 }

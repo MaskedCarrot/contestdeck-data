@@ -3,38 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66498612",
-      "platform": "atcoder",
-      "name": "第三回マスターズ選手権 -決勝-",
-      "url": "https://atcoder.jp/contests/masters2026-final",
-      "startsAt": "2026-04-18T02:40:00Z",
-      "endsAt": "2026-04-18T08:40:00Z"
-    },
-    {
-      "id": "clist:66498613",
-      "platform": "atcoder",
-      "name": "第三回マスターズ選手権-決勝-(オープンコンテスト)",
-      "url": "https://atcoder.jp/contests/masters2026-final-open",
-      "startsAt": "2026-04-18T02:40:00Z",
-      "endsAt": "2026-04-18T08:40:00Z"
-    },
-    {
-      "id": "clist:68901357",
-      "platform": "luogu",
-      "name": "【LGR-282-Div.2】洛谷 4 月月赛 II & 蓬莱人形 Round 2 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/319865",
-      "startsAt": "2026-04-18T06:00:00Z",
-      "endsAt": "2026-04-18T10:00:00Z"
-    },
-    {
-      "id": "clist:68901358",
-      "platform": "luogu",
-      "name": "【LGR-282-Div.1】洛谷 4 月月赛 II & 蓬莱人形 Round 2 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/276319",
-      "startsAt": "2026-04-18T06:00:00Z",
-      "endsAt": "2026-04-18T10:00:00Z"
-    },
-    {
       "id": "clist:66409907",
       "platform": "atcoder",
       "name": "Keysight Technologies Programming Contest（AtCoder Beginner Contest 454）",

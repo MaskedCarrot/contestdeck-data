@@ -1,20 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T07:26:13Z",
+  "updatedAt": "2026-10-18T10:59:38Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:71291035",
-      "platform": "atcoder",
-      "name": "AHC GenAI Rules Trial Contest 2026",
-      "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
-      "startsAt": "2026-10-15T10:00:00Z",
-      "endsAt": "2026-10-18T10:00:00Z"
-    },
     {
       "id": "clist:71229910",
       "platform": "codechef",
