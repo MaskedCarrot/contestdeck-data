@@ -3,22 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66860148",
-      "platform": "leetcode",
-      "name": "Weekly Contest 498",
-      "url": "https://leetcode.com/contest/weekly-contest-498",
-      "startsAt": "2026-04-19T02:30:00Z",
-      "endsAt": "2026-04-19T04:00:00Z"
-    },
-    {
-      "id": "clist:68901356",
-      "platform": "luogu",
-      "name": "DSDOI Round 1 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/285525",
-      "startsAt": "2026-04-19T01:00:00Z",
-      "endsAt": "2026-04-19T04:00:00Z"
-    },
-    {
       "id": "clist:68901363",
       "platform": "luogu",
       "name": "蓝桥杯省赛自测（Python B 组） [ioi]",
