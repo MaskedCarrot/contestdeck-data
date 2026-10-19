@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T20:38:07Z",
+  "updatedAt": "2026-10-19T13:06:47Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -112,6 +112,14 @@
       "endsAt": "2026-10-25T04:00:00Z"
     },
     {
+      "id": "clist:71425761",
+      "platform": "luogu",
+      "name": "【LGR-316-Div.4】洛谷入门赛 #53 & ++RP 赛 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/366453",
+      "startsAt": "2026-10-25T11:00:00Z",
+      "endsAt": "2026-10-25T13:00:00Z"
+    },
+    {
       "id": "clist:71231910",
       "platform": "nowcoder",
       "name": "牛客周赛 Round 167 [IOI]",
@@ -198,6 +206,14 @@
       "url": "https://atcoder.jp/contests/agc079",
       "startsAt": "2026-11-08T12:00:00Z",
       "endsAt": "2026-11-08T15:00:00Z"
+    },
+    {
+      "id": "clist:71419780",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 484",
+      "url": "https://atcoder.jp/contests/abc484",
+      "startsAt": "2026-11-14T12:00:00Z",
+      "endsAt": "2026-11-14T13:40:00Z"
     }
   ]
 }
