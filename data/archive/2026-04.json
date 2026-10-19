@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66992930",
-      "platform": "codechef",
-      "name": "Weekend Dev Challenge 46: Cybersecurity",
-      "url": "https://www.codechef.com/DEVWEEKEND46",
-      "startsAt": "2026-04-17T18:30:00Z",
-      "endsAt": "2026-04-19T18:30:00Z"
-    },
-    {
       "id": "clist:66959603",
       "platform": "codechef",
       "name": "Monday Munch - DSA Challenge 34",
