@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T08:27:50Z",
+  "updatedAt": "2026-10-20T14:16:58Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -112,6 +112,14 @@
       "endsAt": "2026-10-25T04:00:00Z"
     },
     {
+      "id": "clist:71456870",
+      "platform": "luogu",
+      "name": "CXOI Round 7 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/296670",
+      "startsAt": "2026-10-25T05:30:00Z",
+      "endsAt": "2026-10-25T09:30:00Z"
+    },
+    {
       "id": "clist:71425761",
       "platform": "luogu",
       "name": "【LGR-316-Div.4】洛谷入门赛 #53 & ++RP 赛 [rated, ioi]",
@@ -192,12 +200,52 @@
       "endsAt": "2026-10-31T16:50:00Z"
     },
     {
+      "id": "clist:71453079",
+      "platform": "leetcode",
+      "name": "Weekly Contest 526",
+      "url": "https://leetcode.com/contest/weekly-contest-526",
+      "startsAt": "2026-11-01T02:30:00Z",
+      "endsAt": "2026-11-01T04:00:00Z"
+    },
+    {
+      "id": "clist:71456291",
+      "platform": "codeforces",
+      "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
+      "url": "https://codeforces.com/contests/2281",
+      "startsAt": "2026-11-05T11:00:00Z",
+      "endsAt": "2026-11-19T11:00:00Z"
+    },
+    {
       "id": "clist:71225023",
       "platform": "atcoder",
       "name": "AtCoder Beginner Contest 483",
       "url": "https://atcoder.jp/contests/abc483",
       "startsAt": "2026-11-07T12:00:00Z",
       "endsAt": "2026-11-07T13:40:00Z"
+    },
+    {
+      "id": "clist:71453078",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 195",
+      "url": "https://leetcode.com/contest/biweekly-contest-195",
+      "startsAt": "2026-11-07T14:30:00Z",
+      "endsAt": "2026-11-07T16:00:00Z"
+    },
+    {
+      "id": "clist:71454437",
+      "platform": "codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "url": "https://codeforces.com/contests/2279",
+      "startsAt": "2026-11-07T14:35:00Z",
+      "endsAt": "2026-11-07T17:05:00Z"
+    },
+    {
+      "id": "clist:71454438",
+      "platform": "codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "url": "https://codeforces.com/contests/2280",
+      "startsAt": "2026-11-07T14:35:00Z",
+      "endsAt": "2026-11-07T17:05:00Z"
     },
     {
       "id": "clist:71121587",
