@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66959603",
-      "platform": "codechef",
-      "name": "Monday Munch - DSA Challenge 34",
-      "url": "https://www.codechef.com/DSAMONDAY34",
-      "startsAt": "2026-04-20T12:30:00Z",
-      "endsAt": "2026-04-20T15:30:00Z"
-    },
-    {
       "id": "clist:67155153",
       "platform": "codeforces",
       "name": "Educational Codeforces Round 189 (Rated for Div. 2)",
