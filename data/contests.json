@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19T20:34:07Z",
+  "updatedAt": "2026-10-20T08:27:50Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -30,6 +30,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/141878",
       "startsAt": "2026-10-23T11:00:00Z",
       "endsAt": "2026-10-23T14:00:00Z"
+    },
+    {
+      "id": "clist:71450859",
+      "platform": "codechef",
+      "name": "Placement Prep Weekends - 12",
+      "url": "https://www.codechef.com/PLACEPREP13",
+      "startsAt": "2026-10-23T18:30:17Z",
+      "endsAt": "2026-10-27T18:29:00Z"
     },
     {
       "id": "clist:71169880",
