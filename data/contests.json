@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T14:16:58Z",
+  "updatedAt": "2026-10-21T11:43:51Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -10,7 +10,7 @@
     {
       "id": "clist:71002155",
       "platform": "codechef",
-      "name": "Starters 261",
+      "name": "Starters 261 (Rated for 5 Star)",
       "url": "https://www.codechef.com/START261",
       "startsAt": "2026-10-21T14:30:00Z",
       "endsAt": "2026-10-21T16:30:00Z"
@@ -34,7 +34,7 @@
     {
       "id": "clist:71450859",
       "platform": "codechef",
-      "name": "Placement Prep Weekends - 12",
+      "name": "Placement Prep Weekends - 13",
       "url": "https://www.codechef.com/PLACEPREP13",
       "startsAt": "2026-10-23T18:30:17Z",
       "endsAt": "2026-10-27T18:29:00Z"
@@ -208,12 +208,28 @@
       "endsAt": "2026-11-01T04:00:00Z"
     },
     {
+      "id": "clist:71482750",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 168 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/142559",
+      "startsAt": "2026-11-01T11:00:00Z",
+      "endsAt": "2026-11-01T13:00:00Z"
+    },
+    {
       "id": "clist:71456291",
       "platform": "codeforces",
       "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
       "url": "https://codeforces.com/contests/2281",
       "startsAt": "2026-11-05T11:00:00Z",
       "endsAt": "2026-11-19T11:00:00Z"
+    },
+    {
+      "id": "clist:71482751",
+      "platform": "nowcoder",
+      "name": "牛客练习赛159 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/142560",
+      "startsAt": "2026-11-06T11:00:00Z",
+      "endsAt": "2026-11-06T13:30:00Z"
     },
     {
       "id": "clist:71225023",
