@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:67155153",
-      "platform": "codeforces",
-      "name": "Educational Codeforces Round 189 (Rated for Div. 2)",
-      "url": "https://codeforces.com/contests/2225",
-      "startsAt": "2026-04-21T14:35:00Z",
-      "endsAt": "2026-04-21T16:35:00Z"
-    },
-    {
       "id": "clist:66329995",
       "platform": "luogu",
       "name": "不是 Ahaer 出题组的 2026 愚人节比赛 [ioi]",

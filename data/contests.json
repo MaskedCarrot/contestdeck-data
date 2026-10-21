@@ -1,20 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-21T11:43:51Z",
+  "updatedAt": "2026-10-21T17:08:39Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:71002155",
-      "platform": "codechef",
-      "name": "Starters 261 (Rated for 5 Star)",
-      "url": "https://www.codechef.com/START261",
-      "startsAt": "2026-10-21T14:30:00Z",
-      "endsAt": "2026-10-21T16:30:00Z"
-    },
     {
       "id": "clist:71383250",
       "platform": "luogu",
@@ -74,7 +66,7 @@
     {
       "id": "clist:71260434",
       "platform": "codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1129 (Div. 2)",
       "url": "https://codeforces.com/contests/2277",
       "startsAt": "2026-10-24T11:05:00Z",
       "endsAt": "2026-10-24T13:05:00Z"
@@ -102,6 +94,14 @@
       "url": "https://leetcode.com/contest/biweekly-contest-194",
       "startsAt": "2026-10-24T14:30:00Z",
       "endsAt": "2026-10-24T16:00:00Z"
+    },
+    {
+      "id": "clist:71493104",
+      "platform": "luogu",
+      "name": "百合不是罪过 [icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/364829",
+      "startsAt": "2026-10-25T00:00:00Z",
+      "endsAt": "2026-10-25T04:00:00Z"
     },
     {
       "id": "clist:71197513",
@@ -146,7 +146,7 @@
     {
       "id": "clist:71213900",
       "platform": "codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1130 (Div. 2)",
       "url": "https://codeforces.com/contests/2272",
       "startsAt": "2026-10-26T14:35:00Z",
       "endsAt": "2026-10-26T16:50:00Z"
@@ -194,7 +194,7 @@
     {
       "id": "clist:71358566",
       "platform": "codeforces",
-      "name": "Codeforces Round (Div. 3)",
+      "name": "Codeforces Round 1131 (Div. 3)",
       "url": "https://codeforces.com/contests/2278",
       "startsAt": "2026-10-31T14:35:00Z",
       "endsAt": "2026-10-31T16:50:00Z"
