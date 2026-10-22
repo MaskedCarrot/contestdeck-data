@@ -1,12 +1,28 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T11:46:45Z",
+  "updatedAt": "2026-10-22T17:07:25Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
+    {
+      "id": "clist:71522358",
+      "platform": "luogu",
+      "name": "CSP-J 必备模板赛 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/367096",
+      "startsAt": "2026-10-23T02:00:00Z",
+      "endsAt": "2026-10-31T10:30:00Z"
+    },
+    {
+      "id": "clist:71522803",
+      "platform": "luogu",
+      "name": "CSP-S 必备模板赛 [ioi]",
+      "url": "https://www.luogu.com.cn/contest/367097",
+      "startsAt": "2026-10-23T02:00:00Z",
+      "endsAt": "2026-10-31T10:30:00Z"
+    },
     {
       "id": "clist:71128872",
       "platform": "nowcoder",

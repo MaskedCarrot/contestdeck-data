@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66044995",
-      "platform": "codechef",
-      "name": "Starters 235 (Rated till 6 star)",
-      "url": "https://www.codechef.com/START235",
-      "startsAt": "2026-04-22T14:30:00Z",
-      "endsAt": "2026-04-22T16:30:00Z"
-    },
-    {
       "id": "clist:67014120",
       "platform": "nowcoder",
       "name": "牛客练习赛152 [ACM]",
