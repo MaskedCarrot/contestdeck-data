@@ -489,6 +489,14 @@
       "url": "https://www.codechef.com/START261",
       "startsAt": "2026-10-21T14:30:00Z",
       "endsAt": "2026-10-21T16:30:00Z"
+    },
+    {
+      "id": "clist:71383250",
+      "platform": "luogu",
+      "name": "[ICPC2019 Xuzhou R] ICPC 2019 区域赛徐州站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/366007",
+      "startsAt": "2026-10-22T05:00:00Z",
+      "endsAt": "2026-10-22T10:00:00Z"
     }
   ]
 }

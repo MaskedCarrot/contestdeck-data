@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66329995",
-      "platform": "luogu",
-      "name": "不是 Ahaer 出题组的 2026 愚人节比赛 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/314899",
-      "startsAt": "2026-03-22T01:00:00Z",
-      "endsAt": "2026-04-22T07:00:00Z"
-    },
-    {
       "id": "clist:66044995",
       "platform": "codechef",
       "name": "Starters 235 (Rated till 6 star)",
