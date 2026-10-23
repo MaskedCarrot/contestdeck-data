@@ -497,6 +497,14 @@
       "url": "https://www.luogu.com.cn/contest/366007",
       "startsAt": "2026-10-22T05:00:00Z",
       "endsAt": "2026-10-22T10:00:00Z"
+    },
+    {
+      "id": "clist:71128872",
+      "platform": "nowcoder",
+      "name": "牛客挑战赛93 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/141878",
+      "startsAt": "2026-10-23T11:00:00Z",
+      "endsAt": "2026-10-23T14:00:00Z"
     }
   ]
 }
