@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T17:03:07Z",
+  "updatedAt": "2026-10-23T21:21:38Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -69,7 +69,7 @@
       "name": "Codeforces Round 1129 (Div. 2)",
       "url": "https://codeforces.com/contests/2277",
       "startsAt": "2026-10-24T11:05:00Z",
-      "endsAt": "2026-10-24T13:05:00Z"
+      "endsAt": "2026-10-24T13:20:00Z"
     },
     {
       "id": "clist:71292652",
