@@ -553,6 +553,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/141819",
       "startsAt": "2026-10-24T11:00:00Z",
       "endsAt": "2026-10-24T14:00:00Z"
+    },
+    {
+      "id": "clist:71129070",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 194",
+      "url": "https://leetcode.com/contest/biweekly-contest-194",
+      "startsAt": "2026-10-24T14:30:00Z",
+      "endsAt": "2026-10-24T16:00:00Z"
     }
   ]
 }
