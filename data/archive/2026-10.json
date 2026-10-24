@@ -513,6 +513,46 @@
       "url": "https://www.luogu.com.cn/contest/345405",
       "startsAt": "2026-10-24T00:30:00Z",
       "endsAt": "2026-10-24T04:00:00Z"
+    },
+    {
+      "id": "clist:71239110",
+      "platform": "luogu",
+      "name": "【LGR-311-Div.2】洛谷 10 月月赛 IV &「LDOI」Round #2 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/364653",
+      "startsAt": "2026-10-24T06:00:00Z",
+      "endsAt": "2026-10-24T11:00:00Z"
+    },
+    {
+      "id": "clist:71239111",
+      "platform": "luogu",
+      "name": "【LGR-311-Div.1】洛谷 10 月月赛 IV &「LDOI」Round #2 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/304314",
+      "startsAt": "2026-10-24T06:00:00Z",
+      "endsAt": "2026-10-24T11:00:00Z"
+    },
+    {
+      "id": "clist:71260434",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1129 (Div. 2)",
+      "url": "https://codeforces.com/contests/2277",
+      "startsAt": "2026-10-24T11:05:00Z",
+      "endsAt": "2026-10-24T13:20:00Z"
+    },
+    {
+      "id": "clist:71292652",
+      "platform": "atcoder",
+      "name": "SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
+      "url": "https://atcoder.jp/contests/abc481",
+      "startsAt": "2026-10-24T12:00:00Z",
+      "endsAt": "2026-10-24T13:40:00Z"
+    },
+    {
+      "id": "clist:71106692",
+      "platform": "nowcoder",
+      "name": "牛客2026年1024程序员节娱乐赛 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/141819",
+      "startsAt": "2026-10-24T11:00:00Z",
+      "endsAt": "2026-10-24T14:00:00Z"
     }
   ]
 }

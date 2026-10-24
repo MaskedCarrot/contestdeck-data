@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:67014120",
-      "platform": "nowcoder",
-      "name": "牛客练习赛152 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/133522",
-      "startsAt": "2026-04-24T11:00:00Z",
-      "endsAt": "2026-04-24T13:30:00Z"
-    },
-    {
       "id": "clist:67017883",
       "platform": "nowcoder",
       "name": "2026年ICPC新疆维吾尔自治区大学生程序设计竞赛 [ACM]",
