@@ -505,6 +505,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/141878",
       "startsAt": "2026-10-23T11:00:00Z",
       "endsAt": "2026-10-23T14:00:00Z"
+    },
+    {
+      "id": "clist:71169880",
+      "platform": "luogu",
+      "name": "【LGR-312-Div.3】洛谷基础赛 #41 & 奶龙 OI Round 3 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/345405",
+      "startsAt": "2026-10-24T00:30:00Z",
+      "endsAt": "2026-10-24T04:00:00Z"
     }
   ]
 }
