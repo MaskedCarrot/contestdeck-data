@@ -3,22 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66043833",
-      "platform": "atcoder",
-      "name": "Ｓｋｙ Inc, Programming Contest 2026 (AtCoder Beginner Contest 455)",
-      "url": "https://atcoder.jp/contests/abc455",
-      "startsAt": "2026-04-25T12:00:00Z",
-      "endsAt": "2026-04-25T13:40:00Z"
-    },
-    {
-      "id": "clist:66860147",
-      "platform": "leetcode",
-      "name": "Biweekly Contest 181",
-      "url": "https://leetcode.com/contest/biweekly-contest-181",
-      "startsAt": "2026-04-25T14:30:00Z",
-      "endsAt": "2026-04-25T16:00:00Z"
-    },
-    {
       "id": "clist:67268654",
       "platform": "codeforces",
       "name": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
