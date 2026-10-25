@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:67268654",
-      "platform": "codeforces",
-      "name": "Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",
-      "url": "https://codeforces.com/contests/2222",
-      "startsAt": "2026-04-25T14:35:00Z",
-      "endsAt": "2026-04-25T17:05:00Z"
-    },
-    {
       "id": "clist:67084294",
       "platform": "leetcode",
       "name": "Weekly Contest 499",
