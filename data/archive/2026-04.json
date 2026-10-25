@@ -3,22 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:67017883",
-      "platform": "nowcoder",
-      "name": "2026年ICPC新疆维吾尔自治区大学生程序设计竞赛 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/133536",
-      "startsAt": "2026-04-25T04:00:00Z",
-      "endsAt": "2026-04-25T09:15:00Z"
-    },
-    {
-      "id": "clist:68901354",
-      "platform": "luogu",
-      "name": "【Gensokyo OI Round 1】幻想乡的雨 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/276811",
-      "startsAt": "2026-04-25T06:00:00Z",
-      "endsAt": "2026-04-25T10:00:00Z"
-    },
-    {
       "id": "clist:66043833",
       "platform": "atcoder",
       "name": "Ｓｋｙ Inc, Programming Contest 2026 (AtCoder Beginner Contest 455)",

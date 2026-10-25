@@ -577,6 +577,14 @@
       "url": "https://www.luogu.com.cn/contest/364829",
       "startsAt": "2026-10-25T00:00:00Z",
       "endsAt": "2026-10-25T04:00:00Z"
+    },
+    {
+      "id": "clist:71456870",
+      "platform": "luogu",
+      "name": "CXOI Round 7 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/296670",
+      "startsAt": "2026-10-25T05:30:00Z",
+      "endsAt": "2026-10-25T09:30:00Z"
     }
   ]
 }
