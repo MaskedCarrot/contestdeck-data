@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:67084294",
-      "platform": "leetcode",
-      "name": "Weekly Contest 499",
-      "url": "https://leetcode.com/contest/weekly-contest-499",
-      "startsAt": "2026-04-26T02:30:00Z",
-      "endsAt": "2026-04-26T04:00:00Z"
-    },
-    {
       "id": "clist:66437090",
       "platform": "atcoder",
       "name": "JR WEST and ALGO ARTIS Programming Contest (AtCoder Heuristic Contest 064)",
