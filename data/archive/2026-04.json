@@ -3,22 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:67014757",
-      "platform": "nowcoder",
-      "name": "牛客周赛 Round 141 [IOI]",
-      "url": "https://ac.nowcoder.com/acm/contest/133523",
-      "startsAt": "2026-04-26T11:00:00Z",
-      "endsAt": "2026-04-26T13:00:00Z"
-    },
-    {
-      "id": "clist:67184302",
-      "platform": "codechef",
-      "name": "Weekend Dev Challenge 47: Cybersecurity",
-      "url": "https://www.codechef.com/DEVWEEKEND47",
-      "startsAt": "2026-04-24T18:30:00Z",
-      "endsAt": "2026-04-26T18:30:00Z"
-    },
-    {
       "id": "clist:67134357",
       "platform": "codechef",
       "name": "Monday Munch - DSA Challenge 35",
