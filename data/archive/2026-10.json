@@ -579,6 +579,14 @@
       "endsAt": "2026-10-25T04:00:00Z"
     },
     {
+      "id": "clist:71649856",
+      "platform": "atcoder",
+      "name": "JOI 2026/2027 一次予選 (第2回) 過去問",
+      "url": "https://atcoder.jp/contests/joi2027yo1b",
+      "startsAt": "2026-10-25T05:00:00Z",
+      "endsAt": "2026-10-25T06:20:00Z"
+    },
+    {
       "id": "clist:71456870",
       "platform": "luogu",
       "name": "CXOI Round 7 [rated, ioi]",

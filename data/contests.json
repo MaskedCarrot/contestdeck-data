@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T04:41:47Z",
+  "updatedAt": "2026-10-26T12:55:18Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -120,6 +120,14 @@
       "endsAt": "2026-11-01T13:00:00Z"
     },
     {
+      "id": "clist:71657700",
+      "platform": "codeforces",
+      "name": "Educational Codeforces Round 196 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contests/2283",
+      "startsAt": "2026-11-04T14:35:00Z",
+      "endsAt": "2026-11-04T16:35:00Z"
+    },
+    {
       "id": "clist:71456291",
       "platform": "codeforces",
       "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
@@ -198,6 +206,14 @@
       "url": "https://atcoder.jp/contests/abc484",
       "startsAt": "2026-11-14T12:00:00Z",
       "endsAt": "2026-11-14T13:40:00Z"
+    },
+    {
+      "id": "clist:71646224",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 485",
+      "url": "https://atcoder.jp/contests/abc485",
+      "startsAt": "2026-11-21T12:00:00Z",
+      "endsAt": "2026-11-21T13:40:00Z"
     },
     {
       "id": "clist:71625820",
