@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:67134357",
-      "platform": "codechef",
-      "name": "Monday Munch - DSA Challenge 35",
-      "url": "https://www.codechef.com/DSAMONDAY35",
-      "startsAt": "2026-04-27T12:30:00Z",
-      "endsAt": "2026-04-27T15:30:00Z"
-    },
-    {
       "id": "clist:67346983",
       "platform": "codeforces",
       "name": "Codeforces Round 1095 (Div. 2)",
