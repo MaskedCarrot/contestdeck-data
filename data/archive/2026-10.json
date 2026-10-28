@@ -649,6 +649,14 @@
       "url": "https://codeforces.com/contests/2272",
       "startsAt": "2026-10-26T14:35:00Z",
       "endsAt": "2026-10-26T16:50:00Z"
+    },
+    {
+      "id": "clist:71002154",
+      "platform": "codechef",
+      "name": "Starters 262 (Rated for All)",
+      "url": "https://www.codechef.com/START262",
+      "startsAt": "2026-10-28T14:30:00Z",
+      "endsAt": "2026-10-28T17:30:00Z"
     }
   ]
 }

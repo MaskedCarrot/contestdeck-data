@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:67346983",
-      "platform": "codeforces",
-      "name": "Codeforces Round 1095 (Div. 2)",
-      "url": "https://codeforces.com/contests/2226",
-      "startsAt": "2026-04-28T14:35:00Z",
-      "endsAt": "2026-04-28T16:50:00Z"
-    },
-    {
       "id": "clist:66401823",
       "platform": "codechef",
       "name": "Starters 236 (Rated till 5 star)",
