@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T20:27:32Z",
+  "updatedAt": "2026-10-28T12:47:39Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -26,10 +26,10 @@
     {
       "id": "clist:71002154",
       "platform": "codechef",
-      "name": "Starters 262",
+      "name": "Starters 262 (Rated for All)",
       "url": "https://www.codechef.com/START262",
       "startsAt": "2026-10-28T14:30:00Z",
-      "endsAt": "2026-10-28T16:30:00Z"
+      "endsAt": "2026-10-28T17:30:00Z"
     },
     {
       "id": "clist:71383246",
@@ -82,7 +82,7 @@
     {
       "id": "clist:71553189",
       "platform": "luogu",
-      "name": "2026 年上海市临港五校程序设计邀请赛（重现赛） [guzhi, icpc]",
+      "name": "2026 年 CaMeL AI 杯上海市临港五校程序设计邀请赛（重现赛） [guzhi, icpc]",
       "url": "https://www.luogu.com.cn/contest/367488",
       "startsAt": "2026-11-01T05:00:00Z",
       "endsAt": "2026-11-01T09:00:00Z"
