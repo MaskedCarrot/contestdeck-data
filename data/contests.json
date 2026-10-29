@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T20:14:32Z",
+  "updatedAt": "2026-10-29T09:53:56Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -198,6 +198,22 @@
       "url": "https://codeforces.com/contests/2285",
       "startsAt": "2026-11-15T14:35:00Z",
       "endsAt": "2026-11-15T16:35:00Z"
+    },
+    {
+      "id": "clist:71748226",
+      "platform": "atcoder",
+      "name": "AtCoder 企業対抗リーグ 2026 第3戦",
+      "url": "https://atcoder.jp/contests/c-league2026-3",
+      "startsAt": "2026-11-20T11:00:00Z",
+      "endsAt": "2026-11-20T13:00:00Z"
+    },
+    {
+      "id": "clist:71748227",
+      "platform": "atcoder",
+      "name": "AtCoder 企業対抗リーグ 2026 第3戦(オープンコンテスト)",
+      "url": "https://atcoder.jp/contests/c-league2026-3-open",
+      "startsAt": "2026-11-20T11:00:00Z",
+      "endsAt": "2026-11-20T13:00:00Z"
     },
     {
       "id": "clist:71646224",
