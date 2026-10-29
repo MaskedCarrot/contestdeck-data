@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T09:53:56Z",
+  "updatedAt": "2026-10-29T18:26:25Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -24,12 +24,12 @@
       "endsAt": "2026-10-31T10:30:00Z"
     },
     {
-      "id": "clist:71383246",
+      "id": "clist:71764848",
       "platform": "luogu",
-      "name": "[ICPC2019 Nanchang R] ICPC 2019 区域赛南昌站重现赛 [guzhi, icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/366008",
-      "startsAt": "2026-10-29T05:00:00Z",
-      "endsAt": "2026-10-29T10:00:00Z"
+      "name": "COCI 2026/2027 #1 Unofficial Mirror [ioi]",
+      "url": "https://www.luogu.com.cn/contest/369513",
+      "startsAt": "2026-10-30T06:00:00Z",
+      "endsAt": "2026-10-30T09:00:00Z"
     },
     {
       "id": "clist:70879517",
@@ -214,6 +214,14 @@
       "url": "https://atcoder.jp/contests/c-league2026-3-open",
       "startsAt": "2026-11-20T11:00:00Z",
       "endsAt": "2026-11-20T13:00:00Z"
+    },
+    {
+      "id": "clist:71768017",
+      "platform": "codeforces",
+      "name": "Kotlin Heroes: Practice 15",
+      "url": "https://codeforces.com/contests/2286",
+      "startsAt": "2026-11-20T14:30:00Z",
+      "endsAt": "2026-11-27T14:30:00Z"
     },
     {
       "id": "clist:71646224",

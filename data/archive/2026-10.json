@@ -657,6 +657,14 @@
       "url": "https://www.codechef.com/START262",
       "startsAt": "2026-10-28T14:30:00Z",
       "endsAt": "2026-10-28T17:30:00Z"
+    },
+    {
+      "id": "clist:71383246",
+      "platform": "luogu",
+      "name": "[ICPC2019 Nanchang R] ICPC 2019 区域赛南昌站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/366008",
+      "startsAt": "2026-10-29T05:00:00Z",
+      "endsAt": "2026-10-29T10:00:00Z"
     }
   ]
 }

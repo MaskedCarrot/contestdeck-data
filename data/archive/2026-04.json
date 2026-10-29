@@ -3,14 +3,6 @@
   "month": "2026-04",
   "contests": [
     {
-      "id": "clist:66401823",
-      "platform": "codechef",
-      "name": "Starters 236 (Rated till 5 star)",
-      "url": "https://www.codechef.com/START236",
-      "startsAt": "2026-04-29T14:30:00Z",
-      "endsAt": "2026-04-29T16:30:00Z"
-    },
-    {
       "id": "clist:67346982",
       "platform": "codeforces",
       "name": "Codeforces Round 1096 (Div. 3)",
