@@ -665,6 +665,14 @@
       "url": "https://www.luogu.com.cn/contest/366008",
       "startsAt": "2026-10-29T05:00:00Z",
       "endsAt": "2026-10-29T10:00:00Z"
+    },
+    {
+      "id": "clist:71764848",
+      "platform": "luogu",
+      "name": "COCI 2026/2027 #1 Unofficial Mirror [ioi]",
+      "url": "https://www.luogu.com.cn/contest/369513",
+      "startsAt": "2026-10-30T06:00:00Z",
+      "endsAt": "2026-10-30T09:00:00Z"
     }
   ]
 }
