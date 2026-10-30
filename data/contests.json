@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T09:56:34Z",
+  "updatedAt": "2026-10-30T17:59:07Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -30,14 +30,6 @@
       "url": "https://atcoder.jp/contests/ahc074",
       "startsAt": "2026-10-30T10:00:00Z",
       "endsAt": "2026-11-09T10:00:00Z"
-    },
-    {
-      "id": "clist:71130095",
-      "platform": "nowcoder",
-      "name": "牛客小白月赛139 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/141882",
-      "startsAt": "2026-10-30T11:00:00Z",
-      "endsAt": "2026-10-30T13:00:00Z"
     },
     {
       "id": "clist:71222373",
@@ -278,6 +270,14 @@
       "url": "https://codeforces.com/contests/2282",
       "startsAt": "2026-11-27T14:35:00Z",
       "endsAt": "2026-11-27T17:05:00Z"
+    },
+    {
+      "id": "clist:71801549",
+      "platform": "hackerrank",
+      "name": "Orchestrate December'26",
+      "url": "https://hackerrank.com/contests/hackerrank-orchestrate-december26",
+      "startsAt": "2026-12-12T12:30:00Z",
+      "endsAt": "2026-12-13T12:30:00Z"
     }
   ]
 }
