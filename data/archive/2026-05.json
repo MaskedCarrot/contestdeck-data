@@ -3,22 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:66984151",
-      "platform": "nowcoder",
-      "name": "2026牛客五一集训派对day1 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/133439",
-      "startsAt": "2026-05-01T04:00:00Z",
-      "endsAt": "2026-05-01T09:00:00Z"
-    },
-    {
-      "id": "clist:68901352",
-      "platform": "luogu",
-      "name": "华东理工大学 2026 年程序设计竞赛春季校赛（重现赛） [guzhi, icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/321841",
-      "startsAt": "2026-05-01T05:00:00Z",
-      "endsAt": "2026-05-01T10:00:00Z"
-    },
-    {
       "id": "clist:67016462",
       "platform": "hackerrank",
       "name": "HackerRank Orchestrate",
