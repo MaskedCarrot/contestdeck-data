@@ -697,6 +697,22 @@
       "url": "https://www.luogu.com.cn/contest/367097",
       "startsAt": "2026-10-23T02:00:00Z",
       "endsAt": "2026-10-31T10:30:00Z"
+    },
+    {
+      "id": "clist:71222373",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 482",
+      "url": "https://atcoder.jp/contests/abc482",
+      "startsAt": "2026-10-31T12:00:00Z",
+      "endsAt": "2026-10-31T13:40:00Z"
+    },
+    {
+      "id": "clist:71358566",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1131 (Div. 3)",
+      "url": "https://codeforces.com/contests/2278",
+      "startsAt": "2026-10-31T14:35:00Z",
+      "endsAt": "2026-10-31T16:50:00Z"
     }
   ]
 }
