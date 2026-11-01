@@ -9,6 +9,14 @@
       "url": "https://leetcode.com/contest/weekly-contest-526",
       "startsAt": "2026-11-01T02:30:00Z",
       "endsAt": "2026-11-01T04:00:00Z"
+    },
+    {
+      "id": "clist:71553189",
+      "platform": "luogu",
+      "name": "2026 年 CaMeL AI 杯上海市临港五校程序设计邀请赛（重现赛） [guzhi, icpc]",
+      "url": "https://www.luogu.com.cn/contest/367488",
+      "startsAt": "2026-11-01T05:00:00Z",
+      "endsAt": "2026-11-01T09:00:00Z"
     }
   ]
 }

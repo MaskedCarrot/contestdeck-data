@@ -3,22 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:68901351",
-      "platform": "luogu",
-      "name": "Algo Beat Contest 004 [ioi]",
-      "url": "https://www.luogu.com.cn/contest/314924",
-      "startsAt": "2026-05-02T07:00:00Z",
-      "endsAt": "2026-05-02T09:00:00Z"
-    },
-    {
-      "id": "clist:67108027",
-      "platform": "nowcoder",
-      "name": "2026牛客五一集训派对day2 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/133506",
-      "startsAt": "2026-05-02T04:00:00Z",
-      "endsAt": "2026-05-02T09:00:00Z"
-    },
-    {
       "id": "clist:66928512",
       "platform": "atcoder",
       "name": "AtCoder Beginner Contest 456",
