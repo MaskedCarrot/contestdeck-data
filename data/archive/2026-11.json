@@ -17,6 +17,14 @@
       "url": "https://www.luogu.com.cn/contest/367488",
       "startsAt": "2026-11-01T05:00:00Z",
       "endsAt": "2026-11-01T09:00:00Z"
+    },
+    {
+      "id": "clist:71482750",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 168 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/142559",
+      "startsAt": "2026-11-01T11:00:00Z",
+      "endsAt": "2026-11-01T13:00:00Z"
     }
   ]
 }

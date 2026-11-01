@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T09:46:48Z",
+  "updatedAt": "2026-11-01T13:16:31Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -30,14 +30,6 @@
       "url": "https://www.luogu.com.cn/contest/369912",
       "startsAt": "2026-10-31T11:00:00Z",
       "endsAt": "2026-11-10T10:00:00Z"
-    },
-    {
-      "id": "clist:71482750",
-      "platform": "nowcoder",
-      "name": "牛客周赛 Round 168 [IOI]",
-      "url": "https://ac.nowcoder.com/acm/contest/142559",
-      "startsAt": "2026-11-01T11:00:00Z",
-      "endsAt": "2026-11-01T13:00:00Z"
     },
     {
       "id": "clist:71730469",
