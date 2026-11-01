@@ -3,14 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:66928512",
-      "platform": "atcoder",
-      "name": "AtCoder Beginner Contest 456",
-      "url": "https://atcoder.jp/contests/abc456",
-      "startsAt": "2026-05-02T12:00:00Z",
-      "endsAt": "2026-05-02T13:40:00Z"
-    },
-    {
       "id": "clist:67456927",
       "platform": "cphof",
       "name": "M(IT)^2 2026 Spring Invitational",
