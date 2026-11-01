@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "month": "2026-11",
+  "contests": [
+    {
+      "id": "clist:71453079",
+      "platform": "leetcode",
+      "name": "Weekly Contest 526",
+      "url": "https://leetcode.com/contest/weekly-contest-526",
+      "startsAt": "2026-11-01T02:30:00Z",
+      "endsAt": "2026-11-01T04:00:00Z"
+    }
+  ]
+}

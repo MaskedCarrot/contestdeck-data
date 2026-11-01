@@ -3,14 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67016462",
-      "platform": "hackerrank",
-      "name": "HackerRank Orchestrate",
-      "url": "https://hackerrank.com/contests/hackerrank-orchestrate-may26",
-      "startsAt": "2026-05-01T05:30:00Z",
-      "endsAt": "2026-05-02T05:30:00Z"
-    },
-    {
       "id": "clist:68901351",
       "platform": "luogu",
       "name": "Algo Beat Contest 004 [ioi]",

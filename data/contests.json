@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T00:05:58Z",
+  "updatedAt": "2026-11-01T05:57:25Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -30,14 +30,6 @@
       "url": "https://www.luogu.com.cn/contest/369912",
       "startsAt": "2026-10-31T11:00:00Z",
       "endsAt": "2026-11-10T10:00:00Z"
-    },
-    {
-      "id": "clist:71453079",
-      "platform": "leetcode",
-      "name": "Weekly Contest 526",
-      "url": "https://leetcode.com/contest/weekly-contest-526",
-      "startsAt": "2026-11-01T02:30:00Z",
-      "endsAt": "2026-11-01T04:00:00Z"
     },
     {
       "id": "clist:71553189",
@@ -165,7 +157,7 @@
       "name": "AtCoder Grand Contest 079",
       "url": "https://atcoder.jp/contests/agc079",
       "startsAt": "2026-11-08T12:00:00Z",
-      "endsAt": "2026-11-08T15:00:00Z"
+      "endsAt": "2026-11-08T15:30:00Z"
     },
     {
       "id": "clist:71791365",
