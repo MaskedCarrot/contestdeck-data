@@ -3,14 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67456927",
-      "platform": "cphof",
-      "name": "M(IT)^2 2026 Spring Invitational",
-      "url": "https://cphof.org/standings/mitit_spring/2026",
-      "startsAt": "2026-05-03T00:00:00Z",
-      "endsAt": "2026-05-03T00:00:00Z"
-    },
-    {
       "id": "clist:67164668",
       "platform": "leetcode",
       "name": "Weekly Contest 500",
