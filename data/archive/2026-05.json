@@ -3,30 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67164668",
-      "platform": "leetcode",
-      "name": "Weekly Contest 500",
-      "url": "https://leetcode.com/contest/weekly-contest-500",
-      "startsAt": "2026-05-03T02:30:00Z",
-      "endsAt": "2026-05-03T04:00:00Z"
-    },
-    {
-      "id": "clist:67108028",
-      "platform": "nowcoder",
-      "name": "2026牛客五一集训派对day3 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/133507",
-      "startsAt": "2026-05-03T04:00:00Z",
-      "endsAt": "2026-05-03T09:00:00Z"
-    },
-    {
-      "id": "clist:68901350",
-      "platform": "luogu",
-      "name": "【MX-X28】梦熊 X 组 · 暴暴龙赛 & FAOI-R12（同步赛） [guzhi, ioi]",
-      "url": "https://www.luogu.com.cn/contest/323598",
-      "startsAt": "2026-05-03T06:00:00Z",
-      "endsAt": "2026-05-03T10:30:00Z"
-    },
-    {
       "id": "clist:67110771",
       "platform": "nowcoder",
       "name": "牛客周赛 Round 142 [IOI]",

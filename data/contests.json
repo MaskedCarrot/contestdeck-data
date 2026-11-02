@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T13:16:31Z",
+  "updatedAt": "2026-11-02T10:57:27Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -168,6 +168,22 @@
       "endsAt": "2026-11-14T13:40:00Z"
     },
     {
+      "id": "clist:71897666",
+      "platform": "leetcode",
+      "name": "Weekly Contest 528",
+      "url": "https://leetcode.com/contest/weekly-contest-528",
+      "startsAt": "2026-11-15T02:30:00Z",
+      "endsAt": "2026-11-15T04:00:00Z"
+    },
+    {
+      "id": "clist:71892754",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 170 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/143406",
+      "startsAt": "2026-11-15T11:00:00Z",
+      "endsAt": "2026-11-15T13:00:00Z"
+    },
+    {
       "id": "clist:71666502",
       "platform": "codeforces",
       "name": "Codeforces Round (Div. 2)",
@@ -200,6 +216,14 @@
       "endsAt": "2026-11-20T13:00:00Z"
     },
     {
+      "id": "clist:71892755",
+      "platform": "nowcoder",
+      "name": "牛客挑战赛94 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/143407",
+      "startsAt": "2026-11-20T11:00:00Z",
+      "endsAt": "2026-11-20T14:00:00Z"
+    },
+    {
       "id": "clist:71646224",
       "platform": "atcoder",
       "name": "AtCoder Beginner Contest 485",
@@ -208,12 +232,28 @@
       "endsAt": "2026-11-21T13:40:00Z"
     },
     {
+      "id": "clist:71897665",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 196",
+      "url": "https://leetcode.com/contest/biweekly-contest-196",
+      "startsAt": "2026-11-21T14:30:00Z",
+      "endsAt": "2026-11-21T16:00:00Z"
+    },
+    {
       "id": "clist:71625820",
       "platform": "atcoder",
       "name": "AtCoder Regular Contest++ 234",
       "url": "https://atcoder.jp/contests/arc234",
       "startsAt": "2026-11-22T12:00:00Z",
       "endsAt": "2026-11-22T14:30:00Z"
+    },
+    {
+      "id": "clist:71899309",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 486",
+      "url": "https://atcoder.jp/contests/abc486",
+      "startsAt": "2026-11-28T12:00:00Z",
+      "endsAt": "2026-11-28T13:40:00Z"
     },
     {
       "id": "clist:71768017",
