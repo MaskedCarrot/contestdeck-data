@@ -25,6 +25,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/142559",
       "startsAt": "2026-11-01T11:00:00Z",
       "endsAt": "2026-11-01T13:00:00Z"
+    },
+    {
+      "id": "clist:71730469",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 027 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY027",
+      "startsAt": "2026-11-02T13:30:00Z",
+      "endsAt": "2026-11-02T16:30:00Z"
     }
   ]
 }
