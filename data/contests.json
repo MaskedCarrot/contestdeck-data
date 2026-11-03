@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T06:43:08Z",
+  "updatedAt": "2026-11-03T16:59:50Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -152,6 +152,14 @@
       "endsAt": "2026-11-13T13:00:00Z"
     },
     {
+      "id": "clist:71937911",
+      "platform": "luogu",
+      "name": "【LGR-314】洛谷 NOIP 2026 模拟赛 [rated, oi]",
+      "url": "https://www.luogu.com.cn/contest/370700",
+      "startsAt": "2026-11-14T00:30:00Z",
+      "endsAt": "2026-11-14T05:00:00Z"
+    },
+    {
       "id": "clist:71419780",
       "platform": "atcoder",
       "name": "AtCoder Beginner Contest 484",
@@ -166,6 +174,14 @@
       "url": "https://leetcode.com/contest/weekly-contest-528",
       "startsAt": "2026-11-15T02:30:00Z",
       "endsAt": "2026-11-15T04:00:00Z"
+    },
+    {
+      "id": "clist:71938949",
+      "platform": "luogu",
+      "name": "【LGR-315-Div.3】洛谷基础赛 #42 & IXOI Round 4 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/311136",
+      "startsAt": "2026-11-15T06:00:00Z",
+      "endsAt": "2026-11-15T09:30:00Z"
     },
     {
       "id": "clist:71892754",
@@ -232,12 +248,20 @@
       "endsAt": "2026-11-21T16:00:00Z"
     },
     {
-      "id": "clist:71933633",
-      "platform": "luogu",
-      "name": "【LGR-320-Div.3】洛谷基础赛 #42 & Kobe OI Round Ⅰ [rated, ioi]",
-      "url": "https://www.luogu.com.cn/contest/368856",
-      "startsAt": "2026-11-22T06:00:00Z",
-      "endsAt": "2026-11-22T09:30:00Z"
+      "id": "clist:71936432",
+      "platform": "codeforces",
+      "name": "Codeforces Round (Div. 1)",
+      "url": "https://codeforces.com/contests/2287",
+      "startsAt": "2026-11-21T14:35:00Z",
+      "endsAt": "2026-11-21T16:35:00Z"
+    },
+    {
+      "id": "clist:71936433",
+      "platform": "codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "url": "https://codeforces.com/contests/2288",
+      "startsAt": "2026-11-21T14:35:00Z",
+      "endsAt": "2026-11-21T16:35:00Z"
     },
     {
       "id": "clist:71625820",
@@ -270,6 +294,14 @@
       "url": "https://codeforces.com/contests/2286",
       "startsAt": "2026-12-01T14:30:00Z",
       "endsAt": "2026-12-08T14:30:00Z"
+    },
+    {
+      "id": "clist:71933633",
+      "platform": "luogu",
+      "name": "【LGR-320-Div.3】洛谷基础赛 #43 & Kobe OI Round Ⅰ [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/368856",
+      "startsAt": "2026-12-06T06:00:00Z",
+      "endsAt": "2026-12-06T09:30:00Z"
     },
     {
       "id": "clist:71639714",
