@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T21:41:13Z",
+  "updatedAt": "2026-11-03T06:43:08Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -232,12 +232,28 @@
       "endsAt": "2026-11-21T16:00:00Z"
     },
     {
+      "id": "clist:71933633",
+      "platform": "luogu",
+      "name": "【LGR-320-Div.3】洛谷基础赛 #42 & Kobe OI Round Ⅰ [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/368856",
+      "startsAt": "2026-11-22T06:00:00Z",
+      "endsAt": "2026-11-22T09:30:00Z"
+    },
+    {
       "id": "clist:71625820",
       "platform": "atcoder",
       "name": "AtCoder Regular Contest++ 234",
       "url": "https://atcoder.jp/contests/arc234",
       "startsAt": "2026-11-22T12:00:00Z",
       "endsAt": "2026-11-22T14:30:00Z"
+    },
+    {
+      "id": "clist:71930595",
+      "platform": "nowcoder",
+      "name": "牛客练习赛160 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/143482",
+      "startsAt": "2026-11-27T11:00:00Z",
+      "endsAt": "2026-11-27T13:30:00Z"
     },
     {
       "id": "clist:71899309",
