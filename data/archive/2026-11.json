@@ -33,6 +33,22 @@
       "url": "https://www.codechef.com/DSAMONDAY027",
       "startsAt": "2026-11-02T13:30:00Z",
       "endsAt": "2026-11-02T16:30:00Z"
+    },
+    {
+      "id": "clist:71790868",
+      "platform": "codechef",
+      "name": "Starters 263 (Rated for 5 Star)",
+      "url": "https://www.codechef.com/START263",
+      "startsAt": "2026-11-04T14:30:00Z",
+      "endsAt": "2026-11-04T16:30:00Z"
+    },
+    {
+      "id": "clist:71657700",
+      "platform": "codeforces",
+      "name": "Educational Codeforces Round 196 (Rated for Div. 2)",
+      "url": "https://codeforces.com/contests/2283",
+      "startsAt": "2026-11-04T14:45:00Z",
+      "endsAt": "2026-11-04T16:45:00Z"
     }
   ]
 }
