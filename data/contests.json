@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T16:59:50Z",
+  "updatedAt": "2026-11-04T06:12:08Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -34,7 +34,7 @@
     {
       "id": "clist:71790868",
       "platform": "codechef",
-      "name": "Starters 263",
+      "name": "Starters 263 (Rated for 5 Star)",
       "url": "https://www.codechef.com/START263",
       "startsAt": "2026-11-04T14:30:00Z",
       "endsAt": "2026-11-04T16:30:00Z"
@@ -304,6 +304,14 @@
       "endsAt": "2026-12-06T09:30:00Z"
     },
     {
+      "id": "clist:71966416",
+      "platform": "atcoder",
+      "name": "AtCoder Grand Contest 080",
+      "url": "https://atcoder.jp/contests/agc080",
+      "startsAt": "2026-12-06T12:00:00Z",
+      "endsAt": "2026-12-06T15:00:00Z"
+    },
+    {
       "id": "clist:71639714",
       "platform": "codeforces",
       "name": "Kotlin Heroes: Episode 15",
@@ -318,6 +326,14 @@
       "url": "https://hackerrank.com/contests/hackerrank-orchestrate-december26",
       "startsAt": "2026-12-12T12:30:00Z",
       "endsAt": "2026-12-13T12:30:00Z"
+    },
+    {
+      "id": "clist:71966417",
+      "platform": "atcoder",
+      "name": "AtCoder Grand Contest 081",
+      "url": "https://atcoder.jp/contests/agc081",
+      "startsAt": "2026-12-13T12:00:00Z",
+      "endsAt": "2026-12-13T15:00:00Z"
     }
   ]
 }
