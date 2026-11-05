@@ -3,14 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67320783",
-      "platform": "codechef",
-      "name": "Starters 237 (Rated till 5 star)",
-      "url": "https://www.codechef.com/START237",
-      "startsAt": "2026-05-06T14:30:00Z",
-      "endsAt": "2026-05-06T16:30:00Z"
-    },
-    {
       "id": "clist:67330863",
       "platform": "nowcoder",
       "name": "牛客小白月赛132 [ACM]",
