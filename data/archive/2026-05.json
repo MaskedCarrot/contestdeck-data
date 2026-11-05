@@ -3,22 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67506379",
-      "platform": "codeforces",
-      "name": "Codeforces Round 1097 (Div. 1, Based on Zhili Cup 2026)",
-      "url": "https://codeforces.com/contests/2223",
-      "startsAt": "2026-05-06T06:05:00Z",
-      "endsAt": "2026-05-06T08:35:00Z"
-    },
-    {
-      "id": "clist:67506380",
-      "platform": "codeforces",
-      "name": "Codeforces Round 1097 (Div. 2, Based on Zhili Cup 2026)",
-      "url": "https://codeforces.com/contests/2224",
-      "startsAt": "2026-05-06T06:05:00Z",
-      "endsAt": "2026-05-06T08:35:00Z"
-    },
-    {
       "id": "clist:67320783",
       "platform": "codechef",
       "name": "Starters 237 (Rated till 5 star)",
