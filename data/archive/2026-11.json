@@ -73,6 +73,38 @@
       "url": "https://www.luogu.com.cn/contest/329950",
       "startsAt": "2026-11-07T06:00:00Z",
       "endsAt": "2026-11-07T10:00:00Z"
+    },
+    {
+      "id": "clist:71225023",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 483",
+      "url": "https://atcoder.jp/contests/abc483",
+      "startsAt": "2026-11-07T12:00:00Z",
+      "endsAt": "2026-11-07T13:40:00Z"
+    },
+    {
+      "id": "clist:71453078",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 195",
+      "url": "https://leetcode.com/contest/biweekly-contest-195",
+      "startsAt": "2026-11-07T14:30:00Z",
+      "endsAt": "2026-11-07T16:00:00Z"
+    },
+    {
+      "id": "clist:71454437",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1133 (Div. 1)",
+      "url": "https://codeforces.com/contests/2279",
+      "startsAt": "2026-11-07T14:35:00Z",
+      "endsAt": "2026-11-07T17:05:00Z"
+    },
+    {
+      "id": "clist:71454438",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1133 (Div. 2)",
+      "url": "https://codeforces.com/contests/2280",
+      "startsAt": "2026-11-07T14:35:00Z",
+      "endsAt": "2026-11-07T17:05:00Z"
     }
   ]
 }

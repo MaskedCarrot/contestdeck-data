@@ -3,14 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67330863",
-      "platform": "nowcoder",
-      "name": "牛客小白月赛132 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/134527",
-      "startsAt": "2026-05-08T11:00:00Z",
-      "endsAt": "2026-05-08T13:00:00Z"
-    },
-    {
       "id": "clist:66860796",
       "platform": "atcoder",
       "name": "Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）",
