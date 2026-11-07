@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06T19:20:49Z",
+  "updatedAt": "2026-11-07T00:53:49Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -214,6 +214,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/143407",
       "startsAt": "2026-11-20T11:00:00Z",
       "endsAt": "2026-11-20T14:00:00Z"
+    },
+    {
+      "id": "clist:72058077",
+      "platform": "luogu",
+      "name": "【LGR-317-Div.2】洛谷 11 月月赛 II & P.A.TASKS S1 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/365827",
+      "startsAt": "2026-11-21T06:00:00Z",
+      "endsAt": "2026-11-21T11:00:00Z"
     },
     {
       "id": "clist:71646224",
