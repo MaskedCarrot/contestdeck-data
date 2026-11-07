@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-07T00:53:49Z",
+  "updatedAt": "2026-11-07T10:01:00Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -30,14 +30,6 @@
       "url": "https://www.luogu.com.cn/contest/369912",
       "startsAt": "2026-10-31T11:00:00Z",
       "endsAt": "2026-11-10T10:00:00Z"
-    },
-    {
-      "id": "clist:71587469",
-      "platform": "luogu",
-      "name": "【LGR-313-Div.2】洛谷 11 月月赛 I &『LBA-OI』Round 6 [rated, ioi]",
-      "url": "https://www.luogu.com.cn/contest/329950",
-      "startsAt": "2026-11-07T06:00:00Z",
-      "endsAt": "2026-11-07T10:00:00Z"
     },
     {
       "id": "clist:71225023",
