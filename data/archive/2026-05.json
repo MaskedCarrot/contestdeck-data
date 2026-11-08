@@ -3,22 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:66860796",
-      "platform": "atcoder",
-      "name": "Polaris.AI Programming Contest 2026（AtCoder Beginner Contest 457）",
-      "url": "https://atcoder.jp/contests/abc457",
-      "startsAt": "2026-05-09T12:00:00Z",
-      "endsAt": "2026-05-09T13:40:00Z"
-    },
-    {
-      "id": "clist:67164667",
-      "platform": "leetcode",
-      "name": "Biweekly Contest 182",
-      "url": "https://leetcode.com/contest/biweekly-contest-182",
-      "startsAt": "2026-05-09T14:30:00Z",
-      "endsAt": "2026-05-09T16:00:00Z"
-    },
-    {
       "id": "clist:67625942",
       "platform": "cphof",
       "name": "Universal Cup 2026",

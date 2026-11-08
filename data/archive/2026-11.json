@@ -129,6 +129,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/143199",
       "startsAt": "2026-11-08T11:00:00Z",
       "endsAt": "2026-11-08T13:00:00Z"
+    },
+    {
+      "id": "clist:71121587",
+      "platform": "atcoder",
+      "name": "AtCoder Grand Contest 079",
+      "url": "https://atcoder.jp/contests/agc079",
+      "startsAt": "2026-11-08T12:00:00Z",
+      "endsAt": "2026-11-08T15:30:00Z"
     }
   ]
 }
