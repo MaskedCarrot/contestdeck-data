@@ -113,6 +113,22 @@
       "url": "https://leetcode.com/contest/weekly-contest-527",
       "startsAt": "2026-11-08T02:30:00Z",
       "endsAt": "2026-11-08T04:00:00Z"
+    },
+    {
+      "id": "clist:71851548",
+      "platform": "luogu",
+      "name": "「GLR R5」GLR Autumn Round [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/358449",
+      "startsAt": "2026-11-08T00:00:00Z",
+      "endsAt": "2026-11-08T10:00:00Z"
+    },
+    {
+      "id": "clist:71791944",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 169 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/143199",
+      "startsAt": "2026-11-08T11:00:00Z",
+      "endsAt": "2026-11-08T13:00:00Z"
     }
   ]
 }
