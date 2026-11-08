@@ -105,6 +105,14 @@
       "url": "https://codeforces.com/contests/2280",
       "startsAt": "2026-11-07T14:35:00Z",
       "endsAt": "2026-11-07T17:05:00Z"
+    },
+    {
+      "id": "clist:71645759",
+      "platform": "leetcode",
+      "name": "Weekly Contest 527",
+      "url": "https://leetcode.com/contest/weekly-contest-527",
+      "startsAt": "2026-11-08T02:30:00Z",
+      "endsAt": "2026-11-08T04:00:00Z"
     }
   ]
 }
