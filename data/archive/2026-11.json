@@ -145,6 +145,14 @@
       "url": "https://atcoder.jp/contests/ahc074",
       "startsAt": "2026-10-30T10:00:00Z",
       "endsAt": "2026-11-09T10:00:00Z"
+    },
+    {
+      "id": "clist:71976045",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 028 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY028",
+      "startsAt": "2026-11-09T13:30:05Z",
+      "endsAt": "2026-11-09T16:30:05Z"
     }
   ]
 }
