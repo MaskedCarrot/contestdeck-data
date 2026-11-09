@@ -137,6 +137,14 @@
       "url": "https://atcoder.jp/contests/agc079",
       "startsAt": "2026-11-08T12:00:00Z",
       "endsAt": "2026-11-08T15:30:00Z"
+    },
+    {
+      "id": "clist:70879517",
+      "platform": "atcoder",
+      "name": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
+      "url": "https://atcoder.jp/contests/ahc074",
+      "startsAt": "2026-10-30T10:00:00Z",
+      "endsAt": "2026-11-09T10:00:00Z"
     }
   ]
 }

@@ -1,20 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T19:39:08Z",
+  "updatedAt": "2026-11-09T11:25:24Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:70879517",
-      "platform": "atcoder",
-      "name": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
-      "url": "https://atcoder.jp/contests/ahc074",
-      "startsAt": "2026-10-30T10:00:00Z",
-      "endsAt": "2026-11-09T10:00:00Z"
-    },
     {
       "id": "clist:71822302",
       "platform": "luogu",
@@ -38,6 +30,14 @@
       "url": "https://www.codechef.com/DSAMONDAY028",
       "startsAt": "2026-11-09T13:30:05Z",
       "endsAt": "2026-11-09T16:30:05Z"
+    },
+    {
+      "id": "clist:72141505",
+      "platform": "nowcoder",
+      "name": "交互、通信新题型测试比赛 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/143824",
+      "startsAt": "2026-11-10T11:00:00Z",
+      "endsAt": "2026-11-10T13:00:00Z"
     },
     {
       "id": "clist:71791365",
@@ -262,6 +262,14 @@
       "url": "https://atcoder.jp/contests/agc081",
       "startsAt": "2026-12-27T12:00:00Z",
       "endsAt": "2026-12-27T15:00:00Z"
+    },
+    {
+      "id": "clist:72141717",
+      "platform": "nowcoder",
+      "name": "2027牛客寒假算法基础集训营1 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/143814",
+      "startsAt": "2027-01-27T06:00:00Z",
+      "endsAt": "2027-01-27T10:00:00Z"
     }
   ]
 }
