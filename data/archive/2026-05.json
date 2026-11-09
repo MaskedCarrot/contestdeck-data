@@ -3,14 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67625942",
-      "platform": "cphof",
-      "name": "Universal Cup 2026",
-      "url": "https://cphof.org/standings/ucup/2026",
-      "startsAt": "2026-05-10T00:00:00Z",
-      "endsAt": "2026-05-10T00:00:00Z"
-    },
-    {
       "id": "clist:67396852",
       "platform": "leetcode",
       "name": "Weekly Contest 501",
