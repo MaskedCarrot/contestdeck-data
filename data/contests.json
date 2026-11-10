@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-09T22:17:21Z",
+  "updatedAt": "2026-11-10T07:11:58Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -13,7 +13,7 @@
       "name": "CSP-J 2026 自测（官方数据） [ioi]",
       "url": "https://www.luogu.com.cn/contest/369911",
       "startsAt": "2026-10-31T04:15:00Z",
-      "endsAt": "2026-11-10T10:00:00Z"
+      "endsAt": "2026-11-13T10:00:00Z"
     },
     {
       "id": "clist:71831260",
@@ -21,7 +21,7 @@
       "name": "CSP-S 2026 自测（官方数据） [ioi]",
       "url": "https://www.luogu.com.cn/contest/369912",
       "startsAt": "2026-10-31T11:00:00Z",
-      "endsAt": "2026-11-10T10:00:00Z"
+      "endsAt": "2026-11-13T10:00:00Z"
     },
     {
       "id": "clist:72141505",
@@ -120,6 +120,14 @@
       "endsAt": "2026-11-18T16:30:00Z"
     },
     {
+      "id": "clist:72170239",
+      "platform": "luogu",
+      "name": "[ICPC2026 Nanchang I] ICPC 2026 邀请赛南昌站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/372198",
+      "startsAt": "2026-11-19T05:00:00Z",
+      "endsAt": "2026-11-19T10:00:00Z"
+    },
+    {
       "id": "clist:71748226",
       "platform": "atcoder",
       "name": "AtCoder 企業対抗リーグ 2026 第3戦",
@@ -184,12 +192,28 @@
       "endsAt": "2026-11-21T16:35:00Z"
     },
     {
+      "id": "clist:72170754",
+      "platform": "leetcode",
+      "name": "Weekly Contest 529",
+      "url": "https://leetcode.com/contest/weekly-contest-529",
+      "startsAt": "2026-11-22T02:30:00Z",
+      "endsAt": "2026-11-22T04:00:00Z"
+    },
+    {
       "id": "clist:71625820",
       "platform": "atcoder",
       "name": "AtCoder Regular Contest++ 234",
       "url": "https://atcoder.jp/contests/arc234",
       "startsAt": "2026-11-22T12:00:00Z",
       "endsAt": "2026-11-22T14:30:00Z"
+    },
+    {
+      "id": "clist:72170237",
+      "platform": "luogu",
+      "name": "[CCPC 2026 长春站] CCPC 2026 长春站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/372200",
+      "startsAt": "2026-11-26T05:00:00Z",
+      "endsAt": "2026-11-26T10:00:00Z"
     },
     {
       "id": "clist:71930595",
@@ -214,6 +238,14 @@
       "url": "https://codeforces.com/contests/2286",
       "startsAt": "2026-12-01T14:30:00Z",
       "endsAt": "2026-12-08T14:30:00Z"
+    },
+    {
+      "id": "clist:72173668",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 487",
+      "url": "https://atcoder.jp/contests/abc487",
+      "startsAt": "2026-12-05T12:00:00Z",
+      "endsAt": "2026-12-05T13:40:00Z"
     },
     {
       "id": "clist:71933633",
