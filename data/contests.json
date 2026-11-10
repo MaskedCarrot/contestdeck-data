@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T07:11:58Z",
+  "updatedAt": "2026-11-10T16:59:58Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -22,14 +22,6 @@
       "url": "https://www.luogu.com.cn/contest/369912",
       "startsAt": "2026-10-31T11:00:00Z",
       "endsAt": "2026-11-13T10:00:00Z"
-    },
-    {
-      "id": "clist:72141505",
-      "platform": "nowcoder",
-      "name": "交互、通信新题型测试比赛 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/143824",
-      "startsAt": "2026-11-10T11:00:00Z",
-      "endsAt": "2026-11-10T13:00:00Z"
     },
     {
       "id": "clist:71791365",
@@ -200,12 +192,20 @@
       "endsAt": "2026-11-22T04:00:00Z"
     },
     {
-      "id": "clist:71625820",
+      "id": "clist:72184141",
+      "platform": "luogu",
+      "name": "[CPOI] Round 1 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/321119",
+      "startsAt": "2026-11-22T06:00:00Z",
+      "endsAt": "2026-11-22T10:00:00Z"
+    },
+    {
+      "id": "clist:71966416",
       "platform": "atcoder",
-      "name": "AtCoder Regular Contest++ 234",
-      "url": "https://atcoder.jp/contests/arc234",
+      "name": "AtCoder Grand Contest 080",
+      "url": "https://atcoder.jp/contests/agc080",
       "startsAt": "2026-11-22T12:00:00Z",
-      "endsAt": "2026-11-22T14:30:00Z"
+      "endsAt": "2026-11-22T15:00:00Z"
     },
     {
       "id": "clist:72170237",
@@ -272,18 +272,18 @@
       "endsAt": "2026-12-13T12:30:00Z"
     },
     {
-      "id": "clist:71966416",
-      "platform": "atcoder",
-      "name": "AtCoder Grand Contest 080",
-      "url": "https://atcoder.jp/contests/agc080",
-      "startsAt": "2026-12-13T12:00:00Z",
-      "endsAt": "2026-12-13T15:00:00Z"
-    },
-    {
       "id": "clist:71966417",
       "platform": "atcoder",
       "name": "AtCoder Grand Contest 081",
       "url": "https://atcoder.jp/contests/agc081",
+      "startsAt": "2026-12-13T12:00:00Z",
+      "endsAt": "2026-12-13T15:00:00Z"
+    },
+    {
+      "id": "clist:72180232",
+      "platform": "atcoder",
+      "name": "AtCoder Grand Contest 082",
+      "url": "https://atcoder.jp/contests/agc082",
       "startsAt": "2026-12-27T12:00:00Z",
       "endsAt": "2026-12-27T15:00:00Z"
     },

@@ -3,14 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67540312",
-      "platform": "codechef",
-      "name": "Monday Munch - DSA Challenge 002 (Rated)",
-      "url": "https://www.codechef.com/DSAMONDAY002",
-      "startsAt": "2026-05-11T12:30:00Z",
-      "endsAt": "2026-05-11T15:30:00Z"
-    },
-    {
       "id": "clist:67320782",
       "platform": "codechef",
       "name": "Starters 238 (Rated till 6 star)",
