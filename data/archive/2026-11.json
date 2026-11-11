@@ -161,6 +161,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/143824",
       "startsAt": "2026-11-10T11:00:00Z",
       "endsAt": "2026-11-10T13:00:00Z"
+    },
+    {
+      "id": "clist:71791365",
+      "platform": "codechef",
+      "name": "Starters 264 (Rated for 6 Star)",
+      "url": "https://www.codechef.com/START264",
+      "startsAt": "2026-11-11T14:30:00Z",
+      "endsAt": "2026-11-11T16:30:00Z"
     }
   ]
 }
