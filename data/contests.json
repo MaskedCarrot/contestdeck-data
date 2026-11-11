@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T16:59:58Z",
+  "updatedAt": "2026-11-11T14:14:04Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -26,7 +26,7 @@
     {
       "id": "clist:71791365",
       "platform": "codechef",
-      "name": "Starters 264",
+      "name": "Starters 264 (Rated for 6 Star)",
       "url": "https://www.codechef.com/START264",
       "startsAt": "2026-11-11T14:30:00Z",
       "endsAt": "2026-11-11T16:30:00Z"
@@ -200,12 +200,12 @@
       "endsAt": "2026-11-22T10:00:00Z"
     },
     {
-      "id": "clist:71966416",
+      "id": "clist:72211075",
       "platform": "atcoder",
-      "name": "AtCoder Grand Contest 080",
-      "url": "https://atcoder.jp/contests/agc080",
+      "name": "AtCoder Regular Contest++ 234",
+      "url": "https://atcoder.jp/contests/arc234",
       "startsAt": "2026-11-22T12:00:00Z",
-      "endsAt": "2026-11-22T15:00:00Z"
+      "endsAt": "2026-11-22T14:30:00Z"
     },
     {
       "id": "clist:72170237",
@@ -272,18 +272,18 @@
       "endsAt": "2026-12-13T12:30:00Z"
     },
     {
-      "id": "clist:71966417",
+      "id": "clist:71966416",
       "platform": "atcoder",
-      "name": "AtCoder Grand Contest 081",
-      "url": "https://atcoder.jp/contests/agc081",
+      "name": "AtCoder Grand Contest 080",
+      "url": "https://atcoder.jp/contests/agc080",
       "startsAt": "2026-12-13T12:00:00Z",
       "endsAt": "2026-12-13T15:00:00Z"
     },
     {
-      "id": "clist:72180232",
+      "id": "clist:71966417",
       "platform": "atcoder",
-      "name": "AtCoder Grand Contest 082",
-      "url": "https://atcoder.jp/contests/agc082",
+      "name": "AtCoder Grand Contest 081",
+      "url": "https://atcoder.jp/contests/agc081",
       "startsAt": "2026-12-27T12:00:00Z",
       "endsAt": "2026-12-27T15:00:00Z"
     },
