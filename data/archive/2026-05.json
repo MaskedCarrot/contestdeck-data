@@ -3,14 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67320782",
-      "platform": "codechef",
-      "name": "Starters 238 (Rated till 6 star)",
-      "url": "https://www.codechef.com/START238",
-      "startsAt": "2026-05-13T14:30:00Z",
-      "endsAt": "2026-05-13T17:00:00Z"
-    },
-    {
       "id": "clist:67486999",
       "platform": "nowcoder",
       "name": "牛客挑战赛88 [ACM]",

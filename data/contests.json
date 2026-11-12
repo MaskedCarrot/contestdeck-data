@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T21:54:46Z",
+  "updatedAt": "2026-11-12T17:33:14Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -22,22 +22,6 @@
       "url": "https://www.luogu.com.cn/contest/369912",
       "startsAt": "2026-10-31T11:00:00Z",
       "endsAt": "2026-11-13T10:00:00Z"
-    },
-    {
-      "id": "clist:72005223",
-      "platform": "luogu",
-      "name": "[FJCPC 2026] 2026 年福建省大学生程序设计竞赛重现赛 [guzhi, icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/371093",
-      "startsAt": "2026-11-12T05:00:00Z",
-      "endsAt": "2026-11-12T10:00:00Z"
-    },
-    {
-      "id": "clist:72081733",
-      "platform": "codeforces",
-      "name": "Codeforces Round 1134 (Div. 4)",
-      "url": "https://codeforces.com/contests/2290",
-      "startsAt": "2026-11-12T14:35:00Z",
-      "endsAt": "2026-11-12T16:50:00Z"
     },
     {
       "id": "clist:71790714",
@@ -232,6 +216,14 @@
       "endsAt": "2026-11-28T13:40:00Z"
     },
     {
+      "id": "clist:72243504",
+      "platform": "atcoder",
+      "name": "AtCoder Heuristic Contest 075",
+      "url": "https://atcoder.jp/contests/ahc075",
+      "startsAt": "2026-11-29T10:00:00Z",
+      "endsAt": "2026-11-29T14:00:00Z"
+    },
+    {
       "id": "clist:71768017",
       "platform": "codeforces",
       "name": "Kotlin Heroes: Practice 15",
@@ -286,6 +278,22 @@
       "url": "https://atcoder.jp/contests/agc081",
       "startsAt": "2026-12-27T12:00:00Z",
       "endsAt": "2026-12-27T15:00:00Z"
+    },
+    {
+      "id": "clist:72247110",
+      "platform": "atcoder",
+      "name": "AtCoder Grand Contest 082",
+      "url": "https://atcoder.jp/contests/agc082",
+      "startsAt": "2027-01-17T12:00:00Z",
+      "endsAt": "2027-01-17T15:00:00Z"
+    },
+    {
+      "id": "clist:72247111",
+      "platform": "atcoder",
+      "name": "AtCoder Grand Contest 083",
+      "url": "https://atcoder.jp/contests/agc083",
+      "startsAt": "2027-01-24T12:00:00Z",
+      "endsAt": "2027-01-24T15:00:00Z"
     },
     {
       "id": "clist:72141717",
