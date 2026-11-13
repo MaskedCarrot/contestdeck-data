@@ -185,6 +185,30 @@
       "url": "https://codeforces.com/contests/2290",
       "startsAt": "2026-11-12T14:35:00Z",
       "endsAt": "2026-11-12T16:50:00Z"
+    },
+    {
+      "id": "clist:71822302",
+      "platform": "luogu",
+      "name": "CSP-J 2026 自测（官方数据） [ioi]",
+      "url": "https://www.luogu.com.cn/contest/369911",
+      "startsAt": "2026-10-31T04:15:00Z",
+      "endsAt": "2026-11-13T10:00:00Z"
+    },
+    {
+      "id": "clist:71831260",
+      "platform": "luogu",
+      "name": "CSP-S 2026 自测（官方数据） [ioi]",
+      "url": "https://www.luogu.com.cn/contest/369912",
+      "startsAt": "2026-10-31T11:00:00Z",
+      "endsAt": "2026-11-13T10:00:00Z"
+    },
+    {
+      "id": "clist:71790714",
+      "platform": "nowcoder",
+      "name": "牛客小白月赛140 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/143195",
+      "startsAt": "2026-11-13T11:00:00Z",
+      "endsAt": "2026-11-13T13:00:00Z"
     }
   ]
 }
