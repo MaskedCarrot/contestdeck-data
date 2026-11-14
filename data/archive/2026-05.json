@@ -3,14 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67486999",
-      "platform": "nowcoder",
-      "name": "牛客挑战赛88 [ACM]",
-      "url": "https://ac.nowcoder.com/acm/contest/134814",
-      "startsAt": "2026-05-15T11:00:00Z",
-      "endsAt": "2026-05-15T14:00:00Z"
-    },
-    {
       "id": "clist:68901346",
       "platform": "luogu",
       "name": "「Spring OI」Round 1 & 春日清新赛 [ioi]",

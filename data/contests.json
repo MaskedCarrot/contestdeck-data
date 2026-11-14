@@ -1,20 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T06:15:05Z",
+  "updatedAt": "2026-11-14T19:54:52Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:71419780",
-      "platform": "atcoder",
-      "name": "AtCoder Beginner Contest 484",
-      "url": "https://atcoder.jp/contests/abc484",
-      "startsAt": "2026-11-14T12:00:00Z",
-      "endsAt": "2026-11-14T13:40:00Z"
-    },
     {
       "id": "clist:71897666",
       "platform": "leetcode",
@@ -150,6 +142,14 @@
       "url": "https://www.luogu.com.cn/contest/321119",
       "startsAt": "2026-11-22T06:00:00Z",
       "endsAt": "2026-11-22T10:00:00Z"
+    },
+    {
+      "id": "clist:72318763",
+      "platform": "codeforces",
+      "name": "Codeforces Round (Div. 2)",
+      "url": "https://codeforces.com/contests/2289",
+      "startsAt": "2026-11-22T09:05:00Z",
+      "endsAt": "2026-11-22T11:05:00Z"
     },
     {
       "id": "clist:72211075",
