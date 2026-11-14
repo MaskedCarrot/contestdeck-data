@@ -1,20 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-13T17:10:01Z",
+  "updatedAt": "2026-11-14T06:15:05Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:71937911",
-      "platform": "luogu",
-      "name": "【LGR-314】洛谷 NOIP 2026 模拟赛 [rated, oi]",
-      "url": "https://www.luogu.com.cn/contest/370700",
-      "startsAt": "2026-11-14T00:30:00Z",
-      "endsAt": "2026-11-14T05:00:00Z"
-    },
     {
       "id": "clist:71419780",
       "platform": "atcoder",

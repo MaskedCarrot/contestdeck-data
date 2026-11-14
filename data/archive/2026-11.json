@@ -209,6 +209,14 @@
       "url": "https://ac.nowcoder.com/acm/contest/143195",
       "startsAt": "2026-11-13T11:00:00Z",
       "endsAt": "2026-11-13T13:00:00Z"
+    },
+    {
+      "id": "clist:71937911",
+      "platform": "luogu",
+      "name": "【LGR-314】洛谷 NOIP 2026 模拟赛 [rated, oi]",
+      "url": "https://www.luogu.com.cn/contest/370700",
+      "startsAt": "2026-11-14T00:30:00Z",
+      "endsAt": "2026-11-14T05:00:00Z"
     }
   ]
 }
