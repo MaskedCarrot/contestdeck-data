@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T09:56:51Z",
+  "updatedAt": "2026-11-15T10:47:18Z",
   "archives": [
     {
       "month": "2026-05",
       "path": "data/archive/2026-05.json",
-      "count": 39,
-      "sha256": "ea88747b4331fe477fba47c595d964c448a596a6f0a0e0a4be2ca8c1158e6dee"
+      "count": 37,
+      "sha256": "6774ccfe6601d31a311210e38d3924c76fa233d5edc0438f2fc728534c263384"
     },
     {
       "month": "2026-06",

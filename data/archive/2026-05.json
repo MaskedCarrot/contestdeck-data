@@ -3,22 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67158894",
-      "platform": "atcoder",
-      "name": "AtCoder Heuristic Contest 065",
-      "url": "https://atcoder.jp/contests/ahc065",
-      "startsAt": "2026-05-16T06:00:00Z",
-      "endsAt": "2026-05-16T10:00:00Z"
-    },
-    {
-      "id": "clist:68901345",
-      "platform": "luogu",
-      "name": "【MX-S14】梦熊 S 组 · 羽毛赛 & KWOI Round 2（同步赛） [guzhi, ioi]",
-      "url": "https://www.luogu.com.cn/contest/326643",
-      "startsAt": "2026-05-16T06:00:00Z",
-      "endsAt": "2026-05-16T10:00:00Z"
-    },
-    {
       "id": "clist:67209185",
       "platform": "atcoder",
       "name": "AtCoder Beginner Contest 458",
