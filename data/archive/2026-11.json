@@ -241,6 +241,22 @@
       "url": "https://www.luogu.com.cn/contest/311136",
       "startsAt": "2026-11-15T06:00:00Z",
       "endsAt": "2026-11-15T09:30:00Z"
+    },
+    {
+      "id": "clist:71892754",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 170 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/143406",
+      "startsAt": "2026-11-15T11:00:00Z",
+      "endsAt": "2026-11-15T13:00:00Z"
+    },
+    {
+      "id": "clist:71666502",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1135 (Div. 2)",
+      "url": "https://codeforces.com/contests/2285",
+      "startsAt": "2026-11-15T14:35:00Z",
+      "endsAt": "2026-11-15T16:35:00Z"
     }
   ]
 }

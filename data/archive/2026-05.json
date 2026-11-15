@@ -3,22 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67209185",
-      "platform": "atcoder",
-      "name": "AtCoder Beginner Contest 458",
-      "url": "https://atcoder.jp/contests/abc458",
-      "startsAt": "2026-05-16T12:00:00Z",
-      "endsAt": "2026-05-16T13:40:00Z"
-    },
-    {
-      "id": "clist:67283563",
-      "platform": "codeforces",
-      "name": "Codeforces Round 1098 (Div. 2)",
-      "url": "https://codeforces.com/contests/2228",
-      "startsAt": "2026-05-16T14:35:00Z",
-      "endsAt": "2026-05-16T16:50:00Z"
-    },
-    {
       "id": "clist:67536994",
       "platform": "leetcode",
       "name": "Weekly Contest 502",
