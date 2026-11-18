@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T21:57:43Z",
+  "updatedAt": "2026-11-18T11:34:46Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -10,7 +10,7 @@
     {
       "id": "clist:71791364",
       "platform": "codechef",
-      "name": "Starters 265",
+      "name": "Starters 265 (Rated for 6 Star)",
       "url": "https://www.codechef.com/START265",
       "startsAt": "2026-11-18T14:30:00Z",
       "endsAt": "2026-11-18T16:30:00Z"
@@ -128,12 +128,28 @@
       "endsAt": "2026-11-22T14:30:00Z"
     },
     {
+      "id": "clist:72446065",
+      "platform": "codechef",
+      "name": "Starters 266",
+      "url": "https://www.codechef.com/START266",
+      "startsAt": "2026-11-25T14:30:00Z",
+      "endsAt": "2026-11-25T16:30:00Z"
+    },
+    {
       "id": "clist:72170237",
       "platform": "luogu",
       "name": "[CCPC 2026 长春站] CCPC 2026 长春站重现赛 [guzhi, icpc, squad]",
       "url": "https://www.luogu.com.cn/contest/372200",
       "startsAt": "2026-11-26T05:00:00Z",
       "endsAt": "2026-11-26T10:00:00Z"
+    },
+    {
+      "id": "clist:72440662",
+      "platform": "luogu",
+      "name": "【LGR-323-Div.4】洛谷入门赛 #54 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/373991",
+      "startsAt": "2026-11-27T11:00:00Z",
+      "endsAt": "2026-11-27T13:00:00Z"
     },
     {
       "id": "clist:71930595",
@@ -198,6 +214,14 @@
       "url": "https://codeforces.com/contests/2282",
       "startsAt": "2026-12-08T14:35:00Z",
       "endsAt": "2026-12-08T17:05:00Z"
+    },
+    {
+      "id": "clist:72441600",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 488",
+      "url": "https://atcoder.jp/contests/abc488",
+      "startsAt": "2026-12-12T12:00:00Z",
+      "endsAt": "2026-12-12T13:40:00Z"
     },
     {
       "id": "clist:71801549",
