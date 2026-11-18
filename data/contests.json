@@ -1,20 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T11:34:46Z",
+  "updatedAt": "2026-11-18T20:27:20Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:71791364",
-      "platform": "codechef",
-      "name": "Starters 265 (Rated for 6 Star)",
-      "url": "https://www.codechef.com/START265",
-      "startsAt": "2026-11-18T14:30:00Z",
-      "endsAt": "2026-11-18T16:30:00Z"
-    },
     {
       "id": "clist:72170239",
       "platform": "luogu",
@@ -74,7 +66,7 @@
     {
       "id": "clist:71936432",
       "platform": "codeforces",
-      "name": "Codeforces Round (Div. 1)",
+      "name": "Codeforces Round 1136 (Div. 1)",
       "url": "https://codeforces.com/contests/2287",
       "startsAt": "2026-11-21T14:35:00Z",
       "endsAt": "2026-11-21T16:35:00Z"
@@ -82,7 +74,7 @@
     {
       "id": "clist:71936433",
       "platform": "codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1136 (Div. 2)",
       "url": "https://codeforces.com/contests/2288",
       "startsAt": "2026-11-21T14:35:00Z",
       "endsAt": "2026-11-21T16:35:00Z"
@@ -106,7 +98,7 @@
     {
       "id": "clist:72318763",
       "platform": "codeforces",
-      "name": "Codeforces Round (Div. 2)",
+      "name": "Codeforces Round 1137 (Div. 2)",
       "url": "https://codeforces.com/contests/2289",
       "startsAt": "2026-11-22T09:05:00Z",
       "endsAt": "2026-11-22T11:05:00Z"
@@ -126,6 +118,14 @@
       "url": "https://atcoder.jp/contests/arc234",
       "startsAt": "2026-11-22T12:00:00Z",
       "endsAt": "2026-11-22T14:30:00Z"
+    },
+    {
+      "id": "clist:72451662",
+      "platform": "codechef",
+      "name": "Monday Munch - DSA Challenge 030 (Rated)",
+      "url": "https://www.codechef.com/DSAMONDAY030",
+      "startsAt": "2026-11-23T13:30:00Z",
+      "endsAt": "2026-11-23T16:30:00Z"
     },
     {
       "id": "clist:72446065",
