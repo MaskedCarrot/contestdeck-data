@@ -3,14 +3,6 @@
   "month": "2026-05",
   "contests": [
     {
-      "id": "clist:67320781",
-      "platform": "codechef",
-      "name": "Starters 239 (Rated till 5 star)",
-      "url": "https://www.codechef.com/START239",
-      "startsAt": "2026-05-20T14:30:00Z",
-      "endsAt": "2026-05-20T16:30:00Z"
-    },
-    {
       "id": "clist:67641553",
       "platform": "codeforces",
       "name": "Codeforces Round 1099 (Div. 2)",
