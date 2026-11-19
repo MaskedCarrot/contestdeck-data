@@ -1,20 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T20:27:20Z",
+  "updatedAt": "2026-11-19T11:32:51Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:72170239",
-      "platform": "luogu",
-      "name": "[ICPC2026 Nanchang I] ICPC 2026 邀请赛南昌站重现赛 [guzhi, icpc, squad]",
-      "url": "https://www.luogu.com.cn/contest/372198",
-      "startsAt": "2026-11-19T05:00:00Z",
-      "endsAt": "2026-11-19T10:00:00Z"
-    },
     {
       "id": "clist:71748226",
       "platform": "atcoder",
@@ -168,6 +160,14 @@
       "endsAt": "2026-11-28T13:40:00Z"
     },
     {
+      "id": "clist:72475055",
+      "platform": "leetcode",
+      "name": "Weekly Contest 530",
+      "url": "https://leetcode.com/contest/weekly-contest-530",
+      "startsAt": "2026-11-29T02:30:00Z",
+      "endsAt": "2026-11-29T04:00:00Z"
+    },
+    {
       "id": "clist:72243504",
       "platform": "atcoder",
       "name": "AtCoder Heuristic Contest 075",
@@ -198,6 +198,14 @@
       "url": "https://atcoder.jp/contests/abc487",
       "startsAt": "2026-12-05T12:00:00Z",
       "endsAt": "2026-12-05T13:40:00Z"
+    },
+    {
+      "id": "clist:72475054",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 197",
+      "url": "https://leetcode.com/contest/biweekly-contest-197",
+      "startsAt": "2026-12-05T14:30:00Z",
+      "endsAt": "2026-12-05T16:00:00Z"
     },
     {
       "id": "clist:71933633",
@@ -238,6 +246,14 @@
       "url": "https://atcoder.jp/contests/agc080",
       "startsAt": "2026-12-13T12:00:00Z",
       "endsAt": "2026-12-13T15:00:00Z"
+    },
+    {
+      "id": "clist:72475378",
+      "platform": "atcoder",
+      "name": "UNIQUE VISION Programming Contest 2026 (ChristmasAtCoder Beginner Contest 489)",
+      "url": "https://atcoder.jp/contests/abc489",
+      "startsAt": "2026-12-20T12:00:00Z",
+      "endsAt": "2026-12-20T13:40:00Z"
     },
     {
       "id": "clist:71966417",

@@ -273,6 +273,14 @@
       "url": "https://www.codechef.com/START265",
       "startsAt": "2026-11-18T14:30:00Z",
       "endsAt": "2026-11-18T16:30:00Z"
+    },
+    {
+      "id": "clist:72170239",
+      "platform": "luogu",
+      "name": "[ICPC2026 Nanchang I] ICPC 2026 邀请赛南昌站重现赛 [guzhi, icpc, squad]",
+      "url": "https://www.luogu.com.cn/contest/372198",
+      "startsAt": "2026-11-19T05:00:00Z",
+      "endsAt": "2026-11-19T10:00:00Z"
     }
   ]
 }
