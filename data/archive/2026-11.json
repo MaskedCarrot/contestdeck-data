@@ -281,6 +281,30 @@
       "url": "https://www.luogu.com.cn/contest/372198",
       "startsAt": "2026-11-19T05:00:00Z",
       "endsAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "clist:71748226",
+      "platform": "atcoder",
+      "name": "AtCoder 企業対抗リーグ 2026 第3戦",
+      "url": "https://atcoder.jp/contests/c-league2026-3",
+      "startsAt": "2026-11-20T11:00:00Z",
+      "endsAt": "2026-11-20T13:00:00Z"
+    },
+    {
+      "id": "clist:71748227",
+      "platform": "atcoder",
+      "name": "AtCoder 企業対抗リーグ 2026 第3戦(オープンコンテスト)",
+      "url": "https://atcoder.jp/contests/c-league2026-3-open",
+      "startsAt": "2026-11-20T11:00:00Z",
+      "endsAt": "2026-11-20T13:00:00Z"
+    },
+    {
+      "id": "clist:71892755",
+      "platform": "nowcoder",
+      "name": "牛客挑战赛94 [ACM]",
+      "url": "https://ac.nowcoder.com/acm/contest/143407",
+      "startsAt": "2026-11-20T11:00:00Z",
+      "endsAt": "2026-11-20T14:00:00Z"
     }
   ]
 }
