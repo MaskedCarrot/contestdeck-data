@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T11:32:51Z",
+  "updatedAt": "2026-11-20T11:29:44Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -70,6 +70,14 @@
       "url": "https://codeforces.com/contests/2288",
       "startsAt": "2026-11-21T14:35:00Z",
       "endsAt": "2026-11-21T16:35:00Z"
+    },
+    {
+      "id": "clist:72510238",
+      "platform": "luogu",
+      "name": "LXQ OI Round 2 && 胡桃杯 Round 1 [rated, oi]",
+      "url": "https://www.luogu.com.cn/contest/372048",
+      "startsAt": "2026-11-22T00:00:00Z",
+      "endsAt": "2026-11-22T04:30:00Z"
     },
     {
       "id": "clist:72170754",
@@ -238,6 +246,14 @@
       "url": "https://hackerrank.com/contests/hackerrank-orchestrate-december26",
       "startsAt": "2026-12-12T12:30:00Z",
       "endsAt": "2026-12-13T12:30:00Z"
+    },
+    {
+      "id": "clist:72501795",
+      "platform": "luogu",
+      "name": "第二届“⌬杯”蓝桥杯省赛模拟赛 [oi]",
+      "url": "https://www.luogu.com.cn/contest/372249",
+      "startsAt": "2026-12-13T06:00:00Z",
+      "endsAt": "2026-12-13T10:00:00Z"
     },
     {
       "id": "clist:71966416",
