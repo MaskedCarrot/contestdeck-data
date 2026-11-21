@@ -305,6 +305,46 @@
       "url": "https://ac.nowcoder.com/acm/contest/143407",
       "startsAt": "2026-11-20T11:00:00Z",
       "endsAt": "2026-11-20T14:00:00Z"
+    },
+    {
+      "id": "clist:72058077",
+      "platform": "luogu",
+      "name": "【LGR-317-Div.2】洛谷 11 月月赛 II & P.A.TASKS S1 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/365827",
+      "startsAt": "2026-11-21T06:00:00Z",
+      "endsAt": "2026-11-21T11:00:00Z"
+    },
+    {
+      "id": "clist:71646224",
+      "platform": "atcoder",
+      "name": "AtCoder Beginner Contest 485",
+      "url": "https://atcoder.jp/contests/abc485",
+      "startsAt": "2026-11-21T12:00:00Z",
+      "endsAt": "2026-11-21T13:40:00Z"
+    },
+    {
+      "id": "clist:71897665",
+      "platform": "leetcode",
+      "name": "Biweekly Contest 196",
+      "url": "https://leetcode.com/contest/biweekly-contest-196",
+      "startsAt": "2026-11-21T14:30:00Z",
+      "endsAt": "2026-11-21T16:00:00Z"
+    },
+    {
+      "id": "clist:71936432",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1136 (Div. 1)",
+      "url": "https://codeforces.com/contests/2287",
+      "startsAt": "2026-11-21T14:35:00Z",
+      "endsAt": "2026-11-21T16:35:00Z"
+    },
+    {
+      "id": "clist:71936433",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1136 (Div. 2)",
+      "url": "https://codeforces.com/contests/2288",
+      "startsAt": "2026-11-21T14:35:00Z",
+      "endsAt": "2026-11-21T16:35:00Z"
     }
   ]
 }
