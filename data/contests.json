@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T20:09:25Z",
+  "updatedAt": "2026-11-21T10:56:23Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
@@ -99,7 +99,7 @@
       "id": "clist:72451662",
       "platform": "codechef",
       "name": "Monday Munch - DSA Challenge 030 (Rated)",
-      "url": "https://www.codechef.com/DSAMONDAY030",
+      "url": "https://www.codechef.comDSAMONDAY030",
       "startsAt": "2026-11-23T13:30:00Z",
       "endsAt": "2026-11-23T16:30:00Z"
     },
@@ -107,7 +107,7 @@
       "id": "clist:72446065",
       "platform": "codechef",
       "name": "Starters 266",
-      "url": "https://www.codechef.com/START266",
+      "url": "https://www.codechef.comSTART266",
       "startsAt": "2026-11-25T14:30:00Z",
       "endsAt": "2026-11-25T16:30:00Z"
     },
@@ -198,6 +198,14 @@
       "url": "https://www.luogu.com.cn/contest/368856",
       "startsAt": "2026-12-06T06:00:00Z",
       "endsAt": "2026-12-06T09:30:00Z"
+    },
+    {
+      "id": "clist:72543238",
+      "platform": "codeforces",
+      "name": "ICPC 2026 Online Challenge 2 powered by Huawei",
+      "url": "https://codeforces.com/contests/2291",
+      "startsAt": "2026-12-08T11:00:00Z",
+      "endsAt": "2026-12-22T11:00:00Z"
     },
     {
       "id": "clist:71639714",
