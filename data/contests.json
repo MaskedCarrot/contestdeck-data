@@ -1,36 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T19:10:14Z",
+  "updatedAt": "2026-11-22T10:21:32Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:72510238",
-      "platform": "luogu",
-      "name": "LXQ OI Round 2 && 胡桃杯 Round 1 [rated, oi]",
-      "url": "https://www.luogu.com.cn/contest/372048",
-      "startsAt": "2026-11-22T00:00:00Z",
-      "endsAt": "2026-11-22T04:30:00Z"
-    },
-    {
-      "id": "clist:72170754",
-      "platform": "leetcode",
-      "name": "Weekly Contest 529",
-      "url": "https://leetcode.com/contest/weekly-contest-529",
-      "startsAt": "2026-11-22T02:30:00Z",
-      "endsAt": "2026-11-22T04:00:00Z"
-    },
-    {
-      "id": "clist:72184141",
-      "platform": "luogu",
-      "name": "[CPOI] Round 1 [rated, ioi]",
-      "url": "https://www.luogu.com.cn/contest/321119",
-      "startsAt": "2026-11-22T06:00:00Z",
-      "endsAt": "2026-11-22T10:00:00Z"
-    },
     {
       "id": "clist:72318763",
       "platform": "codeforces",

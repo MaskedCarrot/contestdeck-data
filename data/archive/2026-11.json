@@ -30,7 +30,7 @@
       "id": "clist:71730469",
       "platform": "codechef",
       "name": "Monday Munch - DSA Challenge 027 (Rated)",
-      "url": "https://www.codechef.com/DSAMONDAY027",
+      "url": "https://www.codechef.comDSAMONDAY027",
       "startsAt": "2026-11-02T13:30:00Z",
       "endsAt": "2026-11-02T16:30:00Z"
     },
@@ -38,7 +38,7 @@
       "id": "clist:71790868",
       "platform": "codechef",
       "name": "Starters 263 (Rated for 5 Star)",
-      "url": "https://www.codechef.com/START263",
+      "url": "https://www.codechef.comSTART263",
       "startsAt": "2026-11-04T14:30:00Z",
       "endsAt": "2026-11-04T16:30:00Z"
     },
@@ -150,7 +150,7 @@
       "id": "clist:71976045",
       "platform": "codechef",
       "name": "Monday Munch - DSA Challenge 028 (Rated)",
-      "url": "https://www.codechef.com/DSAMONDAY028",
+      "url": "https://www.codechef.comDSAMONDAY028",
       "startsAt": "2026-11-09T13:30:05Z",
       "endsAt": "2026-11-09T16:30:05Z"
     },
@@ -166,7 +166,7 @@
       "id": "clist:71791365",
       "platform": "codechef",
       "name": "Starters 264 (Rated for 6 Star)",
-      "url": "https://www.codechef.com/START264",
+      "url": "https://www.codechef.comSTART264",
       "startsAt": "2026-11-11T14:30:00Z",
       "endsAt": "2026-11-11T16:30:00Z"
     },
@@ -345,6 +345,30 @@
       "url": "https://codeforces.com/contests/2288",
       "startsAt": "2026-11-21T14:35:00Z",
       "endsAt": "2026-11-21T16:35:00Z"
+    },
+    {
+      "id": "clist:72170754",
+      "platform": "leetcode",
+      "name": "Weekly Contest 529",
+      "url": "https://leetcode.com/contest/weekly-contest-529",
+      "startsAt": "2026-11-22T02:30:00Z",
+      "endsAt": "2026-11-22T04:00:00Z"
+    },
+    {
+      "id": "clist:72510238",
+      "platform": "luogu",
+      "name": "LXQ OI Round 2 && 胡桃杯 Round 1 [rated, oi]",
+      "url": "https://www.luogu.com.cn/contest/372048",
+      "startsAt": "2026-11-22T00:00:00Z",
+      "endsAt": "2026-11-22T04:30:00Z"
+    },
+    {
+      "id": "clist:72184141",
+      "platform": "luogu",
+      "name": "[CPOI] Round 1 [rated, ioi]",
+      "url": "https://www.luogu.com.cn/contest/321119",
+      "startsAt": "2026-11-22T06:00:00Z",
+      "endsAt": "2026-11-22T10:00:00Z"
     }
   ]
 }
