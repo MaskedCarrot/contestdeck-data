@@ -377,6 +377,22 @@
       "url": "https://codeforces.com/contests/2289",
       "startsAt": "2026-11-22T09:05:00Z",
       "endsAt": "2026-11-22T11:05:00Z"
+    },
+    {
+      "id": "clist:72369430",
+      "platform": "nowcoder",
+      "name": "牛客周赛 Round 171 [IOI]",
+      "url": "https://ac.nowcoder.com/acm/contest/144189",
+      "startsAt": "2026-11-22T11:00:00Z",
+      "endsAt": "2026-11-22T13:00:00Z"
+    },
+    {
+      "id": "clist:72211075",
+      "platform": "atcoder",
+      "name": "AtCoder Regular Contest++ 234",
+      "url": "https://atcoder.jp/contests/arc234",
+      "startsAt": "2026-11-22T12:00:00Z",
+      "endsAt": "2026-11-22T14:30:00Z"
     }
   ]
 }
