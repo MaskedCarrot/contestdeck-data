@@ -1,20 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T10:21:32Z",
+  "updatedAt": "2026-11-22T11:15:08Z",
   "source": {
     "name": "CLIST",
     "url": "https://clist.by"
   },
   "retentionDays": 183,
   "contests": [
-    {
-      "id": "clist:72318763",
-      "platform": "codeforces",
-      "name": "Codeforces Round 1137 (Div. 2)",
-      "url": "https://codeforces.com/contests/2289",
-      "startsAt": "2026-11-22T09:05:00Z",
-      "endsAt": "2026-11-22T11:05:00Z"
-    },
     {
       "id": "clist:72369430",
       "platform": "nowcoder",

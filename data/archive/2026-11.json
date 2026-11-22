@@ -369,6 +369,14 @@
       "url": "https://www.luogu.com.cn/contest/321119",
       "startsAt": "2026-11-22T06:00:00Z",
       "endsAt": "2026-11-22T10:00:00Z"
+    },
+    {
+      "id": "clist:72318763",
+      "platform": "codeforces",
+      "name": "Codeforces Round 1137 (Div. 2)",
+      "url": "https://codeforces.com/contests/2289",
+      "startsAt": "2026-11-22T09:05:00Z",
+      "endsAt": "2026-11-22T11:05:00Z"
     }
   ]
 }
